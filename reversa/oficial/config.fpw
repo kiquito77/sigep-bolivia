@@ -1,0 +1,24 @@
+CODEPAGE = 1250
+RESOURCE = OFF
+MVCOUNT  = 8092
+SCREEN   = OFF
+COMMAND  = _Screen.Visible = .T.
+
+ALLOWEXTERNAL = ON
+
+_BROWSER = ""
+_BUILDER = ""
+_FOXREF = ""
+_CONVERTER = ""
+_COVERAGE
+_GALLERY = ""
+_GENGRAPH = ""
+_GENHTML = ""
+_GENMENU = ""
+_GENPD = ""
+_GENSCRN = ""
+_GENXTAB = ""
+_TASKPANE = ""
+_TOOLBOX = ""
+_TRANSPORT = ""
+_WIZARD = ""

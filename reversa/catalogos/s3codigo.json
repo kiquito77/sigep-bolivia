@@ -1,0 +1,104 @@
+[
+ {
+  "CODTR": "02",
+  "DES": "Compromiso",
+  "T_COD": "PPT",
+  "BITS": "100000"
+ },
+ {
+  "CODTR": "05",
+  "DES": "Pago",
+  "T_COD": "COT",
+  "BITS": "000100"
+ },
+ {
+  "CODTR": "07",
+  "DES": "Compromiso-Devengado",
+  "T_COD": "GCO",
+  "BITS": "111000"
+ },
+ {
+  "CODTR": "09",
+  "DES": "Compromiso-Devengado-Pagado",
+  "T_COD": "GCT",
+  "BITS": "111100"
+ },
+ {
+  "CODTR": "10",
+  "DES": "Devengado",
+  "T_COD": "GCO",
+  "BITS": "011000"
+ },
+ {
+  "CODTR": "11",
+  "DES": "Devengado - Pagado",
+  "T_COD": "GCT",
+  "BITS": "011100"
+ },
+ {
+  "CODTR": "13",
+  "DES": "Ingreso Devengado",
+  "T_COD": "RCO",
+  "BITS": "000010"
+ },
+ {
+  "CODTR": "14",
+  "DES": "Ingreso de Caja",
+  "T_COD": "COT",
+  "BITS": "000001"
+ },
+ {
+  "CODTR": "15",
+  "DES": "Ingreso Devengado - Percibido",
+  "T_COD": "RCT",
+  "BITS": "000011"
+ },
+ {
+  "CODTR": "18",
+  "DES": "Gasto Comprometido Devengado - Pagado - Ingreso Devengado - Percibido",
+  "T_COD": "PCO",
+  "BITS": "111010"
+ },
+ {
+  "CODTR": "23",
+  "DES": "Asientos de Cierre de Ejercicio",
+  "T_COD": "CON",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "24",
+  "DES": "Asientos de Ajuste de la Contabilidad",
+  "T_COD": "CON",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "25",
+  "DES": "Distribucion de Presupuesto",
+  "T_COD": "PPT",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "26",
+  "DES": "Reversión de Comprobantes",
+  "T_COD": "REV",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "01",
+  "DES": "Traspasos Presupuestarios",
+  "T_COD": "PPT",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "30",
+  "DES": "Distribucion de Reformulado/Modificacion (SIGMA)",
+  "T_COD": "PPT",
+  "BITS": "000000"
+ },
+ {
+  "CODTR": "29",
+  "DES": "Traspaso de Presupuesto entre UEs",
+  "T_COD": "PPT",
+  "BITS": "000000"
+ }
+]

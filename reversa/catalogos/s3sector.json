@@ -1,0 +1,1689 @@
+[
+ {
+  "SECTOR": "010000",
+  "GRUPO": "",
+  "DES": "AGROPECUARIO",
+  "SIGLA": "AGROP",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010100",
+  "GRUPO": "",
+  "DES": "AGRICOLA",
+  "SIGLA": "AGRIC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010101",
+  "GRUPO": "",
+  "DES": "INVESTIGACION AGRICOLA",
+  "SIGLA": "AGR01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010102",
+  "GRUPO": "",
+  "DES": "EXTENSION Y CAPACITACION",
+  "SIGLA": "AGR02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010103",
+  "GRUPO": "",
+  "DES": "RIEGO",
+  "SIGLA": "AGR03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010104",
+  "GRUPO": "",
+  "DES": "MICRORIEGO Y OTROS(ATAJOS;RESER. Y PERFO. DE POZOS)",
+  "SIGLA": "AGR04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010105",
+  "GRUPO": "",
+  "DES": "DRENAJES",
+  "SIGLA": "AGR05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010106",
+  "GRUPO": "",
+  "DES": "SANIDAD VEGETAL",
+  "SIGLA": "AGR06",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010107",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA DE APOYO AGRICOLA",
+  "SIGLA": "AGR07",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010200",
+  "GRUPO": "",
+  "DES": "PECUARIA",
+  "SIGLA": "PECUA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010201",
+  "GRUPO": "",
+  "DES": "INVESTIGACION PECUARIA",
+  "SIGLA": "PEC01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010202",
+  "GRUPO": "",
+  "DES": "EXTENSION Y CAPACITACION PECUARIA",
+  "SIGLA": "PEC02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010203",
+  "GRUPO": "",
+  "DES": "FOMENTO GANADERO",
+  "SIGLA": "PEC03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010204",
+  "GRUPO": "",
+  "DES": "SANIDAD ANIMAL",
+  "SIGLA": "PEC04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010205",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA DE APOYO PECUARIO",
+  "SIGLA": "PEC05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010300",
+  "GRUPO": "",
+  "DES": "SILVICULTURA Y PESCA",
+  "SIGLA": "SILVI",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010301",
+  "GRUPO": "",
+  "DES": "DESARROLLO PESQUERO",
+  "SIGLA": "SIL03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010302",
+  "GRUPO": "",
+  "DES": "AGROSILVOPASTORIL",
+  "SIGLA": "SIL04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010303",
+  "GRUPO": "",
+  "DES": ".",
+  "SIGLA": ".",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010400",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT01",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010401",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA AGROPECUARIO",
+  "SIGLA": "MAGRP",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "010500",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR01",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "010501",
+  "GRUPO": "",
+  "DES": "OTROS AGROPECUARIO",
+  "SIGLA": "OTAGRP",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "020000",
+  "GRUPO": "",
+  "DES": "MINERO",
+  "SIGLA": "MINER",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "020100",
+  "GRUPO": "",
+  "DES": "MINERO",
+  "SIGLA": "MIN",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "020101",
+  "GRUPO": "",
+  "DES": "PROSPECCION Y EXPLORACION MINERA",
+  "SIGLA": "MIN01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "020200",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT02",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "020201",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA MINERIA",
+  "SIGLA": "MMIN",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "020300",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR02",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "020301",
+  "GRUPO": "",
+  "DES": "OTROS MINERIA",
+  "SIGLA": "OTRMIN",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "030000",
+  "GRUPO": "",
+  "DES": "INDUSTRIA Y TURISMO",
+  "SIGLA": "INDUS",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030100",
+  "GRUPO": "",
+  "DES": "AGROINDUSTRIA",
+  "SIGLA": "AGROI",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030101",
+  "GRUPO": "",
+  "DES": "FOMENTO A LA PRODUCCION AGROINDUSTRIAL",
+  "SIGLA": "FAGR01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "030200",
+  "GRUPO": "",
+  "DES": "INDUSTRIA MANUFACTURERA",
+  "SIGLA": "MANUF",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030201",
+  "GRUPO": "",
+  "DES": "FOMENTO A LA PRODUCCION Y LA MICROEMPRESA",
+  "SIGLA": "MAN01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "030300",
+  "GRUPO": "",
+  "DES": "TURISMO",
+  "SIGLA": "TURIS",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030301",
+  "GRUPO": "",
+  "DES": "PROMOCION Y DESARROLLO TURISTICO",
+  "SIGLA": "TUR01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "030400",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT03",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030401",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA INDUSTRIA Y TURISMO",
+  "SIGLA": "MINDYT",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "030500",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR03",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "030501",
+  "GRUPO": "",
+  "DES": "OTROS INDUSTRIA Y TURISMO",
+  "SIGLA": "OTRIND",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040000",
+  "GRUPO": "",
+  "DES": "HIDROCARBUROS",
+  "SIGLA": "HIDRO",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "040100",
+  "GRUPO": "",
+  "DES": "HIDROCARBUROS",
+  "SIGLA": "HIDROS",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "040101",
+  "GRUPO": "",
+  "DES": "PROSPECCION Y EXPLORACION DE HIDROCARBUROS",
+  "SIGLA": "HID01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040102",
+  "GRUPO": "",
+  "DES": "EXPLOTACION O PRODUCCION DE HIDROCARBUROS",
+  "SIGLA": "HID02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040103",
+  "GRUPO": "",
+  "DES": "INDUSTRIALIZACION DE HIDROCARBUROS",
+  "SIGLA": "HID03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040104",
+  "GRUPO": "",
+  "DES": "TRANSPORTE DE HIDROCARBUROS",
+  "SIGLA": "HID04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040105",
+  "GRUPO": "",
+  "DES": "COMERCIALIZACION DE HIDROCARBUROS",
+  "SIGLA": "HID05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040200",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT04",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "040201",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA HIDROCARBUROS",
+  "SIGLA": "MHIDRO",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "040300",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR04",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "040301",
+  "GRUPO": "",
+  "DES": "OTROS HIDROCARBUROS",
+  "SIGLA": "OTRHDR",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050000",
+  "GRUPO": "",
+  "DES": "ENERGIA",
+  "SIGLA": "ENERG",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "050100",
+  "GRUPO": "",
+  "DES": "ENERGIA ELECTRICA",
+  "SIGLA": "ENELC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "050101",
+  "GRUPO": "",
+  "DES": "GENERACION DE ENERGIA ELECTRICA",
+  "SIGLA": "ENE01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050102",
+  "GRUPO": "",
+  "DES": "TRANSMISION DE ENERGIA ELECTRICA",
+  "SIGLA": "ENE02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050103",
+  "GRUPO": "",
+  "DES": "ELECTRIFICACION RURAL",
+  "SIGLA": "ENE03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050200",
+  "GRUPO": "",
+  "DES": "OTROS ENERGIA",
+  "SIGLA": "NELECT",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "050201",
+  "GRUPO": "",
+  "DES": "ENERGIAS ALTERNATIVAS",
+  "SIGLA": "EALT01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050202",
+  "GRUPO": "",
+  "DES": "OTROS ENERGIA",
+  "SIGLA": "EALT02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "050300",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT05",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "050301",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA ENERGIA",
+  "SIGLA": "MENER",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060000",
+  "GRUPO": "",
+  "DES": "TRANSPORTES",
+  "SIGLA": "TRANS",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060100",
+  "GRUPO": "",
+  "DES": "CAMINERO",
+  "SIGLA": "CAMIN",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060101",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION CARRETERAS PAVIMENTADAS",
+  "SIGLA": "CAM01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060102",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION CARRETERAS NO PAVIMENTADAS",
+  "SIGLA": "CAM02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060103",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE CAMINOS VECINALES",
+  "SIGLA": "CAM03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060104",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE PUENTES",
+  "SIGLA": "CAM04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060105",
+  "GRUPO": "",
+  "DES": "MEJORAMIENTO Y MANTENIMIENTO VIAL",
+  "SIGLA": "CAM05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060106",
+  "GRUPO": "",
+  "DES": "MEJORAMIENTO Y MANTENIMIENTO CAMINOS VECINALES",
+  "SIGLA": "CAM06",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060200",
+  "GRUPO": "",
+  "DES": "FERROVIARIO",
+  "SIGLA": "FERRO",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060201",
+  "GRUPO": "",
+  "DES": "EQUIPO DE TRACCION Y MATERIAL RODANTE",
+  "SIGLA": "FER01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060202",
+  "GRUPO": "",
+  "DES": "REHABILITACION DE LINEAS FERREAS",
+  "SIGLA": "FER02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060300",
+  "GRUPO": "",
+  "DES": "AEREO",
+  "SIGLA": "AEREO",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060301",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE AEROPUERTOS",
+  "SIGLA": "AER01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060302",
+  "GRUPO": "",
+  "DES": "MEJORAMIENTO Y MANTENIMIENTO DE AEROPUERTOS",
+  "SIGLA": "AER02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060303",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE PISTAS",
+  "SIGLA": "AER03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060304",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE TERMINALES AEREAS",
+  "SIGLA": "AER04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060305",
+  "GRUPO": "",
+  "DES": "EQUIPAMIENTO PARA LA NAVEGACION Y SERVICIOS AUXILIARES",
+  "SIGLA": "AER05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060400",
+  "GRUPO": "",
+  "DES": "FLUVIAL Y LACUSTRE",
+  "SIGLA": "FLUVI",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060401",
+  "GRUPO": "",
+  "DES": "MEJORAS PARA LA NAVEGACION",
+  "SIGLA": "FLU01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060402",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION Y EQUIPAMIENTO DE PUERTOS",
+  "SIGLA": "FLU02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060500",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT06",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060501",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA TRANSPORTES",
+  "SIGLA": "MTRNS",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "060600",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR06",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "060601",
+  "GRUPO": "",
+  "DES": "OTROS TRANSPORTES",
+  "SIGLA": "OTRTRS",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070000",
+  "GRUPO": "",
+  "DES": "COMUNICACIONES",
+  "SIGLA": "COMUN",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "070100",
+  "GRUPO": "",
+  "DES": "TELECOMUNICACIONES",
+  "SIGLA": "TELEC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "070101",
+  "GRUPO": "",
+  "DES": "EQUIPAMIENTO DE TELECOMUNICACIONES",
+  "SIGLA": "TEL01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070102",
+  "GRUPO": "",
+  "DES": "CONSTRUCCIONES E INFRAESTRUCTURA",
+  "SIGLA": "TEL02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070200",
+  "GRUPO": "",
+  "DES": "SERVICIO POSTAL",
+  "SIGLA": "POSTA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "070201",
+  "GRUPO": "",
+  "DES": "EQUIPAMIENTO DE SERVICIO POSTAL",
+  "SIGLA": "POS01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070202",
+  "GRUPO": "",
+  "DES": "CONSTRUCCIONES E INFRAESTRUCTURA DE CORREOS",
+  "SIGLA": "POS02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070300",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT07",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "070301",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA COMUNICACIONES",
+  "SIGLA": "MCOM",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "070400",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR07",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "070401",
+  "GRUPO": "",
+  "DES": "OTROS COMUNICACIONES",
+  "SIGLA": "OTRCOM",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080000",
+  "GRUPO": "",
+  "DES": "SALUD Y SEGURIDAD SOCIAL",
+  "SIGLA": "SALUD",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080100",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA DE SALUD",
+  "SIGLA": "INFSA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080101",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION Y EQUIPAMIENTO DE HOSPITALES",
+  "SIGLA": "INSAL01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080102",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION  Y EQUIPAMIENTO DE CENTROS DE SALUD",
+  "SIGLA": "INSAL02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080103",
+  "GRUPO": "",
+  "DES": "OTROS INFRAESTRUCTURA DE SALUD",
+  "SIGLA": "INSAL03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080200",
+  "GRUPO": "",
+  "DES": "PLANIFICACION Y PREVENCION DE SALUD",
+  "SIGLA": "PLANIF",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080201",
+  "GRUPO": "",
+  "DES": "PLANIFICACION Y EDUCACION PARA LA SALUD",
+  "SIGLA": "PLA01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080202",
+  "GRUPO": "",
+  "DES": "EPIDEMIOLOGIA",
+  "SIGLA": "PLA02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080203",
+  "GRUPO": "",
+  "DES": "ATENCION MADRE NIÑO",
+  "SIGLA": "PLA03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080204",
+  "GRUPO": "",
+  "DES": "SALUD OCUPACIONAL",
+  "SIGLA": "PLA04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080205",
+  "GRUPO": "",
+  "DES": "SEGURIDAD ALIMENTARIA",
+  "SIGLA": "PLA05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080300",
+  "GRUPO": "",
+  "DES": "SEGURIDAD SOCIAL",
+  "SIGLA": "SEGSOC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080301",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA Y EQUIPAMIENTO CAJAS DE SALUD",
+  "SIGLA": "ISEG01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080302",
+  "GRUPO": "",
+  "DES": "CONST.Y EQUIP.DE ORFANATOS;HOGARES;ALBERGUES;GUARDERIAS Y OT",
+  "SIGLA": "ISOC01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080400",
+  "GRUPO": "",
+  "DES": "OTROS SALUD PUBLICA",
+  "SIGLA": "OTR09",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080401",
+  "GRUPO": "",
+  "DES": "ATENCION PRIMARIA EN SALUD",
+  "SIGLA": "ATPRIM",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080402",
+  "GRUPO": "",
+  "DES": "PROGRAMAS INTEGRALES DE SALUD",
+  "SIGLA": "PGRSINT",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080403",
+  "GRUPO": "",
+  "DES": "OTROS SALUD",
+  "SIGLA": "OTRSLD",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "080500",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT09",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "080501",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA SALUD",
+  "SIGLA": "MULSAL",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090000",
+  "GRUPO": "",
+  "DES": "EDUCACION Y CULTURA",
+  "SIGLA": "EDUCA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090100",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA DE EDUCACION",
+  "SIGLA": "INFEDU",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090101",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION Y EQUIPAMIENTO  DE ESCUELAS Y COLEGIOS",
+  "SIGLA": "INFED01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090102",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION Y EQUIP. DE CENTROS DE EDUCACION NO FORMAL",
+  "SIGLA": "INFED02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090103",
+  "GRUPO": "",
+  "DES": "INFRAESTRUCTURA DE EDUCACION SUPERIOR",
+  "SIGLA": "INFED03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090104",
+  "GRUPO": "",
+  "DES": "OTRA INFRAESTRUCTURA EDUCATIVA",
+  "SIGLA": "INFED04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090200",
+  "GRUPO": "",
+  "DES": "EDUCACION FORMAL",
+  "SIGLA": "EDFOR",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090201",
+  "GRUPO": "",
+  "DES": "FORMACION DOCENTE",
+  "SIGLA": "EDF01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090202",
+  "GRUPO": "",
+  "DES": "OTROS EDUCACION FORMAL",
+  "SIGLA": "EDF02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090300",
+  "GRUPO": "",
+  "DES": "EDUCACION NO FORMAL",
+  "SIGLA": "EDNFO",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090301",
+  "GRUPO": "",
+  "DES": "ALFABETIZACION",
+  "SIGLA": "EDN01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090302",
+  "GRUPO": "",
+  "DES": "EDUCACION POPULAR",
+  "SIGLA": "EDN02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090303",
+  "GRUPO": "",
+  "DES": "FORMACION DE MANO DE OBRA",
+  "SIGLA": "EDN03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090304",
+  "GRUPO": "",
+  "DES": "OTROS EDUCACION NO FORMAL",
+  "SIGLA": "EDN04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090400",
+  "GRUPO": "",
+  "DES": "CULTURA",
+  "SIGLA": "CULTU",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090401",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION; REFACCION Y EQUIP. DE CENTROS CULTURALES",
+  "SIGLA": "CUL01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090402",
+  "GRUPO": "",
+  "DES": "PROGRAMAS DE DESARROLLO CULTURAL",
+  "SIGLA": "CUL02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090500",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT10",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090501",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA EDUCACION",
+  "SIGLA": "MEDUC",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "090600",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR10",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "090601",
+  "GRUPO": "",
+  "DES": "OTROS EDUCACION",
+  "SIGLA": "OTREDU",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100000",
+  "GRUPO": "",
+  "DES": "SANEAMIENTO BASICO",
+  "SIGLA": "SANEA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100100",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE",
+  "SIGLA": "AGUA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100101",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE EN CAPITALES DE DEPARTAMENTO",
+  "SIGLA": "AGU01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100102",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE EN CIUDADES INTERMEDIAS",
+  "SIGLA": "AGU02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100103",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE EN POBLADOS RURALES",
+  "SIGLA": "AGU03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100104",
+  "GRUPO": "",
+  "DES": "PERFORACION DE POZOS PARA AGUA POTABLE",
+  "SIGLA": "AGU04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100200",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO",
+  "SIGLA": "ALCAN",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100201",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO EN CAPITALES DE DEPARTAMENTO",
+  "SIGLA": "ALC01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100202",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO EN CIUDADES INTERMEDIAS",
+  "SIGLA": "ALC02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100203",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO EN POBLADOS RURALES",
+  "SIGLA": "ALC03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100204",
+  "GRUPO": "",
+  "DES": "LETRINIZACION",
+  "SIGLA": "ALC04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100205",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO PLUVIAL EN CAPITALES DE DEPARTAMENTO",
+  "SIGLA": "ALC05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100206",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO PLUVIAL EN CIUDADES INTERMEDIAS",
+  "SIGLA": "ALC06",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100207",
+  "GRUPO": "",
+  "DES": "ALCANTARILLADO PLUVIAL EN POBLADOS RURALES",
+  "SIGLA": "ALC07",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100300",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE Y ALCANTARILLADO",
+  "SIGLA": "AG-ALC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100301",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE Y ALCANTARILLADO EN CAPITALES DE DEPARTAMENTO",
+  "SIGLA": "AG-01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100302",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE Y ALCANTARILLADO EN CIUDADES INTERMEDIAS",
+  "SIGLA": "AG-02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100303",
+  "GRUPO": "",
+  "DES": "AGUA POTABLE Y ALCANTARILLADO EN POBLADOS RURALES",
+  "SIGLA": "AG-03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100305",
+  "GRUPO": "",
+  "DES": "AGUA Y LETRINIZACION",
+  "SIGLA": "AG-04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100400",
+  "GRUPO": "",
+  "DES": "TRATAMIENTO DE RESIDUOS SOLIDOS",
+  "SIGLA": "TRDESOL",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100401",
+  "GRUPO": "",
+  "DES": "RECOLECCION Y ELIMINACION DE DESECHOS SOLIDOS",
+  "SIGLA": "SOL01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100500",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT11",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100501",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA SANEAMIENTO BASICO",
+  "SIGLA": "MSANB",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "100600",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR11",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "100601",
+  "GRUPO": "",
+  "DES": "OTROS SANEAMIENTO BASICO",
+  "SIGLA": "OTRSB",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110000",
+  "GRUPO": "",
+  "DES": "URBANISMO Y VIVIENDA",
+  "SIGLA": "URBVIV",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "110100",
+  "GRUPO": "",
+  "DES": "URBANISMO",
+  "SIGLA": "URBAN",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "110101",
+  "GRUPO": "",
+  "DES": "PLANIFICACION URBANA Y URBANIZACION",
+  "SIGLA": "URB01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110102",
+  "GRUPO": "",
+  "DES": "EQUIPAMIENTO E INFRAESTRUCTURA URBANA",
+  "SIGLA": "URB02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110103",
+  "GRUPO": "",
+  "DES": "EQUIPAMIENTO E INFRAESTRUCTURA DEPORTIVA",
+  "SIGLA": "URB03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110200",
+  "GRUPO": "",
+  "DES": "VIVIENDA",
+  "SIGLA": "VIVIIE",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "110201",
+  "GRUPO": "",
+  "DES": "PLANIFICACION PARA LA DOTACION DE LA VIVIENDA",
+  "SIGLA": "VIV01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110300",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT12",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "110301",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA URBANISMO",
+  "SIGLA": "MURBYV",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "110400",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR12",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "110401",
+  "GRUPO": "",
+  "DES": "OTROS URBANISMO",
+  "SIGLA": "OTRURB",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120000",
+  "GRUPO": "",
+  "DES": "RECURSOS HIDRICOS",
+  "SIGLA": "REC-H",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "120100",
+  "GRUPO": "",
+  "DES": "APROVECHAMIENTO DE RECURSOS HIDRICOS",
+  "SIGLA": "APROV",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "120101",
+  "GRUPO": "",
+  "DES": "CONSTRUCCION DE ATAJADOS Y RESERVORIOS",
+  "SIGLA": "APR01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120102",
+  "GRUPO": "",
+  "DES": "PERFORACION DE POZOS",
+  "SIGLA": "APR02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120200",
+  "GRUPO": "",
+  "DES": "MANEJO INTEGRAL DE CUENCAS",
+  "SIGLA": "CTRL",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "120201",
+  "GRUPO": "",
+  "DES": "DEFENSIVOS FLUVIALES",
+  "SIGLA": "CTR01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120202",
+  "GRUPO": "",
+  "DES": "CONTROL DE AGUA Y EROSION",
+  "SIGLA": "CTR02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120203",
+  "GRUPO": "",
+  "DES": "CONTROL DE CARCAVAS Y AVENIDAS",
+  "SIGLA": "CTR03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120204",
+  "GRUPO": "",
+  "DES": "CANALIZACION DE RIOS",
+  "SIGLA": "CTR04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120205",
+  "GRUPO": "",
+  "DES": "GESTION Y MANEJO DE CUENCAS",
+  "SIGLA": "CTR05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120300",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MULT13",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "120301",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA RECURSOS HIDRICOS",
+  "SIGLA": "MHIDR",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "120400",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR13",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "120401",
+  "GRUPO": "",
+  "DES": "OTROS RECURSOS HIDRICOS",
+  "SIGLA": "OTRHID",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "130000",
+  "GRUPO": "",
+  "DES": "COMERCIO Y FINANZAS",
+  "SIGLA": "COMER",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "130100",
+  "GRUPO": "",
+  "DES": "ASUNTOS COMERCIALES Y LABORALES",
+  "SIGLA": "COM01",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "130100",
+  "GRUPO": "",
+  "DES": "ASUNTOS COMERCIALES Y LABORALES",
+  "SIGLA": "COM01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "130200",
+  "GRUPO": "",
+  "DES": "SUPERVISION DE LA BANCA Y SEGUROS",
+  "SIGLA": "COM02",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "130200",
+  "GRUPO": "",
+  "DES": "SUPERVISION DE LA BANCA Y SEGUROS",
+  "SIGLA": "COM02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140000",
+  "GRUPO": "",
+  "DES": "ADMINISTRACION GENERAL",
+  "SIGLA": "AGUB",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140100",
+  "GRUPO": "",
+  "DES": "PODER LEGISLATIVO",
+  "SIGLA": "LEG",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140100",
+  "GRUPO": "",
+  "DES": "PODER LEGISLATIVO",
+  "SIGLA": "LEG",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140200",
+  "GRUPO": "",
+  "DES": "ADMINISTRACION SUPERIOR EJECUTIVA",
+  "SIGLA": "EJE",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140200",
+  "GRUPO": "",
+  "DES": "ADMINISTRACION SUPERIOR EJECUTIVA",
+  "SIGLA": "EJE",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140300",
+  "GRUPO": "",
+  "DES": "ADMINISTRACION FINANCIERA",
+  "SIGLA": "ADF",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140300",
+  "GRUPO": "",
+  "DES": "ADMINISTRACION FINANCIERA",
+  "SIGLA": "ADF",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140400",
+  "GRUPO": "",
+  "DES": "RELACIONES EXTERIORES",
+  "SIGLA": "REXT",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140400",
+  "GRUPO": "",
+  "DES": "RELACIONES EXTERIORES",
+  "SIGLA": "REXT",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140500",
+  "GRUPO": "",
+  "DES": "INFORMACION ESTADISTICA Y PLANIFICACION",
+  "SIGLA": "EST",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140500",
+  "GRUPO": "",
+  "DES": "INFORMACION ESTADISTICA Y PLANIFICACION",
+  "SIGLA": "EST",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140600",
+  "GRUPO": "",
+  "DES": "SERVICIOS DE PERSONAL",
+  "SIGLA": "SPER",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140600",
+  "GRUPO": "",
+  "DES": "SERVICIOS DE PERSONAL",
+  "SIGLA": "SPER",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "140700",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR14",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "140700",
+  "GRUPO": "",
+  "DES": "OTROS",
+  "SIGLA": "OTR14",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "150000",
+  "GRUPO": "",
+  "DES": "JUSTICIA Y POLICIA",
+  "SIGLA": "JUST",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "150100",
+  "GRUPO": "",
+  "DES": "SERVICIOS POLICIALES",
+  "SIGLA": "POL",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "150100",
+  "GRUPO": "",
+  "DES": "SERVICIOS POLICIALES",
+  "SIGLA": "POL",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "150200",
+  "GRUPO": "",
+  "DES": "SISTEMA PENITENCIARIO",
+  "SIGLA": "PENT",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "150200",
+  "GRUPO": "",
+  "DES": "SISTEMA PENITENCIARIO",
+  "SIGLA": "PENT",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "150300",
+  "GRUPO": "",
+  "DES": "PODER JUDICIAL",
+  "SIGLA": "JUD",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "150300",
+  "GRUPO": "",
+  "DES": "PODER JUDICIAL",
+  "SIGLA": "JUD",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "160000",
+  "GRUPO": "",
+  "DES": "DEFENSA NACIONAL",
+  "SIGLA": "DEF",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "160100",
+  "GRUPO": "",
+  "DES": "DEFENSA MILITAR",
+  "SIGLA": "DEFM",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "160100",
+  "GRUPO": "",
+  "DES": "DEFENSA MILITAR",
+  "SIGLA": "DEFM",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "160200",
+  "GRUPO": "",
+  "DES": "DEFENSA CIVIL",
+  "SIGLA": "DEFC",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "160200",
+  "GRUPO": "",
+  "DES": "DEFENSA CIVIL",
+  "SIGLA": "DEFC",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "180000",
+  "GRUPO": "",
+  "DES": "DEUDA PUBLICA",
+  "SIGLA": "DEUDA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "180100",
+  "GRUPO": "",
+  "DES": "INTERESES DE LA DEUDA PUBLICA Y OTROS GASTOS",
+  "SIGLA": "DEU01",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "180100",
+  "GRUPO": "",
+  "DES": "INTERESES DE LA DEUDA PUBLICA Y OTROS GASTOS",
+  "SIGLA": "DEU01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "190000",
+  "GRUPO": "",
+  "DES": "MULTISECTORIAL",
+  "SIGLA": "MULTI",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "190100",
+  "GRUPO": "",
+  "DES": "ESTUDIOS PARA EL DESARROLLO",
+  "SIGLA": "DESRUR",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "190101",
+  "GRUPO": "",
+  "DES": "ESTUDIOS BASICOS PARA EL DESARROLLO",
+  "SIGLA": "DES01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "190102",
+  "GRUPO": "",
+  "DES": "PROGRAMAS DE DESARROLLO RURAL SOSTENIBLE",
+  "SIGLA": "DES02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "190103",
+  "GRUPO": "",
+  "DES": "ORDENAMIENTO TERRITORIAL",
+  "SIGLA": "DES03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "190200",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MPRG19",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "190201",
+  "GRUPO": "",
+  "DES": "PROGRAMAS MULTISECTORIALES",
+  "SIGLA": "MULTSEC",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "190300",
+  "GRUPO": "",
+  "DES": "FORTALECIMIENTO INSTITUCIONAL",
+  "SIGLA": "FORINST",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "190301",
+  "GRUPO": "",
+  "DES": "PROGRAMAS DE FORTALECIMIENTO INSTITUCIONAL",
+  "SIGLA": "FORT01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200000",
+  "GRUPO": "",
+  "DES": "RECURSOS NATURALES Y MEDIO AMBIENTE",
+  "SIGLA": "RNMA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "200100",
+  "GRUPO": "",
+  "DES": "CONSERVACION Y PROTECCION DEL MEDIO AMBIENTE",
+  "SIGLA": "CPMA",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "200101",
+  "GRUPO": "",
+  "DES": "ESTUDIOS DE RECURSOS NATURALES",
+  "SIGLA": "CPMA01",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200102",
+  "GRUPO": "",
+  "DES": "MENEJO DE PARQUES Y AREAS PROTEGIDAS",
+  "SIGLA": "CPMA02",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200103",
+  "GRUPO": "",
+  "DES": "BIODIVERSIDAD",
+  "SIGLA": "CPMA03",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200104",
+  "GRUPO": "",
+  "DES": "FORESTACION",
+  "SIGLA": "CPMA04",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200105",
+  "GRUPO": "",
+  "DES": "REFORESTACION",
+  "SIGLA": "CPMA05",
+  "TIPO": "S"
+ },
+ {
+  "SECTOR": "200200",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA",
+  "SIGLA": "MPRG20",
+  "TIPO": "N"
+ },
+ {
+  "SECTOR": "200201",
+  "GRUPO": "",
+  "DES": "MULTIPROGRAMA RECURSOS NATURALES Y MEDIO AMBIENTE",
+  "SIGLA": "MPRGRN",
+  "TIPO": "S"
+ }
+]

@@ -1,0 +1,4738 @@
+[
+ {
+  "ET": "0000",
+  "DES": ".",
+  "SIGLA": ".",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0006",
+  "DES": "Vicepresidencia del Estado Plurinacional",
+  "SIGLA": "VPEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0010",
+  "DES": "Ministerio de Relaciones Exteriores",
+  "SIGLA": "MIN-RREE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0015",
+  "DES": "Ministerio de Gobierno",
+  "SIGLA": "MIN-GOB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0016",
+  "DES": "Ministerio de Educación",
+  "SIGLA": "MIN-EDU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0020",
+  "DES": "Ministerio de Defensa",
+  "SIGLA": "MIN-DEF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0025",
+  "DES": "Ministerio de la Presidencia",
+  "SIGLA": "MIN-PRES",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0030",
+  "DES": "Ministerio de Justicia",
+  "SIGLA": "MIN-JUST",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0035",
+  "DES": "Ministerio de Economía y Finanzas Públicas",
+  "SIGLA": "MIN-EFP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0041",
+  "DES": "Ministerio de Desarrollo Productivo y Economía Plural",
+  "SIGLA": "MIN-DEPEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0046",
+  "DES": "Ministerio de Salud",
+  "SIGLA": "MIN-SAL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0047",
+  "DES": "Ministerio de Desarrollo Rural y Tierras",
+  "SIGLA": "MIN-DRT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0048",
+  "DES": "Ministerio de Deportes",
+  "SIGLA": "MIN-DEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0050",
+  "DES": "Min de Transparencia Inst. y Lucha Contra la Corrupción",
+  "SIGLA": "MIN-TILCC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0051",
+  "DES": "Ministerio de Autonomias",
+  "SIGLA": "MIN-AUT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0052",
+  "DES": "Ministerio de Culturas y Turismo",
+  "SIGLA": "MIN-CULT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0066",
+  "DES": "Ministerio de Planificación del Desarrollo",
+  "SIGLA": "MIN-PD",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0070",
+  "DES": "Ministerio de Trabajo, Empleo y Previsión Social",
+  "SIGLA": "MIN-TEPS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0076",
+  "DES": "Ministerio de Minería y Metalurgia",
+  "SIGLA": "MIN-MM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0078",
+  "DES": "Ministerio de Hidrocarburos y Energía",
+  "SIGLA": "MIN-HE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0081",
+  "DES": "Ministerio de Obras Públicas, Servicios y Vivienda",
+  "SIGLA": "MIN-OPSV",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0086",
+  "DES": "Ministerio de Medio Ambiente y Agua",
+  "SIGLA": "MIN-MAA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0087",
+  "DES": "Ministerio de Comunicación",
+  "SIGLA": "MIN-COM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0095",
+  "DES": "Consejo Supremo de Defensa Plurinacional",
+  "SIGLA": "COSDEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0099",
+  "DES": "Tesoro General de la Nación",
+  "SIGLA": "TGN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0108",
+  "DES": "Orquesta Sinfónica Nacional",
+  "SIGLA": "OSN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0109",
+  "DES": "Conservatorio Plurinacional de Musica",
+  "SIGLA": "COPLUMU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0111",
+  "DES": "Instituto Boliviano de la Ceguera",
+  "SIGLA": "IBC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0112",
+  "DES": "Comité Nacional de la Persona con Discapacidad",
+  "SIGLA": "CONALPEDIS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0113",
+  "DES": "Fondo de Inversión para el Deporte",
+  "SIGLA": "FID",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0115",
+  "DES": "Inst. Boliviano del Dep. la Educ. Física y la Recreación",
+  "SIGLA": "IBDEFR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0117",
+  "DES": "Dirección General de Aeronáutica Civil",
+  "SIGLA": "DGAC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0119",
+  "DES": "Agencia para el Des. de la Soc. de la Información en Bolivia",
+  "SIGLA": "ADSIB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0121",
+  "DES": "Instituto Boliviano de Ciencia y Tecnología Nuclear",
+  "SIGLA": "IBTEN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0124",
+  "DES": "Academia Nacional de Ciencias",
+  "SIGLA": "ANC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0129",
+  "DES": "Escuela de Gestión Pública Plurinacional",
+  "SIGLA": "EGPP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0130",
+  "DES": "Fondo de Financiamiento para la Minería",
+  "SIGLA": "FOFIM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0132",
+  "DES": "Servicio de Desarrollo de las Empresas Púb. Productivas",
+  "SIGLA": "SEDEM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0133",
+  "DES": "Lotería Nacional de Beneficencia y Salubridad",
+  "SIGLA": "LONABOL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0134",
+  "DES": "Consejo Nacional de Vivienda Policial",
+  "SIGLA": "COVIPOL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0137",
+  "DES": "Comité Ejecutivo de la Universidad Boliviana",
+  "SIGLA": "CEUB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0138",
+  "DES": "Universidad Mayor Real y Pontificia de San Francisco Xavier",
+  "SIGLA": "UMSFX",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0139",
+  "DES": "Universidad Mayor de San Andrés",
+  "SIGLA": "UMSA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0140",
+  "DES": "Universidad Pública de El Alto",
+  "SIGLA": "UPEA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0141",
+  "DES": "Universidad Mayor de San Simón",
+  "SIGLA": "UMSS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0142",
+  "DES": "Universidad Técnica de Oruro",
+  "SIGLA": "UTO",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0143",
+  "DES": "Universidad Autónoma Tomás Frías",
+  "SIGLA": "UATF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0144",
+  "DES": "Universidad Nacional Siglo XX",
+  "SIGLA": "UNSXX",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0145",
+  "DES": "Universidad Autónoma Juan Misael Saracho",
+  "SIGLA": "UAJMS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0146",
+  "DES": "Universidad Autónoma Gabriel René Moreno",
+  "SIGLA": "UAGRM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0147",
+  "DES": "Universidad Autónoma del Beni José  Ballivián",
+  "SIGLA": "UTB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0148",
+  "DES": "Universidad Amazónica de Pando",
+  "SIGLA": "UAP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0149",
+  "DES": "Consejo Nacional del Cine",
+  "SIGLA": "CONACINE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0150",
+  "DES": "Proyecto Sucre Ciudad Universitaria",
+  "SIGLA": "PSCU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0152",
+  "DES": "Servicio Plurinacional de Defensa Pública",
+  "SIGLA": "SEPDEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0153",
+  "DES": "Observatorio Plurinacional de la Calidad  Educativa",
+  "SIGLA": "OPCE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0154",
+  "DES": "Museo Nacional de Historia Natural",
+  "SIGLA": "MNHN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0155",
+  "DES": "Dirección del Notariado Plurinacional",
+  "SIGLA": "DIRNOPLU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0156",
+  "DES": "Servicio Plurinacional de Asistencia a la Víctima",
+  "SIGLA": "SEPDAVI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0159",
+  "DES": "OficinaTécnica para el Fortalecimiento de la Empresa Pública",
+  "SIGLA": "OFEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0163",
+  "DES": "Agencia Nacional de Hidrocarburos",
+  "SIGLA": "ANH",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0169",
+  "DES": "Autoridad General de Impugnación Tributaria",
+  "SIGLA": "AGIT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0170",
+  "DES": "Escuela Militar de Ingeniería",
+  "SIGLA": "EMI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0171",
+  "DES": "Centro de Investigación Agrícola Tropical",
+  "SIGLA": "CIAT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0188",
+  "DES": "Complejo Indus. de los Rec.Evaporíticos del Salar de Uyuni",
+  "SIGLA": "CIRESU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0190",
+  "DES": "Autoridad Jurisdiccional Administrativa Minera",
+  "SIGLA": "AJAM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0192",
+  "DES": "Servicio al Mejoramiento de la Navegación Amazónica",
+  "SIGLA": "SEMENA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0197",
+  "DES": "Dirección Estratégica de Reivindicación Marítima",
+  "SIGLA": "DIREMAR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0200",
+  "DES": "Registro Único para la Administración Tributaria Municipal",
+  "SIGLA": "RUAT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0201",
+  "DES": "Agencia para el Des. de las Macroreg. y Zonas Fronterizas",
+  "SIGLA": "ADEMAF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0203",
+  "DES": "Autoridad de Supervisión del Sistema Financiero",
+  "SIGLA": "ASFI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0206",
+  "DES": "Instituto Nacional de Estadística",
+  "SIGLA": "INE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0209",
+  "DES": "Administración de Servicios Portuarios - Bolivia",
+  "SIGLA": "ASP-B",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0210",
+  "DES": "Unidad de Análisis de Políticas Sociales y Económicas",
+  "SIGLA": "UDAPE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0212",
+  "DES": "Instituto Nacional de Reforma Agraria",
+  "SIGLA": "INRA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0213",
+  "DES": "Servicio Nacional de Meteorología e Hidrología",
+  "SIGLA": "SENAMHI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0221",
+  "DES": "Serv. Nal. de Reg. y Control de la Comer. de Minerales y Metales",
+  "SIGLA": "SENARECOM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0222",
+  "DES": "Instituto Nacional de Innovación Agropecuaria y Forestal",
+  "SIGLA": "INIAF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0223",
+  "DES": "Fondo Nacional de Desarrollo Forestal",
+  "SIGLA": "FONABOSQUE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0224",
+  "DES": "Insumos Bolivia",
+  "SIGLA": "IN - BOL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0225",
+  "DES": "Serv. Nal. para la Sostenibilidad en Saneamiento Básico",
+  "SIGLA": "SENASBA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0226",
+  "DES": "Servicio Estatal de Autonomías",
+  "SIGLA": "SEA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0227",
+  "DES": "Zona Franca Comercial e Industrial de Cobija",
+  "SIGLA": "ZOFRACOBIJA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0234",
+  "DES": "Servicio Geológico Minero",
+  "SIGLA": "SERGEOMIN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0242",
+  "DES": "Comando de Ingeniería del Ejército",
+  "SIGLA": "CO-ING",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0243",
+  "DES": "Servicio Nacional de Hidrografía Naval",
+  "SIGLA": "SNHN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0244",
+  "DES": "Servicio Nacional de Aerofotogrametría",
+  "SIGLA": "SNAF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0245",
+  "DES": "Servicio Geodésico de Mapas",
+  "SIGLA": "SE-GEOMAP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0247",
+  "DES": "Corporación Gestora del Proyecto Abapo - Izozog",
+  "SIGLA": "CORGEPAI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0248",
+  "DES": "Centro de Investigación y Desarrollo Acuícola Boliviano",
+  "SIGLA": "CIDAB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0249",
+  "DES": "Central de Abastecimiento y Suministros de Salud",
+  "SIGLA": "CEASS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0251",
+  "DES": "Instituto Nacional de Salud Ocupacional",
+  "SIGLA": "INSO",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0253",
+  "DES": "Entidad Ejecutora de Medio Ambiente y Agua",
+  "SIGLA": "EMAGUA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0254",
+  "DES": "Instituto del Seguro Agrario",
+  "SIGLA": "INSA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0265",
+  "DES": "Direc. Dptal. de Educación  Chuquisaca",
+  "SIGLA": "DDE-CHU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0266",
+  "DES": "Direc. Dptal. de Educación La Paz",
+  "SIGLA": "DDE-LPZ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0267",
+  "DES": "Direc. Dptal. de Educación Cochabamba",
+  "SIGLA": "DDE-CBB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0268",
+  "DES": "Direc. Dptal. de Educación Oruro",
+  "SIGLA": "DDE-ORU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0269",
+  "DES": "Direc. Dptal. de Educación Potosí",
+  "SIGLA": "DDE-PTS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0270",
+  "DES": "Direc. Dptal. de Educación Tarija",
+  "SIGLA": "DDE-TAR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0271",
+  "DES": "Direc. Dptal. de Educación Santa Cruz",
+  "SIGLA": "DDE-SCZ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0272",
+  "DES": "Direc. Dptal. de Educación Beni",
+  "SIGLA": "DDE-BEN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0273",
+  "DES": "Direc. Dptal. de Educación Pando",
+  "SIGLA": "DDE-PAN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0281",
+  "DES": "Oficina Técnica Nacional de los Ríos Pilcomayo y Bermejo",
+  "SIGLA": "OTRB-PB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0283",
+  "DES": "Aduana Nacional",
+  "SIGLA": "AN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0287",
+  "DES": "Fondo Nacional de Inversión Productiva y Social",
+  "SIGLA": "FPS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0288",
+  "DES": "Servicio Nacional de Riego",
+  "SIGLA": "SENARI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0289",
+  "DES": "Mutual de Seguros del Policía",
+  "SIGLA": "MUSEPOL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0290",
+  "DES": "Servicio de Impuestos Nacionales",
+  "SIGLA": "SIN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0291",
+  "DES": "Administradora Boliviana de Carreteras",
+  "SIGLA": "ABC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0292",
+  "DES": "Vías Bolivia",
+  "SIGLA": "VOBO",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0293",
+  "DES": "Fundación Cultural del Banco Central de Bolivia",
+  "SIGLA": "FC - BCB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0294",
+  "DES": "Univ. Indígena Bol. Comun. Intercultl Prod. Tupak Katari",
+  "SIGLA": "UNIBOL-TK",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0295",
+  "DES": "Univ. Indígena Bol. Comun. Intercult Prod. Casimiro Huanca",
+  "SIGLA": "UNIBOL-CH",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0296",
+  "DES": "Univ. Indígena Bol. Comun. Intercult Prod. Apiaguaiki Tupa",
+  "SIGLA": "UNIBOL-AT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0297",
+  "DES": "Servicio Nacional de Caminos Residual",
+  "SIGLA": "SNC-R",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0298",
+  "DES": "Servicio Departamental de Riego - Chuquisaca",
+  "SIGLA": "SEDERI-CHU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0299",
+  "DES": "Servicio Departamental de Riego - La Paz",
+  "SIGLA": "SEDERI-LPZ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0300",
+  "DES": "Servicio Departamental de Riego - Cochabamba",
+  "SIGLA": "SEDERI-CBB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0301",
+  "DES": "Servicio Departamental de Riego - Oruro",
+  "SIGLA": "SEDERI-ORU",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0302",
+  "DES": "Servicio Departamental de Riego - Potosí",
+  "SIGLA": "SEDERI-PTS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0303",
+  "DES": "Servicio Departamental de Riego - Tarija",
+  "SIGLA": "SEDERI-TAR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0304",
+  "DES": "Servicio Departamental de Riego - Santa Cruz",
+  "SIGLA": "SEDERI-SCZ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0305",
+  "DES": "Servicio Departamental de Riego - Beni",
+  "SIGLA": "SEDERI-BEN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0306",
+  "DES": "Servicio Departamental de Riego - Pando",
+  "SIGLA": "SEDERI-PAN",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0309",
+  "DES": "Autoridad de Fiscalización del Juego",
+  "SIGLA": "AJ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0310",
+  "DES": "Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes",
+  "SIGLA": "ATT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0311",
+  "DES": "Autoridad de Fisc y Ctrol Soc de Agua Potable Saneam.Básico",
+  "SIGLA": "AAPS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0312",
+  "DES": "Autoridad de Fiscalizac. y Control Soc de Bosques y Tierras",
+  "SIGLA": "ABT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0313",
+  "DES": "Autoridad de Fiscalización y Control de Pensiones y Seguros - APS",
+  "SIGLA": "AP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0314",
+  "DES": "Autoridad de Fiscalización y Control Social de Electricidad",
+  "SIGLA": "AE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0315",
+  "DES": "Autoridad de Fiscalización de Empresas",
+  "SIGLA": "AEMP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0324",
+  "DES": "Escuela Boliviana Intercultural de Música",
+  "SIGLA": "EBIM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0340",
+  "DES": "Servicio General de Identificación Personal",
+  "SIGLA": "SEGIP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0341",
+  "DES": "Servicio General de Licencias de Conducir",
+  "SIGLA": "SEGELIC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0342",
+  "DES": "Agencia Estatal de Vivienda",
+  "SIGLA": "AEVIVIENDA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0343",
+  "DES": "Escuela de Jueces del Estado",
+  "SIGLA": "EJE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0344",
+  "DES": "Instituto Plurinacional de Estudio de Lenguas y Culturas",
+  "SIGLA": "IPELC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0345",
+  "DES": "Mutual de Servicios al Policía",
+  "SIGLA": "MUSERPOL",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0346",
+  "DES": "Unidad de Investigaciones Financieras",
+  "SIGLA": "UIF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0347",
+  "DES": "Autoridad de Fiscalización y Control de Cooperativas",
+  "SIGLA": "AFCOOP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0348",
+  "DES": "Autoridad Plurinacional de la Madre Tierra",
+  "SIGLA": "APMT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0349",
+  "DES": "Centro de Inv.Arqueológicas,Antropológicas y Adm.de Tiwanaku",
+  "SIGLA": "CIAAAT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0371",
+  "DES": "Centro Internacional de la Quinua",
+  "SIGLA": "CIQ",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0373",
+  "DES": "Fondo de Desarrollo Indigena",
+  "SIGLA": "FDI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0374",
+  "DES": "Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación",
+  "SIGLA": "AGETIC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0375",
+  "DES": "Comité Organizador de los XI Juegos Suramericanos Cochabamba 2018",
+  "SIGLA": "CODESUR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0411",
+  "DES": "Corporación del Seguro Social Militar",
+  "SIGLA": "COSSMIL",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0417",
+  "DES": "Caja Nacional de Salud",
+  "SIGLA": "CNS",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0418",
+  "DES": "Caja Petrolera de Salud",
+  "SIGLA": "CPS",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0422",
+  "DES": "Caja Bancaria Estatal de Salud",
+  "SIGLA": "CBS",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0423",
+  "DES": "Caja de Salud del Servicio Nal. de Caminos y Ramas Anexas",
+  "SIGLA": "CSSNCRA",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0424",
+  "DES": "Caja de Salud CORDES",
+  "SIGLA": "CORDES",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0425",
+  "DES": "Seguro Social Universitario de Cochabamba",
+  "SIGLA": "SSUCBBA",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0426",
+  "DES": "Seguro Social Universitario de Oruro",
+  "SIGLA": "SSUORU",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0427",
+  "DES": "Seguro Social Universitario de Santa Cruz",
+  "SIGLA": "SSUSTCRUZ",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0428",
+  "DES": "Seguro Social Universitario de Sucre",
+  "SIGLA": "SSUSUC",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0429",
+  "DES": "Seguro Social Universitario de La Paz",
+  "SIGLA": "SSULPZ",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0432",
+  "DES": "Seguro Social Universitario de Tarija",
+  "SIGLA": "SSUTAR",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0433",
+  "DES": "Seguro Social Universitario de Potosí",
+  "SIGLA": "SSUPTS",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0434",
+  "DES": "Seguro Social Universitario de Beni",
+  "SIGLA": "SSUBENI",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0435",
+  "DES": "Seguro Integral de Salud",
+  "SIGLA": "SINEC",
+  "TIPO": "S",
+  "INS": "SS",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0512",
+  "DES": "Adm.de Aeropuertos y Servicios Auxiliares a la Naveg. Aérea",
+  "SIGLA": "AASANA",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0513",
+  "DES": "Yacimientos Petrolíferos Fiscales Bolivianos",
+  "SIGLA": "YPFB",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0514",
+  "DES": "Empresa Nacional de Electricidad",
+  "SIGLA": "ENDE",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0517",
+  "DES": "Corporación Minera de Bolivia",
+  "SIGLA": "COMIBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0520",
+  "DES": "Empresa Metalúrgica VINTO - Nacionalizada",
+  "SIGLA": "VINTO - NAL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0522",
+  "DES": "Empresa Nacional de Ferrocarriles - Residual",
+  "SIGLA": "ENFE",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0523",
+  "DES": "Empresa de Correos de Bolivia",
+  "SIGLA": "ECOBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0525",
+  "DES": "Transportes Aéreos Bolivianos",
+  "SIGLA": "TAB",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0526",
+  "DES": "Bolivia TV",
+  "SIGLA": "BTV",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0548",
+  "DES": "Corporación de las Fuerzas Armadas p/ el Des. Nacional",
+  "SIGLA": "COFADENA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0551",
+  "DES": "Empresa Naviera Boliviana",
+  "SIGLA": "ENABOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0572",
+  "DES": "Empresa de Apoyo a la Producción de Alimentos",
+  "SIGLA": "EMAPA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0573",
+  "DES": "Empresa Siderúrgica del Mutún",
+  "SIGLA": "ES - MUTUN",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0574",
+  "DES": "Empresa Pública Nacional Estratégica Lácteos de Bolivia",
+  "SIGLA": "LACTEOSBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0575",
+  "DES": "Empresa Pública Nacional Estratégica Papeles de Bolivia",
+  "SIGLA": "PAPELBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0576",
+  "DES": "Empresa Pública Nacional Estratégica Cartones de Bolivia",
+  "SIGLA": "CARTONBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0578",
+  "DES": "Boliviana de Aviación",
+  "SIGLA": "BOA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0579",
+  "DES": "Empresa Pública Nacional Estratégica Cementos de Bolvia",
+  "SIGLA": "ECEBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0580",
+  "DES": "Depósitos Aduaneros Bolivianos",
+  "SIGLA": "DAB",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0581",
+  "DES": "Empresa Pública Nacional Estratégica Azúcar de Bolivia - Bermejo",
+  "SIGLA": "AZUCARBOL",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0582",
+  "DES": "Empresa Boliviana de Almendras y Derivados",
+  "SIGLA": "EBA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0584",
+  "DES": "Empresa Boliviana de Industrializacion de Hidrocarburos",
+  "SIGLA": "EBIH",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0585",
+  "DES": "Agencia Boliviana Espacial",
+  "SIGLA": "ABE.",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0586",
+  "DES": "Empresa Azucarera San Buenaventura",
+  "SIGLA": "EASBA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0587",
+  "DES": "Empresa Estratégica Boliviana de Construcción y Conservación de Infraestructura Civil",
+  "SIGLA": "EBC",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0590",
+  "DES": "Empresa Pública",
+  "SIGLA": "QUIPUS",
+  "TIPO": "",
+  "INS": "QU",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0591",
+  "DES": "Empresa Estatal de Transporte por Cable",
+  "SIGLA": "Mi teleféri",
+  "TIPO": "",
+  "INS": "Mi",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0592",
+  "DES": "Empresa Estatal",
+  "SIGLA": "Boliviana d",
+  "TIPO": "",
+  "INS": "BO",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0593",
+  "DES": "Empresa Pública YACANA",
+  "SIGLA": "YACANA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0594",
+  "DES": "Administración de Servicios Portuarios - Bolivia",
+  "SIGLA": "ASP-B",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0633",
+  "DES": "Empresa Misicuni",
+  "SIGLA": "MISICUNI",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0634",
+  "DES": "Empresa Púb. Deptal. Hotel Terminal-Terminal de Buses Oruro",
+  "SIGLA": "EPDEOR",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0650",
+  "DES": "Asamblea Legislativa Plurinacional",
+  "SIGLA": "ALP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0660",
+  "DES": "Órgano Judicial",
+  "SIGLA": "OJTCP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0661",
+  "DES": "Tribunal Constitucional Plurinacional",
+  "SIGLA": "TCP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0670",
+  "DES": "Órgano Electoral Plurinacional",
+  "SIGLA": "OEP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0680",
+  "DES": "Contraloria General del Estado",
+  "SIGLA": "CGE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0681",
+  "DES": "Ministerio Público",
+  "SIGLA": "MINPUB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0682",
+  "DES": "Defensoria del Pueblo",
+  "SIGLA": "DP",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0683",
+  "DES": "Procuraduria General del Estado",
+  "SIGLA": "PROGE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0716",
+  "DES": "Empresa Tarijeña del Gas",
+  "SIGLA": "EMTAGAS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0718",
+  "DES": "Complejo Agroindustrial Buena Vista",
+  "SIGLA": "CABV",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0761",
+  "DES": "Servicio Autónomo Municipal de Agua Potable y Alcantarillado",
+  "SIGLA": "SAMAPA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0781",
+  "DES": "Servicio Municipal de Agua Potable y Alcantarillado",
+  "SIGLA": "SEMAPA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0802",
+  "DES": "Empresa Local de Agua Potable y Alcantarillado Sucre",
+  "SIGLA": "ELAPAS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0821",
+  "DES": "Administración Autónoma para Obras Sanitarias - Potosí",
+  "SIGLA": "AAPOS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0831",
+  "DES": "Servicio Local de Acueductos y Alcantarillado - Oruro",
+  "SIGLA": "SELA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0862",
+  "DES": "Fondo Nacional de Desarrollo Regional",
+  "SIGLA": "FNDR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0865",
+  "DES": "Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo",
+  "SIGLA": "FONDESIF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0867",
+  "DES": "Fondo Rotatorio de Fomento Productivo Regional",
+  "SIGLA": "FRFPR",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0901",
+  "DES": "Gobierno Autónomo Departamental de Chuquisaca",
+  "SIGLA": "GAD-CHU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0902",
+  "DES": "Gobierno Autónomo Departamental de La Paz",
+  "SIGLA": "GAD-LPZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0903",
+  "DES": "Gobierno Autónomo Departamental de Cochabamba",
+  "SIGLA": "GAD-CBB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0904",
+  "DES": "Gobierno Autónomo Departamental de Oruro",
+  "SIGLA": "GAD-ORU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0905",
+  "DES": "Gobierno Autónomo Departamental de Potosí",
+  "SIGLA": "GAD-PTS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0906",
+  "DES": "Gobierno Autónomo Departamental de Tarija",
+  "SIGLA": "GAD-TAR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0907",
+  "DES": "Gobierno Autónomo Departamental de Santa Cruz",
+  "SIGLA": "GAD-SCZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0908",
+  "DES": "Gobierno Autónomo Departamental del Beni",
+  "SIGLA": "GAD-BEN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0909",
+  "DES": "Gobierno Autónomo Departamental de Pando",
+  "SIGLA": "GAD-PAN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0951",
+  "DES": "Banco Central de Bolivia",
+  "SIGLA": "BCB",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0999",
+  "DES": "Sector Privado",
+  "SIGLA": "SEC-PRV",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1101",
+  "DES": "Gobierno Autónomo Municipal de Sucre",
+  "SIGLA": "SUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1102",
+  "DES": "Gobierno Autónomo Municipal de Yotala",
+  "SIGLA": "YOT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1103",
+  "DES": "Gobierno Autónomo Municipal de Poroma",
+  "SIGLA": "POR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1104",
+  "DES": "Gobierno Autónomo Municipal de Villa Azurduy",
+  "SIGLA": "AZU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1105",
+  "DES": "Gobierno Autónomo Municipal de Tarvita (Villa Orías)",
+  "SIGLA": "TAR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1106",
+  "DES": "Gobierno Autónomo Municipal de Villa Zudañez (Tacopaya)",
+  "SIGLA": "ZUD",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1107",
+  "DES": "Gobierno Autónomo Municipal de Presto",
+  "SIGLA": "PRE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1108",
+  "DES": "Gobierno Autónomo Municipal de Villa Mojocoya",
+  "SIGLA": "VMO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1109",
+  "DES": "Gobierno Autónomo Municipal de Icla",
+  "SIGLA": "MUJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1110",
+  "DES": "Gobierno Autónomo Municipal de Padilla",
+  "SIGLA": "PAD",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1111",
+  "DES": "Gobierno Autónomo Municipal de Tomina",
+  "SIGLA": "VTM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1112",
+  "DES": "Gobierno Autónomo Municipal de Sopachuy",
+  "SIGLA": "SOP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1113",
+  "DES": "Gobierno Autónomo Municipal de Villa Alcalá",
+  "SIGLA": "ALC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1114",
+  "DES": "Gobierno Autónomo Municipal de El Villar",
+  "SIGLA": "VIL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1115",
+  "DES": "Gobierno Autónomo Municipal de Monteagudo",
+  "SIGLA": "VMT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1116",
+  "DES": "Gobierno Autónomo Municipal de San Pablo de Huacareta",
+  "SIGLA": "PDM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1117",
+  "DES": "Gobierno Autónomo Municipal de Tarabuco",
+  "SIGLA": "TARB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1118",
+  "DES": "Gobierno Autónomo Municipal de Yamparáez",
+  "SIGLA": "YAM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1119",
+  "DES": "Gobierno Autónomo Municipal de Camargo",
+  "SIGLA": "CAM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1120",
+  "DES": "Gobierno Autónomo Municipal de San Lucas",
+  "SIGLA": "LUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1121",
+  "DES": "Gobierno Autónomo Municipal de Incahuasi",
+  "SIGLA": "INCA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1122",
+  "DES": "Gobierno Autónomo Municipal de Villa Serrano",
+  "SIGLA": "SER",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1123",
+  "DES": "Gobierno Autónomo Municipal de Camataqui (Villa Abecia)",
+  "SIGLA": "ABE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1124",
+  "DES": "Gobierno Autónomo Municipal de Culpina",
+  "SIGLA": "CUL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1125",
+  "DES": "Gobierno Autónomo Municipal de Las Carreras",
+  "SIGLA": "CRR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1126",
+  "DES": "Gobierno Autónomo Municipal de Villa Vaca Guzmán",
+  "SIGLA": "MUY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1127",
+  "DES": "Gobierno Autónomo Municipal de Villa de Huacaya",
+  "SIGLA": "VHY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1128",
+  "DES": "Gobierno Autónomo Municipal de Machareti",
+  "SIGLA": "MAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1129",
+  "DES": "Gobierno Autónomo Municipal de Villa Charcas",
+  "SIGLA": "VCH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1201",
+  "DES": "Gobierno Autónomo Municipal de La Paz",
+  "SIGLA": "LPZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1202",
+  "DES": "Gobierno Autónomo Municipal de Palca",
+  "SIGLA": "PLC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1203",
+  "DES": "Gobierno Autónomo Municipal de Mecapaca",
+  "SIGLA": "MEC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1204",
+  "DES": "Gobierno Autónomo Municipal de Achocalla",
+  "SIGLA": "ACH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1205",
+  "DES": "Gobierno Autónomo Municipal de El Alto de La Paz",
+  "SIGLA": "ELLA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1206",
+  "DES": "Gobierno Autónomo Municipal de Viacha",
+  "SIGLA": "VIA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1207",
+  "DES": "Gobierno Autónomo Municipal de Guaqui",
+  "SIGLA": "GUA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1208",
+  "DES": "Gobierno Autónomo Municipal de Tiahuanacu",
+  "SIGLA": "TIA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1209",
+  "DES": "Gobierno Autónomo Municipal de Desaguadero",
+  "SIGLA": "DES",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1210",
+  "DES": "Gobierno Autónomo Municipal de Caranavi",
+  "SIGLA": "CRV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1211",
+  "DES": "Gobierno Autónomo Municipal de Sica Sica (Villa Aroma)",
+  "SIGLA": "SIC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1212",
+  "DES": "Gobierno Autónomo Municipal de Umala",
+  "SIGLA": "UMA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1213",
+  "DES": "Gobierno Autónomo Municipal de Ayo Ayo",
+  "SIGLA": "AYO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1214",
+  "DES": "Gobierno Autónomo Municipal de Calamarca",
+  "SIGLA": "CAL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1215",
+  "DES": "Gobierno Autónomo Municipal de Patacamaya",
+  "SIGLA": "PAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1216",
+  "DES": "Gobierno Autónomo Municipal de Colquencha",
+  "SIGLA": "COL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1217",
+  "DES": "Gobierno Autónomo Municipal de Collana",
+  "SIGLA": "COA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1218",
+  "DES": "Gobierno Autónomo Municipal de Inquisivi",
+  "SIGLA": "INQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1219",
+  "DES": "Gobierno Autónomo Municipal de Quime",
+  "SIGLA": "QUI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1220",
+  "DES": "Gobierno Autónomo Municipal de Cajuata",
+  "SIGLA": "CAJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1221",
+  "DES": "Gobierno Autónomo Municipal de Colquiri",
+  "SIGLA": "COQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1222",
+  "DES": "Gobierno Autónomo Municipal de Ichoca",
+  "SIGLA": "ICH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1223",
+  "DES": "Gobierno Autónomo Municipal de Villa Libertad Licoma",
+  "SIGLA": "LIC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1224",
+  "DES": "Gobierno Autónomo Municipal de Achacachi",
+  "SIGLA": "AHI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1225",
+  "DES": "Gobierno Autónomo Municipal de Ancoraimes",
+  "SIGLA": "ANCO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1226",
+  "DES": "Gobierno Autónomo Municipal de Sorata",
+  "SIGLA": "SOR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1227",
+  "DES": "Gobierno Autónomo Municipal de Guanay",
+  "SIGLA": "GNY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1228",
+  "DES": "Gobierno Autónomo Municipal de Tacacoma",
+  "SIGLA": "TAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1229",
+  "DES": "Gobierno Autónomo Municipal de Tipuani",
+  "SIGLA": "TIP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1230",
+  "DES": "Gobierno Autónomo Municipal de Quiabaya",
+  "SIGLA": "QBY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1231",
+  "DES": "Gobierno Autónomo Municipal de Combaya",
+  "SIGLA": "COM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1232",
+  "DES": "Gobierno Autónomo Municipal de Copacabana",
+  "SIGLA": "COP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1233",
+  "DES": "Gobierno Autónomo Municipal de San Pedro de Tiquina",
+  "SIGLA": "SPT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1234",
+  "DES": "Gobierno Autónomo Municipal de Tito Yupanqui",
+  "SIGLA": "YUP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1235",
+  "DES": "Gobierno Autónomo Municipal de Chuma",
+  "SIGLA": "CHU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1236",
+  "DES": "Gobierno Autónomo Municipal de Ayata",
+  "SIGLA": "AYA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1237",
+  "DES": "Gobierno Autónomo Municipal de Aucapata",
+  "SIGLA": "AUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1238",
+  "DES": "Gobierno Autónomo Municipal de Corocoro",
+  "SIGLA": "COR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1239",
+  "DES": "Gobierno Autónomo Municipal de Caquiaviri",
+  "SIGLA": "CAQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1240",
+  "DES": "Gobierno Autónomo Municipal de Calacoto",
+  "SIGLA": "CAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1241",
+  "DES": "Gobierno Autónomo Municipal de Comanche",
+  "SIGLA": "CMC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1242",
+  "DES": "Gobierno Autónomo Municipal de Charaña",
+  "SIGLA": "CHA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1243",
+  "DES": "Gobierno Autónomo Municipal de Waldo Ballivián",
+  "SIGLA": "BAL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1244",
+  "DES": "Gobierno Autónomo Municipal de Nazacara de Pacajes",
+  "SIGLA": "NAZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1245",
+  "DES": "Gobierno Autónomo Municipal de Santiago de Callapa",
+  "SIGLA": "SCA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1246",
+  "DES": "Gobierno Autónomo Municipal de Puerto Acosta",
+  "SIGLA": "ACO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1247",
+  "DES": "Gobierno Autónomo Municipal de Mocomoco",
+  "SIGLA": "MOC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1248",
+  "DES": "Gobierno Autónomo Municipal de Carabuco",
+  "SIGLA": "CCH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1249",
+  "DES": "Gobierno Autónomo Municipal de Apolo",
+  "SIGLA": "APO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1250",
+  "DES": "Gobierno Autónomo Municipal de Pelechuco",
+  "SIGLA": "PEL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1251",
+  "DES": "Gobierno Autónomo Municipal de Luribay",
+  "SIGLA": "LUR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1252",
+  "DES": "Gobierno Autónomo Municipal de Sapahaqui",
+  "SIGLA": "SAPA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1253",
+  "DES": "Gobierno Autónomo Municipal de Yaco",
+  "SIGLA": "YAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1254",
+  "DES": "Gobierno Autónomo Municipal de Malla",
+  "SIGLA": "MAL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1255",
+  "DES": "Gobierno Autónomo Municipal de Cairoma",
+  "SIGLA": "CAI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1256",
+  "DES": "Gobierno Autónomo Municipal de Chulumani (Villa de la Libertad)",
+  "SIGLA": "CHL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1257",
+  "DES": "Gobierno Autónomo Municipal de Irupana (Villa de Lanza)",
+  "SIGLA": "IRU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1258",
+  "DES": "Gobierno Autónomo Municipal de Yanacachi",
+  "SIGLA": "YAN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1259",
+  "DES": "Gobierno Autónomo Municipal de Palos Blancos",
+  "SIGLA": "BLA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1260",
+  "DES": "Gobierno Autónomo Municipal de La Asunta",
+  "SIGLA": "ASU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1261",
+  "DES": "Gobierno Autónomo Municipal de Pucarani",
+  "SIGLA": "PUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1262",
+  "DES": "Gobierno Autónomo Municipal de Laja",
+  "SIGLA": "LAJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1263",
+  "DES": "Gobierno Autónomo Municipal de Batallas",
+  "SIGLA": "BAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1264",
+  "DES": "Gobierno Autónomo Municipal de Puerto Pérez",
+  "SIGLA": "PER",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1265",
+  "DES": "Gobierno Autónomo Municipal de Coroico",
+  "SIGLA": "COC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1266",
+  "DES": "Gobierno Autónomo Municipal de Coripata",
+  "SIGLA": "CRI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1267",
+  "DES": "Gobierno Autónomo Municipal de Ixiamas",
+  "SIGLA": "IXI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1268",
+  "DES": "Gobierno Autónomo Municipal de San Buenaventura",
+  "SIGLA": "SBV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1269",
+  "DES": "Gobierno Autónomo Municipal de General Juan José Pérez (Charazani)",
+  "SIGLA": "CPE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1270",
+  "DES": "Gobierno Autónomo Municipal de Curva",
+  "SIGLA": "CUR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1271",
+  "DES": "Gobierno Autónomo Municipal de San Pedro de Curahuara",
+  "SIGLA": "PEC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1272",
+  "DES": "Gobierno Autónomo Municipal de Papel Pampa",
+  "SIGLA": "PAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1273",
+  "DES": "Gobierno Autónomo Municipal de Chacarilla",
+  "SIGLA": "CLL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1274",
+  "DES": "Gobierno Autónomo Municipal de Santiago de Machaca",
+  "SIGLA": "SMA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1275",
+  "DES": "Gobierno Autónomo Municipal de Catacora",
+  "SIGLA": "CAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1276",
+  "DES": "Gobierno Autónomo Municipal de Mapiri",
+  "SIGLA": "MAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1277",
+  "DES": "Gobierno Autónomo Municipal de Teoponte",
+  "SIGLA": "TEO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1278",
+  "DES": "Gobierno Autónomo Municipal de San Andrés de Machaca",
+  "SIGLA": "AMA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1279",
+  "DES": "Gobierno Autónomo Municipal de Jesús de Machaca",
+  "SIGLA": "JMK",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1280",
+  "DES": "Gobierno Autónomo Municipal de Taraco",
+  "SIGLA": "TCO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1281",
+  "DES": "Gobierno Autónomo Municipal de Huarina",
+  "SIGLA": "HUR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1282",
+  "DES": "Gobierno Autónomo Municipal de Santiago de Huata",
+  "SIGLA": "SAH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1283",
+  "DES": "Gobierno Autónomo Municipal de Escoma",
+  "SIGLA": "ESC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1284",
+  "DES": "Gobierno Autónomo Municipal de Humanata",
+  "SIGLA": "HUN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1285",
+  "DES": "Gobierno Autónomo Municipal de Alto Beni",
+  "SIGLA": "ABN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1286",
+  "DES": "Gobierno Autónomo Municipal de Huatajata",
+  "SIGLA": "HUAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1287",
+  "DES": "Gobierno Autónomo Municipal de Chua Cocani",
+  "SIGLA": "CHCO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1301",
+  "DES": "Gobierno Autónomo Municipal de Cochabamba",
+  "SIGLA": "CBB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1302",
+  "DES": "Gobierno Autónomo Municipal de Quillacollo",
+  "SIGLA": "QLL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1303",
+  "DES": "Gobierno Autónomo Municipal de Sipe Sipe",
+  "SIGLA": "SIP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1304",
+  "DES": "Gobierno Autónomo Municipal de Tiquipaya",
+  "SIGLA": "TIQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1305",
+  "DES": "Gobierno Autónomo Municipal de Vinto",
+  "SIGLA": "VIN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1306",
+  "DES": "Gobierno Autónomo Municipal de Colcapirhua",
+  "SIGLA": "CCP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1307",
+  "DES": "Gobierno Autónomo Municipal de Aiquile",
+  "SIGLA": "AIQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1308",
+  "DES": "Gobierno Autónomo Municipal de Pasorapa",
+  "SIGLA": "PAS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1309",
+  "DES": "Gobierno Autónomo Municipal de Omereque",
+  "SIGLA": "OME",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1310",
+  "DES": "Gobierno Autónomo Municipal de Independencia",
+  "SIGLA": "ind",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1311",
+  "DES": "Gobierno Autónomo Municipal de Morochata",
+  "SIGLA": "MOH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1312",
+  "DES": "Gobierno Autónomo Municipal de Sacaba",
+  "SIGLA": "SCB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1313",
+  "DES": "Gobierno Autónomo Municipal de Colomi",
+  "SIGLA": "CLM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1314",
+  "DES": "Gobierno Autónomo Municipal de Villa Tunari",
+  "SIGLA": "TUN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1315",
+  "DES": "Gobierno Autónomo Municipal de Punata",
+  "SIGLA": "PNT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1316",
+  "DES": "Gobierno Autónomo Municipal de Villa Rivero",
+  "SIGLA": "VRV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1317",
+  "DES": "Gobierno Autónomo Municipal de San Benito (Villa José Quintín Mendoza)",
+  "SIGLA": "MEN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1318",
+  "DES": "Gobierno Autónomo Municipal de Tacachi",
+  "SIGLA": "TAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1319",
+  "DES": "Gobierno Autónomo Municipal Villa Gualberto Villarroel",
+  "SIGLA": "VGV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1320",
+  "DES": "Gobierno Autónomo Municipal de Tarata",
+  "SIGLA": "TRT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1321",
+  "DES": "Gobierno Autónomo Municipal de Anzaldo",
+  "SIGLA": "ANZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1322",
+  "DES": "Gobierno Autónomo Municipal de Arbieto",
+  "SIGLA": "ARB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1323",
+  "DES": "Gobierno Autónomo Municipal de Sacabamba",
+  "SIGLA": "SBB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1324",
+  "DES": "Gobierno Autónomo Municipal de Cliza",
+  "SIGLA": "CLI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1325",
+  "DES": "Gobierno Autónomo Municipal de Toco",
+  "SIGLA": "TOC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1326",
+  "DES": "Gobierno Autónomo Municipal de Tolata",
+  "SIGLA": "TLA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1327",
+  "DES": "Gobierno Autónomo Municipal de Capinota",
+  "SIGLA": "CAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1328",
+  "DES": "Gobierno Autónomo Municipal de Santivañez",
+  "SIGLA": "SAN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1329",
+  "DES": "Gobierno Autónomo Municipal de Sicaya",
+  "SIGLA": "SCY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1330",
+  "DES": "Gobierno Autónomo Municipal de Tapacari",
+  "SIGLA": "TAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1331",
+  "DES": "Gobierno Autónomo Municipal de Totora",
+  "SIGLA": "TOT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1332",
+  "DES": "Gobierno Autónomo Municipal de Pojo",
+  "SIGLA": "POJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1333",
+  "DES": "Gobierno Autónomo Municipal de Pocona",
+  "SIGLA": "POC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1334",
+  "DES": "Gobierno Autónomo Municipal de Chimoré",
+  "SIGLA": "CHI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1335",
+  "DES": "Gobierno Autónomo Municipal de Puerto Villarroel",
+  "SIGLA": "PVI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1336",
+  "DES": "Gobierno Autónomo Municipal de Arani",
+  "SIGLA": "ARA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1337",
+  "DES": "Gobierno Autónomo Municipal de Vacas",
+  "SIGLA": "VAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1338",
+  "DES": "Gobierno Autónomo Municipal de Arque",
+  "SIGLA": "ARQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1339",
+  "DES": "Gobierno Autónomo Municipal de Tacopaya",
+  "SIGLA": "TPY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1340",
+  "DES": "Gobierno Autónomo Municipal de Bolivar",
+  "SIGLA": "BOL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1341",
+  "DES": "Gobierno Autónomo Municipal de Tiraque",
+  "SIGLA": "TRQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1342",
+  "DES": "Gobierno Autónomo Municipal de Mizque",
+  "SIGLA": "MIZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1343",
+  "DES": "Gobierno Autónomo Municipal de Vila Vila",
+  "SIGLA": "VIS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1344",
+  "DES": "Gobierno Autónomo Municipal de Alalay",
+  "SIGLA": "ALA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1345",
+  "DES": "Gobierno Autónomo Municipal de Entre Rios",
+  "SIGLA": "ERI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1346",
+  "DES": "Gobierno Autónomo Municipal de Cocapata",
+  "SIGLA": "COCA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1347",
+  "DES": "Gobierno Autónomo Municipal de Shinahota",
+  "SIGLA": "SHI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1401",
+  "DES": "Gobierno Autónomo Municipal de Oruro",
+  "SIGLA": "ORU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1402",
+  "DES": "Gobierno Autónomo Municipal de Caracollo",
+  "SIGLA": "CAR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1403",
+  "DES": "Gobierno Autónomo Municipal de El Choro",
+  "SIGLA": "CHO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1404",
+  "DES": "Gobierno Autónomo Municipal de Challapata",
+  "SIGLA": "CHT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1405",
+  "DES": "Gobierno Autónomo Municipal de Santuario de Quillacas",
+  "SIGLA": "STQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1406",
+  "DES": "Gobierno Autónomo Municipal de Huanuni",
+  "SIGLA": "VHU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1407",
+  "DES": "Gobierno Autónomo Municipal de Machacamarca",
+  "SIGLA": "MAR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1408",
+  "DES": "Gobierno Autónomo Municipal de Poopó (Villa Poopó)",
+  "SIGLA": "POO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1409",
+  "DES": "Gobierno Autónomo Municipal de Pazña",
+  "SIGLA": "PAZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1410",
+  "DES": "Gobierno Autónomo Municipal de Antequera",
+  "SIGLA": "ANT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1411",
+  "DES": "Gobierno Autónomo Municipal de Eucaliptus",
+  "SIGLA": "EUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1412",
+  "DES": "Gobierno Autónomo Municipal de Santiago de Huari",
+  "SIGLA": "SHU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1413",
+  "DES": "Gobierno Autónomo Municipal de Totora",
+  "SIGLA": "TTR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1414",
+  "DES": "Gobierno Autónomo Municipal de Corque",
+  "SIGLA": "CRQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1415",
+  "DES": "Gobierno Autónomo Municipal de Choquecota",
+  "SIGLA": "CHE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1416",
+  "DES": "Gobierno Autónomo Municipal de Curahuara de Carangas",
+  "SIGLA": "CDC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1417",
+  "DES": "Gobierno Autónomo Municipal de Turco",
+  "SIGLA": "TUR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1418",
+  "DES": "Gobierno Autónomo Municipal de Huachacalla",
+  "SIGLA": "HCH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1419",
+  "DES": "Gobierno Autónomo Municipal de Escara",
+  "SIGLA": "ESA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1420",
+  "DES": "Gobierno Autónomo Municipal de Cruz de Machacamarca",
+  "SIGLA": "CMA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1421",
+  "DES": "Gobierno Autónomo Municipal de Yunguyo de Litoral",
+  "SIGLA": "YUG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1422",
+  "DES": "Gobierno Autónomo Municipal de Esmeralda",
+  "SIGLA": "ESM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1423",
+  "DES": "Gobierno Autónomo Municipal de Toledo",
+  "SIGLA": "TOL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1424",
+  "DES": "Gobierno Autónomo Municipal de Andamarca (Santiago de Andamarca)",
+  "SIGLA": "ADN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1425",
+  "DES": "Gobierno Autónomo Municipal de Belén de Andamarca",
+  "SIGLA": "BEL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1426",
+  "DES": "Gobierno Autónomo Municipal de Salinas de G. Mendoza",
+  "SIGLA": "SAL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1427",
+  "DES": "Gobierno Autónomo Municipal de Pampa Aullagas",
+  "SIGLA": "PAM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1428",
+  "DES": "Gobierno Autónomo Municipal de La Rivera",
+  "SIGLA": "RIV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1429",
+  "DES": "Gobierno Autónomo Municipal de Todos Santos",
+  "SIGLA": "TOS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1430",
+  "DES": "Gobierno Autónomo Municipal de Carangas",
+  "SIGLA": "CGA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1431",
+  "DES": "Gobierno Autónomo Municipal de Sabaya",
+  "SIGLA": "SAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1432",
+  "DES": "Gobierno Autónomo Municipal de Coipasa",
+  "SIGLA": "COI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1433",
+  "DES": "Gobierno Autónomo Municipal de Chipaya",
+  "SIGLA": "CHP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1434",
+  "DES": "Gobierno Autónomo Municipal de Huayllamarca (Santiago de Huayllamarca)",
+  "SIGLA": "SDH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1435",
+  "DES": "Gobierno Autónomo Municipal de Soracachi",
+  "SIGLA": "SRC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1501",
+  "DES": "Gobierno Autónomo Municipal de Potosí",
+  "SIGLA": "POT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1502",
+  "DES": "Gobierno Autónomo Municipal de Tinguipaya",
+  "SIGLA": "TIN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1503",
+  "DES": "Gobierno Autónomo Municipal de Yocalla",
+  "SIGLA": "YOC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1504",
+  "DES": "Gobierno Autónomo Municipal de Urmiri",
+  "SIGLA": "URM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1505",
+  "DES": "Gobierno Autónomo Municipal de Uncía",
+  "SIGLA": "UNC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1506",
+  "DES": "Gobierno Autónomo Municipal de Chayanta",
+  "SIGLA": "CHY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1507",
+  "DES": "Gobierno Autónomo Municipal de Llallagua",
+  "SIGLA": "LLA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1508",
+  "DES": "Gobierno Autónomo Municipal de Betanzos",
+  "SIGLA": "BET",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1509",
+  "DES": "Gobierno Autónomo Municipal de Chaqui",
+  "SIGLA": "CHQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1510",
+  "DES": "Gobierno Autónomo Municipal de Tacobamba",
+  "SIGLA": "TCB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1511",
+  "DES": "Gobierno Autónomo Municipal de Colquechaca",
+  "SIGLA": "CCQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1512",
+  "DES": "Gobierno Autónomo Municipal de Ravelo",
+  "SIGLA": "RAV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1513",
+  "DES": "Gobierno Autónomo Municipal de Pocoata",
+  "SIGLA": "PCT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1514",
+  "DES": "Gobierno Autónomo Municipal de Ocurí",
+  "SIGLA": "OCU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1515",
+  "DES": "Gobierno Autónomo Municipal de San Pedro de Buena Vista",
+  "SIGLA": "PED",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1516",
+  "DES": "Gobierno Autónomo Municipal de Toro Toro",
+  "SIGLA": "TTO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1517",
+  "DES": "Gobierno Autónomo Municipal de Cotagaita",
+  "SIGLA": "COT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1518",
+  "DES": "Gobierno Autónomo Municipal de Vitichi",
+  "SIGLA": "VIT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1519",
+  "DES": "Gobierno Autónomo Municipal de Tupiza",
+  "SIGLA": "TUP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1520",
+  "DES": "Gobierno Autónomo Municipal de Atocha",
+  "SIGLA": "ATO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1521",
+  "DES": "Gobierno Autónomo Municipal de Colcha",
+  "SIGLA": "K",
+  "TIPO": "",
+  "INS": "CC",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1522",
+  "DES": "Gobierno Autónomo Municipal de San Pedro de Quemes",
+  "SIGLA": "PEQ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1523",
+  "DES": "Gobierno Autónomo Municipal de San Pablo de Lípez",
+  "SIGLA": "PAB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1524",
+  "DES": "Gobierno Autónomo Municipal de Mojinete",
+  "SIGLA": "MOJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1525",
+  "DES": "Gobierno Autónomo Municipal de San Antonio de Esmoruco",
+  "SIGLA": "SANT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1526",
+  "DES": "Gobierno Autónomo Municipal de Sacaca (Villa de Sacaca)",
+  "SIGLA": "SAC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1527",
+  "DES": "Gobierno Autónomo Municipal de Caripuyo",
+  "SIGLA": "CRP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1528",
+  "DES": "Gobierno Autónomo Municipal de Puna (Villa Talavera)",
+  "SIGLA": "PUN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1529",
+  "DES": "Gobierno Autónomo Municipal de Caiza",
+  "SIGLA": "D",
+  "TIPO": "",
+  "INS": "CA",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1530",
+  "DES": "Gobierno Autónomo Municipal de Uyuni",
+  "SIGLA": "UYU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1531",
+  "DES": "Gobierno Autónomo Municipal de Tomave",
+  "SIGLA": "TOM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1532",
+  "DES": "Gobierno Autónomo Municipal de Porco",
+  "SIGLA": "PRC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1533",
+  "DES": "Gobierno Autónomo Municipal de Arampampa",
+  "SIGLA": "ARP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1534",
+  "DES": "Gobierno Autónomo Municipal de Acasio",
+  "SIGLA": "ACA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1535",
+  "DES": "Gobierno Autónomo Municipal de Llica",
+  "SIGLA": "LLI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1536",
+  "DES": "Gobierno Autónomo Municipal de Tahua",
+  "SIGLA": "TAH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1537",
+  "DES": "Gobierno Autónomo Municipal de Villazón",
+  "SIGLA": "VLZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1538",
+  "DES": "Gobierno Autónomo Municipal de San Agustín",
+  "SIGLA": "AGU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1539",
+  "DES": "Gobierno Autónomo Municipal de Ckochas",
+  "SIGLA": "CKO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1540",
+  "DES": "Gobierno Autónomo Municipal de Chuquihuta Ayllu Jucumani",
+  "SIGLA": "JUC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1601",
+  "DES": "Gobierno Autónomo Municipal de Tarija",
+  "SIGLA": "TRJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1602",
+  "DES": "Gobierno Autónomo Municipal de Padcaya",
+  "SIGLA": "PCY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1603",
+  "DES": "Gobierno Autónomo Municipal de Bermejo",
+  "SIGLA": "BER",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1604",
+  "DES": "Gobierno Autónomo Municipal de Yacuiba",
+  "SIGLA": "YCB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1605",
+  "DES": "Gobierno Autónomo Municipal de Caraparí",
+  "SIGLA": "CRY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1606",
+  "DES": "Gobierno Autónomo Municipal de Villamontes",
+  "SIGLA": "MON",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1607",
+  "DES": "Gobierno Autónomo Municipal de Uriondo (Concepción)",
+  "SIGLA": "ORI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1608",
+  "DES": "Gobierno Autónomo Municipal de Yunchara",
+  "SIGLA": "YUN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1609",
+  "DES": "Gobierno Autónomo Municipal de San Lorenzo",
+  "SIGLA": "SLR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1610",
+  "DES": "Gobierno Autónomo Municipal de El Puente",
+  "SIGLA": "TMY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1611",
+  "DES": "Gobierno Autónomo Municipal de Entre Ríos",
+  "SIGLA": "RIO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1701",
+  "DES": "Gobierno Autónomo Municipal de Santa Cruz de La Sierra",
+  "SIGLA": "SCZ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1702",
+  "DES": "Gobierno Autónomo Municipal de Cotoca",
+  "SIGLA": "CTC",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1703",
+  "DES": "Gobierno Autónomo Municipal de Porongo (Ayacucho)",
+  "SIGLA": "PRG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1704",
+  "DES": "Gobierno Autónomo Municipal de La Guardia",
+  "SIGLA": "LGU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1705",
+  "DES": "Gobierno Autónomo Municipal de El Torno",
+  "SIGLA": "TOR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1706",
+  "DES": "Gobierno Autónomo Municipal de Warnes",
+  "SIGLA": "WAR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1707",
+  "DES": "Gobierno Autónomo Municipal de San Ignacio (San Ignacio de Velasco)",
+  "SIGLA": "ING",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1708",
+  "DES": "Gobierno Autónomo Municipal de San Miguel (San Miguel de Velasco)",
+  "SIGLA": "MIG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1709",
+  "DES": "Gobierno Autónomo Municipal de San Rafael",
+  "SIGLA": "RAF",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1710",
+  "DES": "Gobierno Autónomo Municipal de Buena Vista",
+  "SIGLA": "BUE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1711",
+  "DES": "Gobierno Autónomo Municipal de San Carlos",
+  "SIGLA": "CRL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1712",
+  "DES": "Gobierno Autónomo Municipal de Yapacaní",
+  "SIGLA": "YAP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1713",
+  "DES": "Gobierno Autónomo Municipal de San José",
+  "SIGLA": "JOS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1714",
+  "DES": "Gobierno Autónomo Municipal de Pailón",
+  "SIGLA": "PAI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1715",
+  "DES": "Gobierno Autónomo Municipal de Roboré",
+  "SIGLA": "ROB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1716",
+  "DES": "Gobierno Autónomo Municipal de Portachuelo",
+  "SIGLA": "PCH",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1717",
+  "DES": "Gobierno Autónomo Municipal de Santa Rosa del Sara",
+  "SIGLA": "SRS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1718",
+  "DES": "Gobierno Autónomo Municipal de Lagunillas",
+  "SIGLA": "LAG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1719",
+  "DES": "Gobierno Autónomo Municipal de Charagua",
+  "SIGLA": "CHR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1720",
+  "DES": "Gobierno Autónomo Municipal de Cabezas",
+  "SIGLA": "CAB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1721",
+  "DES": "Gobierno Autónomo Municipal de Cuevo",
+  "SIGLA": "CUE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1722",
+  "DES": "Gobierno Autónomo Municipal de Gutiérrez",
+  "SIGLA": "GUT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1723",
+  "DES": "Gobierno Autónomo Municipal de Camiri",
+  "SIGLA": "CMR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1724",
+  "DES": "Gobierno Autónomo Municipal de Boyuibe",
+  "SIGLA": "BOY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1725",
+  "DES": "Gobierno Autónomo Municipal de Vallegrande",
+  "SIGLA": "GRA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1726",
+  "DES": "Gobierno Autónomo Municipal de Trigal",
+  "SIGLA": "TRG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1727",
+  "DES": "Gobierno Autónomo Municipal de Moro Moro",
+  "SIGLA": "MOR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1728",
+  "DES": "Gobierno Autónomo Municipal de Postrer Valle",
+  "SIGLA": "POS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1729",
+  "DES": "Gobierno Autónomo Municipal de Pucara",
+  "SIGLA": "PCR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1730",
+  "DES": "Gobierno Autónomo Municipal de Samaipata",
+  "SIGLA": "SAM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1731",
+  "DES": "Gobierno Autónomo Municipal de Pampa Grande",
+  "SIGLA": "PAG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1732",
+  "DES": "Gobierno Autónomo Municipal de Mairana",
+  "SIGLA": "MAY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1733",
+  "DES": "Gobierno Autónomo Municipal de Quirusillas",
+  "SIGLA": "QRS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1734",
+  "DES": "Gobierno Autónomo Municipal de Montero",
+  "SIGLA": "MTR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1735",
+  "DES": "Gobierno Autónomo Municipal de General Agustín Saavedra",
+  "SIGLA": "SAA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1736",
+  "DES": "Gobierno Autónomo Municipal de Mineros",
+  "SIGLA": "MIN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1737",
+  "DES": "Gobierno Autónomo Municipal de Concepción",
+  "SIGLA": "CON",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1738",
+  "DES": "Gobierno Autónomo Municipal de San Javier",
+  "SIGLA": "SJA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1739",
+  "DES": "Gobierno Autónomo Municipal de San Julián",
+  "SIGLA": "JUL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1740",
+  "DES": "Gobierno Autónomo Municipal de San Matías",
+  "SIGLA": "MAT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1741",
+  "DES": "Gobierno Autónomo Municipal de Comarapa",
+  "SIGLA": "CMP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1742",
+  "DES": "Gobierno Autónomo Municipal de Saipina",
+  "SIGLA": "SAI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1743",
+  "DES": "Gobierno Autónomo Municipal de Puerto Suárez",
+  "SIGLA": "SUA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1744",
+  "DES": "Gobierno Autónomo Municipal de Puerto Quijarro",
+  "SIGLA": "PQO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1745",
+  "DES": "Gobierno Autónomo Municipal de Ascención de Guarayos",
+  "SIGLA": "ADG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1746",
+  "DES": "Gobierno Autónomo Municipal de Urubicha",
+  "SIGLA": "URU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1747",
+  "DES": "Gobierno Autónomo Municipal de El Puente",
+  "SIGLA": "PUE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1748",
+  "DES": "Gobierno Autónomo Municipal de Okinawa Uno",
+  "SIGLA": "OKI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1749",
+  "DES": "Gobierno Autónomo Municipal de San Antonio de Lomerio",
+  "SIGLA": "ANL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1750",
+  "DES": "Gobierno Autónomo Municipal de San Ramón",
+  "SIGLA": "SRA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1751",
+  "DES": "Gobierno Autónomo Municipal de El Carmen Rivero Tórrez",
+  "SIGLA": "CRT",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1752",
+  "DES": "Gobierno Autónomo Municipal de San Juan",
+  "SIGLA": "SJU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1753",
+  "DES": "Gobierno Autónomo Municipal de Fernández Alonso",
+  "SIGLA": "FAL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1754",
+  "DES": "Gobierno Autónomo Municipal de San Pedro",
+  "SIGLA": "PDR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1755",
+  "DES": "Gobierno Autónomo Municipal de Cuatro Cañadas",
+  "SIGLA": "CCA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1756",
+  "DES": "Gobierno Autónomo Municipal de Colpa Bélgica",
+  "SIGLA": "CBE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1801",
+  "DES": "Gobierno Autónomo Municipal de Trinidad",
+  "SIGLA": "TRI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1802",
+  "DES": "Gobierno Autónomo Municipal de San Javier",
+  "SIGLA": "JAV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1803",
+  "DES": "Gobierno Autónomo Municipal de Riberalta",
+  "SIGLA": "RIB",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1805",
+  "DES": "Gobierno Autónomo Municipal de Puerto Guayaramerín",
+  "SIGLA": "PGU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1806",
+  "DES": "Gobierno Autónomo Municipal de Reyes",
+  "SIGLA": "REY",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1807",
+  "DES": "Gobierno Autónomo Municipal de Puerto Rurrenabaque",
+  "SIGLA": "RUR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1808",
+  "DES": "Gobierno Autónomo Municipal de San Borja",
+  "SIGLA": "BOR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1809",
+  "DES": "Gobierno Autónomo Municipal de Santa Rosa",
+  "SIGLA": "ROS",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1810",
+  "DES": "Gobierno Autónomo Municipal de Santa Ana",
+  "SIGLA": "ANA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1811",
+  "DES": "Gobierno Autónomo Municipal de San Ignacio",
+  "SIGLA": "IGN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1812",
+  "DES": "Gobierno Autónomo Municipal de Loreto",
+  "SIGLA": "LOR",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1813",
+  "DES": "Gobierno Autónomo Municipal de San Andrés",
+  "SIGLA": "SAD",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1814",
+  "DES": "Gobierno Autónomo Municipal de San Joaquín",
+  "SIGLA": "JOA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1815",
+  "DES": "Gobierno Autónomo Municipal de San Ramón",
+  "SIGLA": "RAM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1816",
+  "DES": "Gobierno Autónomo Municipal de Puerto Síles",
+  "SIGLA": "SIL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1817",
+  "DES": "Gobierno Autónomo Municipal de Magdalena",
+  "SIGLA": "MAG",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1818",
+  "DES": "Gobierno Autónomo Municipal de Baures",
+  "SIGLA": "BAU",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1819",
+  "DES": "Gobierno Autónomo Municipal de Huacaraje",
+  "SIGLA": "HUA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1820",
+  "DES": "Gobierno Autónomo Municipal de Exaltación",
+  "SIGLA": "EXA",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1901",
+  "DES": "Gobierno Autónomo Municipal de Cobija",
+  "SIGLA": "CBJ",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1902",
+  "DES": "Gobierno Autónomo Municipal de Porvenir",
+  "SIGLA": "PRV",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1903",
+  "DES": "Gobierno Autónomo Municipal de Bolpebra",
+  "SIGLA": "BOP",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1904",
+  "DES": "Gobierno Autónomo Municipal de Bella Flor",
+  "SIGLA": "FLO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1905",
+  "DES": "Gobierno Autónomo Municipal de Puerto Rico",
+  "SIGLA": "PRI",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1906",
+  "DES": "Gobierno Autónomo Municipal de San Pedro",
+  "SIGLA": "SPE",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1907",
+  "DES": "Gobierno Autónomo Municipal de Filadelfia",
+  "SIGLA": "FIL",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1908",
+  "DES": "Gobierno Autónomo Municipal de Puerto Gonzalo Moreno",
+  "SIGLA": "PGM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1909",
+  "DES": "Gobierno Autónomo Municipal de San Lorenzo",
+  "SIGLA": "SLO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1910",
+  "DES": "Gobierno Autónomo Municipal de Sena",
+  "SIGLA": "SEN",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1911",
+  "DES": "Gobierno Autónomo Municipal de Santa Rosa del Abuná",
+  "SIGLA": "SRO",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1912",
+  "DES": "Gobierno Autónomo Municipal de Ingavi (Humaita)",
+  "SIGLA": "HUM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1913",
+  "DES": "Gobierno Autónomo Municipal de Nueva Esperanza",
+  "SIGLA": "NES",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1914",
+  "DES": "Gobierno Autónomo Municipal de Villa Nueva (Loma Alta)",
+  "SIGLA": "LOM",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "1915",
+  "DES": "Gobierno Autónomo Municipal de Santos Mercado",
+  "SIGLA": "MER",
+  "TIPO": "S",
+  "INS": "GM",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2301",
+  "DES": "Empresa Municipal de Gestión de Residuos Sólidos",
+  "SIGLA": "GERES",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2302",
+  "DES": "Empresa Municipal de Agua Potable y Alcantarillado Sacaba",
+  "SIGLA": "EMAPAS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2303",
+  "DES": "Empresa Municipal de Areas Verdes y Recreación alternativa",
+  "SIGLA": "EMAVRA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2311",
+  "DES": "SERVICIO DE ENCAUZAMIENTO DE RIOS (SEARPI)",
+  "SIGLA": "SEARPI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2312",
+  "DES": "EMPRESA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO VIACHA",
+  "SIGLA": "EMAPAV",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2313",
+  "DES": "ENTIDAD MUNICIPAL DE ASEO URBANO SUCRE",
+  "SIGLA": "EMAS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2314",
+  "DES": "EMPRESA MUNICIPAL DE AREAS VERDES SUCRE",
+  "SIGLA": "EMAVS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2315",
+  "DES": "Empresa Municipal de Servicio de Aseo",
+  "SIGLA": "EMSA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2316",
+  "DES": "Empresa Municipal de Áreas Verdes, Parques y Forestación",
+  "SIGLA": "EMAVERDE",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2317",
+  "DES": "Empresa Municipal de Asfaltos y Vías",
+  "SIGLA": "EMAVIAS",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2318",
+  "DES": "Entidad Descentralizada UMMIPRE PROMAN",
+  "SIGLA": "UMMIPRE PRO",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2319",
+  "DES": "EMPRESA PÚBLICA DEPARTAMENTAL ESTRATÉGICA DE AGUAS - LA PAZ",
+  "SIGLA": "EDALP",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2320",
+  "DES": "EMPRESA PUBLICA MUNICIPAL DE SERVICIOS DE AGUA Y ALCANTARRILLADO SANITARIO DE COBIJA",
+  "SIGLA": "EPSA COBIJA",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2321",
+  "DES": "EMPRESA MUNICIPAL DE ASEO DE EL ALTO",
+  "SIGLA": "EMALT",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2322",
+  "DES": "ENTIDAD MATADERO FRIGORIFICO MUNICIPAL DE TARIJA",
+  "SIGLA": "EMAF",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2323",
+  "DES": "ENTIDAD ASEO MUNICIPAL DE TARIJA",
+  "SIGLA": "EMAT",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2324",
+  "DES": "ENTIDAD OBRAS PUBLICAS MUNICIPALES DE TARIJA",
+  "SIGLA": "OPUM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2325",
+  "DES": "ENTIDAD ORDENAMIENTO TERRITORIAL DE TARIJA",
+  "SIGLA": "OTE",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2326",
+  "DES": "ENTIDAD ORDEN Y SEGURIDAD CIUDADANA MUNICIPAL DE TARIJA",
+  "SIGLA": "OSEC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2327",
+  "DES": "EMPRESA MUNICIPAL AUTONOMA DE AGUA POTABLE Y ALCANTARILLADO  DE YACUIBA",
+  "SIGLA": "EMAPYC",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2328",
+  "DES": "EMPRESA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE URIONDO",
+  "SIGLA": "EMAPAU",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "2330",
+  "DES": "EMPRESA PUBLICA DEPARTAMENTAL DE SERVICIOS ELECTRICOS TARIJA - SETAR",
+  "SIGLA": "SETAR",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "9001",
+  "DES": "Federación de Asociaciones Municipales de Bolivia",
+  "SIGLA": "FAM",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "9002",
+  "DES": "MANCOMUNIDAD DE MUNICIPIOS DE LOS CHICHAS",
+  "SIGLA": "MANCHI",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "9003",
+  "DES": "MANCOMUNIDAD DE MUNICIPIOS DE CHUQUISACA CENTRO",
+  "SIGLA": "MANCHC",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "9004",
+  "DES": "MANCOMUNIDAD DE MUNICIPIOS DE VALLEGRANDE",
+  "SIGLA": "MANV",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "9005",
+  "DES": "MANCOMUNIDAD DE MUNICIPIOS DEL CHACO CHUQUISAQUEÑO",
+  "SIGLA": "MMCH",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0597",
+  "DES": "Empresa Pública Nacional Estrategica de Yacimientos de Litio Bolivianos",
+  "SIGLA": "YLB",
+  "TIPO": "S",
+  "INS": "EP",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0385",
+  "DES": "Autoridad de Supervisión de la Seguridad Social de Corto Plazo..",
+  "SIGLA": "ASUSS",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ },
+ {
+  "ET": "0053",
+  "DES": "Ministerio de Culturas, Descolonización y Despatriarcalización",
+  "SIGLA": "MIN-CDD",
+  "TIPO": "S",
+  "INS": "DE",
+  "POBLACION": 0.0
+ }
+]

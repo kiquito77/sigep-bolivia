@@ -1,0 +1,410 @@
+[
+  {
+    "codigo": "11111",
+    "nombre": "Caja Moneda Nacional"
+  },
+  {
+    "codigo": "11112",
+    "nombre": "Caja Moneda Extranjera"
+  },
+  {
+    "codigo": "11113",
+    "nombre": "Fondo Fijo de Caja Chica"
+  },
+  {
+    "codigo": "11121",
+    "nombre": "Cuenta Única del Tesoro: Cuenta de uso exclusivo de las enti-"
+  },
+  {
+    "codigo": "11122",
+    "nombre": "Cuentas Fiscales en el BCB M/N: Cuentas bancarias fiscales en"
+  },
+  {
+    "codigo": "11123",
+    "nombre": "Cuentas Fiscales en el BCB M/E: Cuentas bancarias fiscales aper-"
+  },
+  {
+    "codigo": "11124",
+    "nombre": "Cuentas Fiscales y Otras en la Banca Privada M/N"
+  },
+  {
+    "codigo": "11124.01",
+    "nombre": "Banco Unión S.A. - Cuenta Fiscal"
+  },
+  {
+    "codigo": "11125",
+    "nombre": "Cuentas Fiscales y Otras en la Banca Privada M/E: Cuentas ban-"
+  },
+  {
+    "codigo": "11126",
+    "nombre": "Cuentas en el Exterior del País: Cuentas bancarias residentes en"
+  },
+  {
+    "codigo": "11127",
+    "nombre": "Fondos en Custodia y en Garantía: Cuentas Bancarias que regis-"
+  },
+  {
+    "codigo": "11128",
+    "nombre": "Fondos en la CUT: Cuenta de uso exclusivo de las instituciones"
+  },
+  {
+    "codigo": "11129",
+    "nombre": "Otras Cuentas: Cuentas bancarias de naturaleza diferente a las"
+  },
+  {
+    "codigo": "11211",
+    "nombre": "Depósitos a Plazo Fijo"
+  },
+  {
+    "codigo": "11212",
+    "nombre": "Fondos en Fideicomiso"
+  },
+  {
+    "codigo": "11213",
+    "nombre": "Otras Inversiones Temporales"
+  },
+  {
+    "codigo": "11221",
+    "nombre": "Letras del Tesoro a Corto Plazo"
+  },
+  {
+    "codigo": "11222",
+    "nombre": "Bonos del Tesoro a Corto Plazo"
+  },
+  {
+    "codigo": "11223",
+    "nombre": "Otros Títulos y Valores a Corto Plazo"
+  },
+  {
+    "codigo": "11310",
+    "nombre": "Cuentas a Cobrar a Corto Plazo"
+  },
+  {
+    "codigo": "11321",
+    "nombre": "Cuentas a Cobrar de Gestiones Anteriores"
+  },
+  {
+    "codigo": "11322",
+    "nombre": "Otras Cuentas a Cobrar a Corto Plazo"
+  },
+  {
+    "codigo": "11331",
+    "nombre": "Documentos y Efectos a Cobrar a Corto Plazo"
+  },
+  {
+    "codigo": "11332",
+    "nombre": "Documentos y Efectos a Cobrar Morosos a Corto Plazo"
+  },
+  {
+    "codigo": "11351",
+    "nombre": "A Organismos de la Administración Central (Órgano Ejecutivo)"
+  },
+  {
+    "codigo": "11352",
+    "nombre": "A Instituciones Públicas Descentralizadas"
+  },
+  {
+    "codigo": "11353",
+    "nombre": "A Gobiernos Autónomos Departamentales"
+  },
+  {
+    "codigo": "11354",
+    "nombre": "A Gobiernos Autónomos Municipales"
+  },
+  {
+    "codigo": "11355",
+    "nombre": "A Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "11356",
+    "nombre": "A Empresas Públicas No Financieras Nacionales"
+  },
+  {
+    "codigo": "11357",
+    "nombre": "A Empresas Públicas No Financieras Regionales"
+  },
+  {
+    "codigo": "11358",
+    "nombre": "A Empresas Públicas No Financieras Municipales"
+  },
+  {
+    "codigo": "11361",
+    "nombre": "A Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "11362",
+    "nombre": "A Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "11363",
+    "nombre": "Al Sector Privado"
+  },
+  {
+    "codigo": "11364",
+    "nombre": "Al Sector Externo"
+  },
+  {
+    "codigo": "11510",
+    "nombre": "Inventarios de Materias Primas, Materiales y Suministros"
+  },
+  {
+    "codigo": "12151",
+    "nombre": "A Organismos de la Administración Central (Órgano Ejecutivo)"
+  },
+  {
+    "codigo": "12152",
+    "nombre": "A las Instituciones Públicas Descentralizadas"
+  },
+  {
+    "codigo": "12153",
+    "nombre": "A Gobiernos Autónomos Departamentales"
+  },
+  {
+    "codigo": "12154",
+    "nombre": "A Gobiernos Autónomos Municipales"
+  },
+  {
+    "codigo": "12155",
+    "nombre": "A Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "12156",
+    "nombre": "A Empresas Públicas No Financieras Nacionales"
+  },
+  {
+    "codigo": "12157",
+    "nombre": "A Empresas Públicas No Financieras Regionales"
+  },
+  {
+    "codigo": "12158",
+    "nombre": "A Empresas Públicas No Financieras Municipales"
+  },
+  {
+    "codigo": "12161",
+    "nombre": "A Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "12162",
+    "nombre": "A Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "12163",
+    "nombre": "Al Sector Privado"
+  },
+  {
+    "codigo": "12164",
+    "nombre": "Al Sector Externo"
+  },
+  {
+    "codigo": "12211",
+    "nombre": "En Empresas Privadas Nacionales"
+  },
+  {
+    "codigo": "12212",
+    "nombre": "En Empresas Públicas no Financieras"
+  },
+  {
+    "codigo": "12213",
+    "nombre": "En Instituciones Públicas Financieras"
+  },
+  {
+    "codigo": "12214",
+    "nombre": "En Organismos Internacionales"
+  },
+  {
+    "codigo": "12215",
+    "nombre": "En Otras del Sector Externo"
+  },
+  {
+    "codigo": "12221",
+    "nombre": "Letras del Tesoro a Largo Plazo"
+  },
+  {
+    "codigo": "12222",
+    "nombre": "Bonos del Tesoro a Largo Plazo"
+  },
+  {
+    "codigo": "12223",
+    "nombre": "Otros Títulos y Valores a Largo Plazo"
+  },
+  {
+    "codigo": "12311",
+    "nombre": "Edificios: Incluye los edificios y sus instalaciones destinados al"
+  },
+  {
+    "codigo": "12312",
+    "nombre": "Equipo de Oficina y Muebles: Comprende todo el equipamiento"
+  },
+  {
+    "codigo": "12313",
+    "nombre": "Maquinaria y Equipo de Producción: Incluye los mecanismos y"
+  },
+  {
+    "codigo": "12314",
+    "nombre": "Equipo de Transporte, Tracción y Elevación: Incluye los meca-"
+  },
+  {
+    "codigo": "12315",
+    "nombre": "Equipo Médico y de Laboratorio: Incluye los mecanismos, equi-"
+  },
+  {
+    "codigo": "12316",
+    "nombre": "Equipo de Comunicaciones: Incluye los mecanismos, equipa-"
+  },
+  {
+    "codigo": "12317",
+    "nombre": "Equipo Educacional y Recreativo: Incluye los mecanismos, equi-"
+  },
+  {
+    "codigo": "12318",
+    "nombre": "Otra Maquinaria y Equipo: Se imputarán contablemente a esta"
+  },
+  {
+    "codigo": "12340",
+    "nombre": "Equipo de Computación"
+  },
+  {
+    "codigo": "12351",
+    "nombre": "Construcciones y Mejoras de Viviendas: Inversiones efectuadas"
+  },
+  {
+    "codigo": "12352",
+    "nombre": "Construcciones y Mejoras para Defensa y Seguridad: Costos in-"
+  },
+  {
+    "codigo": "12353",
+    "nombre": "Construcciones y Mejoras de Otros Bienes de Dominio Privado:"
+  },
+  {
+    "codigo": "12354",
+    "nombre": "Supervisión de Construcciones y Mejoras de Bienes de Domi-"
+  },
+  {
+    "codigo": "12361",
+    "nombre": "Construcciones en Proceso de Bienes de Dominio Público: Cos-"
+  },
+  {
+    "codigo": "12362",
+    "nombre": "Supervisión de Construcciones y Mejoras de Bienes de Dominio"
+  },
+  {
+    "codigo": "12371",
+    "nombre": "De Dominio Privado: Costos generados en estudios, proyectos"
+  },
+  {
+    "codigo": "12372",
+    "nombre": "De Dominio Público: Costos generados en estudios, proyectos e"
+  },
+  {
+    "codigo": "21110",
+    "nombre": "Cuentas a Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "21141",
+    "nombre": "Aportes Patronales a Pagar a Corto Plazo: Obligaciones pen-"
+  },
+  {
+    "codigo": "21142",
+    "nombre": "Retenciones a Pagar a Corto Plazo: Obligaciones pendientes de"
+  },
+  {
+    "codigo": "21143",
+    "nombre": "Aportes Patronales a Pagar de Entidades Descentralizadas a"
+  },
+  {
+    "codigo": "21144",
+    "nombre": "Retenciones a Pagar de Entidades Descentralizadas a Corto Pla-"
+  },
+  {
+    "codigo": "21161",
+    "nombre": "Impuestos a Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "21162",
+    "nombre": "Regalías a Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "21163",
+    "nombre": "Tasas, Multas y Otros Derechos Obligatorios a Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "21171",
+    "nombre": "Amortización de la Deuda Pública Interna"
+  },
+  {
+    "codigo": "21172",
+    "nombre": "Amortización de la Deuda Pública Externa"
+  },
+  {
+    "codigo": "21173",
+    "nombre": "Intereses Deuda Interna"
+  },
+  {
+    "codigo": "21174",
+    "nombre": "Intereses Deuda Externa"
+  },
+  {
+    "codigo": "21175",
+    "nombre": "Comisiones y Otros Gastos de la Deuda Pública Interna"
+  },
+  {
+    "codigo": "21176",
+    "nombre": "Comisiones y Otros Gastos de la Deuda Pública Externa"
+  },
+  {
+    "codigo": "21177",
+    "nombre": "Intereses por Mora y Multa de la Deuda Pública Interna"
+  },
+  {
+    "codigo": "21178",
+    "nombre": "Intereses por Mora y Multa de la Deuda Pública Externa"
+  },
+  {
+    "codigo": "21181",
+    "nombre": "A Organismos de la Administración Central (Órgano Ejecutivo)"
+  },
+  {
+    "codigo": "21182",
+    "nombre": "A Instituciones Públicas Descentralizadas"
+  },
+  {
+    "codigo": "21183",
+    "nombre": "A Gobiernos Autónomos Departamentales"
+  },
+  {
+    "codigo": "21184",
+    "nombre": "A Gobiernos Autónomos Municipales"
+  },
+  {
+    "codigo": "21185",
+    "nombre": "A Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "21186",
+    "nombre": "A Empresas Públicas"
+  },
+  {
+    "codigo": "21187",
+    "nombre": "A Instituciones Financieras Bancarias y no Bancarias"
+  },
+  {
+    "codigo": "21188",
+    "nombre": "Al Sector Privado"
+  },
+  {
+    "codigo": "21189",
+    "nombre": "Al Sector Externo"
+  },
+  {
+    "codigo": "41100",
+    "nombre": "Venta de Bienes y Servicios de las Administraciones Públicas"
+  },
+  {
+    "codigo": "41300",
+    "nombre": "Tasas, Derechos y Patentes Municipales"
+  },
+  {
+    "codigo": "52200",
+    "nombre": "Venta de Servicios"
+  }
+]

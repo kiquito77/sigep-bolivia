@@ -1,0 +1,142 @@
+[
+  {
+    "codigo": "15",
+    "sigla": "IDP",
+    "nombre": "Ingreso Devengado - Percibido",
+    "tipo": "RECURSO",
+    "descripcion": "Ingreso simultáneo donde se reconoce el derecho a percibir y se realiza el cobro efectivo en ventanilla bancaria o caja.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Venta de servicios, valores, patentes municipales, timbres, formularios"
+  },
+  {
+    "codigo": "09",
+    "sigla": "GCT",
+    "nombre": "Compromiso-Devengado-Pagado (GCT)",
+    "tipo": "GASTO",
+    "descripcion": "Gasto Corriente Total simultáneo. Se ejecuta la partida presupuestaria y se realiza el pago contable inmediato con cheque o banco.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Compra directa con cheque/transferencia (Librería Pompeya, limpieza, útiles)"
+  },
+  {
+    "codigo": "08",
+    "sigla": "CD",
+    "nombre": "Compromiso-Devengado (CD)",
+    "tipo": "GASTO",
+    "descripcion": "Compromiso y Devengado simultáneo al recibir bienes o servicios a crédito / pendiente de pago a proveedores.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Recepción de activos o materiales con factura por pagar"
+  },
+  {
+    "codigo": "01",
+    "sigla": "PREV",
+    "nombre": "Preventivo de Gasto",
+    "tipo": "GASTO",
+    "descripcion": "Reserva previa de asignación presupuestaria antes de iniciar el proceso de contratación. No genera asiento patrimonial contable.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": false,
+    "ejemplo": "Inicio de licitación pública o cotización para obras o consultorías"
+  },
+  {
+    "codigo": "02",
+    "sigla": "COMP",
+    "nombre": "Compromiso de Gasto",
+    "tipo": "GASTO",
+    "descripcion": "Suscripción del contrato o emisión de Orden de Compra formal con el proveedor.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": false,
+    "ejemplo": "Firma de contrato de provisión o adjudicación"
+  },
+  {
+    "codigo": "03",
+    "sigla": "DEV",
+    "nombre": "Devengado de Gasto",
+    "tipo": "GASTO",
+    "descripcion": "Recepción definitiva del bien o servicio prestado (conformidad de almacén o supervisión). Nace la obligación contable por pagar.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Recepción de mercadería o activos según acta de entrega"
+  },
+  {
+    "codigo": "04",
+    "sigla": "PAG",
+    "nombre": "Pagado de Gasto",
+    "tipo": "GASTO",
+    "descripcion": "Desembolso efectivo mediante cheque o transferencia SIGEP al beneficiario para cancelar un devengado previo.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Emisión de cheque de pago al contratista con retenciones"
+  },
+  {
+    "codigo": "12",
+    "sigla": "DEVR",
+    "nombre": "Devengado de Recursos",
+    "tipo": "RECURSO",
+    "descripcion": "Reconocimiento del derecho exigible de cobro por venta de servicios, impuestos, tasas o transferencias pendientes.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Liquidación de venta de servicios o patentes por cobrar"
+  },
+  {
+    "codigo": "13",
+    "sigla": "PERC",
+    "nombre": "Percibido de Recursos",
+    "tipo": "RECURSO",
+    "descripcion": "Ingreso efectivo de fondos en las cuentas corrientes fiscales o caja proveniente de un recurso devengado.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Cobro de liquidación impositiva o venta de servicios devengada"
+  },
+  {
+    "codigo": "07",
+    "sigla": "PCD",
+    "nombre": "Preventivo-Compromiso-Devengado (PCD)",
+    "tipo": "GASTO",
+    "descripcion": "Integración de los 3 momentos para contrataciones directas.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Servicios de imprenta urgente o pasajes"
+  },
+  {
+    "codigo": "10",
+    "sigla": "DP",
+    "nombre": "Devengado-Pagado (DP)",
+    "tipo": "GASTO",
+    "descripcion": "Devengado y cancelación simultánea sin compromiso previo.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": true,
+    "ejemplo": "Pago de viáticos o gastos de representación de emergencia"
+  },
+  {
+    "codigo": "21",
+    "sigla": "EST",
+    "nombre": "Estimación de Recursos",
+    "tipo": "RECURSO",
+    "descripcion": "Cálculo o presupuestación anual proyectada de los ingresos en el POA.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": false,
+    "ejemplo": "Aprobación del Presupuesto Operativo Anual de Recursos"
+  },
+  {
+    "codigo": "32",
+    "sigla": "MOD",
+    "nombre": "Modificación Presupuestaria / Traspaso",
+    "tipo": "PRESUPUESTO",
+    "descripcion": "Traspaso intrainstitucional de crédito presupuestario entre partidas de gasto o proyectos.",
+    "afecta_presupuesto": true,
+    "afecta_contabilidad": false,
+    "ejemplo": "Traspaso de partida 22110 a 39500 para compra de útiles"
+  },
+  {
+    "codigo": "40",
+    "sigla": "AJUSTE",
+    "nombre": "Asiento de Ajuste / Contabilidad Pura",
+    "tipo": "CONTABLE",
+    "descripcion": "Registro de operaciones contables financieras sin afectación presupuestaria.",
+    "afecta_presupuesto": false,
+    "afecta_contabilidad": true,
+    "ejemplo": "Depreciación de activos fijos, regularización de fondos en avance"
+  }
+]

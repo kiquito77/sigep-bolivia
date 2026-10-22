@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SIGEP Bolivia - Sistema Presupuestario y Contable</title>
+  <link rel="stylesheet" href="./static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏛️</text></svg>">
+</head>
+<body>
+
+  <!-- Application Top Navigation Bar -->
+  <header class="top-menu-bar no-print">
+    <div class="brand-info">
+      <span class="brand-tag">SIGEP</span>
+      <div>
+        <div class="brand-text">Sistema de Gestión Pública - Presupuestos y Contabilidad Integrada</div>
+        <div class="brand-sub">Módulo Académico Municipal (MEFP / Ley 1178)</div>
+      </div>
+    </div>
+    <div class="menu-actions">
+      <select id="select-plantillas-menu" class="btn-header" style="outline:none; cursor:pointer;">
+        <!-- Populated dynamically -->
+      </select>
+      <button class="btn-header" onclick="nuevoComprobante()" title="Crear un nuevo comprobante en blanco listo para cargar" style="background:#1976d2; color:#fff; font-weight:bold;">
+        ➕ Nuevo Cbte
+      </button>
+      <button id="btn-toggle-view" class="btn-header" onclick="toggleVistaComprobante()">
+        👁️ Ver Cbte Oficial
+      </button>
+      <button class="btn-header" onclick="abrirModalMayores()" title="Ver los Libros Mayores de todas las cuentas" style="background:#4338ca; color:#ffffff; font-weight:bold; border-color:#3730a3;">
+        📖 Mayores
+      </button>
+      <button class="btn-header" onclick="abrirModalEEFF()" title="Ver y editar los 8 Estados Financieros oficiales" style="background:#047857; color:#ffffff; font-weight:bold; border-color:#065f46;">
+        📊 EEFF Estados Financieros
+      </button>
+      <button class="btn-header" onclick="abrirModalCelular()" title="Conectar desde celular o desde cualquier departamento (Potosí, etc.)" style="background:#0284c7; color:#ffffff; font-weight:bold; border-color:#0369a1;">
+        📱 Usar en Celular
+      </button>
+      <button class="btn-header primary" onclick="imprimirComprobante()" title="Imprimir el comprobante actual">
+        🖨️ Imprimir Cbte (F8)
+      </button>
+      <button class="btn-header batch" onclick="imprimirTodasEnUna()" title="Imprimir todo el lote acumulado en papel">
+        📑 Imprimir Lote
+      </button>
+      <button class="btn-header" onclick="exportarComoPdf()" title="Guardar todos los comprobantes acumulados en un solo archivo PDF" style="background:#dc2626; color:#ffffff; font-weight:bold; border-color:#b91c1c;">
+        📥 Exportar a PDF
+      </button>
+    </div>
+  </header>
+
+  <main class="main-layout">
+
+    <!-- ========================================================
+         THE EXACT CLEANED SIGEP ENTRY WINDOW
+         ======================================================== -->
+    <div id="sigep-entry-window" class="sigep-window">
+
+      <!-- Top Information Strip -->
+      <div class="sigep-win-strip">
+        <div class="strip-item" style="flex: 1; gap: 6px;">
+          <span>Unidad : </span>
+          <input type="text" id="input-ue" class="sigep-input" style="width:45px; text-align:center; font-weight:bold; padding:2px;" value="001" title="Código de Unidad Ejecutora (ej. 001)" oninput="syncInputsToVoucher(); renderPhysicalVoucher();">
+          <input type="text" id="input-ue-desc" class="sigep-input" style="width:230px; font-weight:bold; font-size:11px; padding:2px 6px;" value="DIRECCION ADMINISTRATIVA Y FINANCIERA" title="Nombre de la Dirección o Unidad Ejecutora" oninput="syncInputsToVoucher(); renderPhysicalVoucher();">
+          <span style="margin-left: 6px;">Cbte : </span>
+          <input type="text" id="input-cbte-strip" class="sigep-input" style="width:75px; text-align:center; font-weight:bold;" value="0000001" oninput="syncInputsToVoucher(); renderPhysicalVoucher();">
+          <span id="lbl-edit-mode" class="mode-badge new" title="Estado de este comprobante: Nuevo o Editando guardado">NUEVO</span>
+        </div>
+        <div class="strip-item">
+          <span>Moneda : </span>
+          <span style="font-weight:bold; margin-right: 8px;">BBS</span>
+          <span>Código : </span>
+          <select id="select-momento-strip" class="strip-select" style="max-width: 280px;">
+            <!-- Populated dynamically with all moments -->
+          </select>
+        </div>
+      </div>
+
+      <!-- Session Resume Alert / Help Banner -->
+      <div id="session-resume-banner" class="session-resume-banner" style="display:none;"></div>
+
+      <!-- Top Form Parameters with Live BCB Indexation -->
+      <div class="sigep-win-form">
+        <div class="sigep-form-row">
+          <label class="sigep-label">Entidad :</label>
+          <input type="text" id="input-entidad" class="sigep-input" style="flex: 1; font-weight:bold; font-size:11.5px;" value="1814 - GM - GOBIERNO AUTÓNOMO MUNICIPAL DE SAN JOAQUÍN" placeholder="Nombre de la Entidad Pública" oninput="syncInputsToVoucher(); renderPhysicalVoucher();">
+        </div>
+
+        <div class="sigep-form-row">
+          <label class="sigep-label">Depositante :</label>
+          <input type="text" id="input-depositante" class="sigep-input" style="flex: 1;" placeholder="Nombre de proveedor, cajero o beneficiario">
+          <button type="button" class="sigep-input" style="width:28px; cursor:pointer; padding:0; display:flex; align-items:center; justify-content:center;" title="Buscar">&#128269;</button>
+          
+          <label style="margin-left: 12px; margin-right: 4px;">Fecha :</label>
+          <input type="text" id="input-fecha" class="sigep-input" style="width: 100px; text-align:center;" value="10/09/2026">
+        </div>
+
+        <div class="sigep-form-row">
+          <label class="sigep-label">Doc. de Respaldo :</label>
+          <input type="text" id="input-respaldo" class="sigep-input" style="flex: 1;" placeholder="INFORME DEL CAJERO, ARQUEO DE CAJA, FACTURA...">
+
+          <label style="margin-left: 12px; margin-right: 4px;">Dólar :</label>
+          <input type="text" id="input-dolar" class="sigep-input" style="width: 60px; text-align:right;" value="6.86">
+
+          <label style="margin-left: 8px; margin-right: 4px;">UFV :</label>
+          <input type="text" id="input-ufv" class="sigep-input" style="width: 75px; text-align:right;" value="3.36081">
+
+          <button type="button" id="btn-sync-bcb" class="btn-bcb-sync" onclick="syncBCB()" title="Actualizar en tiempo real desde el Banco Central de Bolivia (BCB)">
+            🔄 BCB
+          </button>
+        </div>
+
+        <div class="sigep-form-row" style="align-items: flex-start; margin-top: 3px;">
+          <label class="sigep-label" style="padding-top: 4px;">Enunciado (7-8 cm sup.) :</label>
+          <textarea id="input-enunciado" class="sigep-input" style="flex: 1; height: 36px; resize: vertical; font-family: inherit; font-size: 11px; padding: 4px 6px; line-height: 1.25;" placeholder="Escribe aquí el enunciado del ejercicio académico (se ubicará en los 7-8 cm superiores de la hoja). Si lo dejas vacío, queda el espacio limpio para escribirlo a mano..." oninput="syncInputsToVoucher(); renderPhysicalVoucher();"></textarea>
+        </div>
+
+        <div class="sigep-form-row" style="align-items: flex-start; margin-top: 3px;">
+          <label class="sigep-label" style="padding-top: 4px;">Desc. Transacción (Glosa) :</label>
+          <textarea id="input-glosa" class="sigep-input" style="flex: 1; height: 36px; resize: vertical; font-family: inherit; font-size: 11px; padding: 4px 6px; line-height: 1.25;" placeholder="Descripción de la transacción / Glosa general del comprobante (se reflejará en la impresión oficial)..." oninput="handleGlosaVoucherInput(this.value)"></textarea>
+        </div>
+      </div>
+
+      <!-- The Table / Grid with Requested Exact Columns -->
+      <div class="sigep-grid-container">
+        <table class="sigep-grid">
+          <thead>
+            <tr>
+              <th style="width: 14%;">
+                RUBRO
+                <button type="button" class="btn-th-lookup" onclick="abrirModalRubros()" title="Desplegar Clasificador de Rubros y Partidas [F7]">🔍 F7</button>
+              </th>
+              <th style="width: 14%;">
+                CTA CONTABLE
+                <button type="button" class="btn-th-lookup" onclick="abrirModalPlanCuentas()" title="Desplegar Plan de Cuentas MEFP [F6]">🔍 F6</button>
+              </th>
+              <th style="width: 36%;">DESCRIPCIÓN</th>
+              <th style="width: 12%;">PRESUPUESTO</th>
+              <th style="width: 12%;">DEBE (Bs.)</th>
+              <th style="width: 12%;">HABER (Bs.)</th>
+            </tr>
+          </thead>
+          <tbody id="sigep-grid-tbody">
+            <!-- Dynamic rows rendered by app.js -->
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Totals Strip at bottom of table -->
+      <div class="sigep-grid-totals-strip">
+        <span class="totals-title">Totales :</span>
+        <div class="total-box-wrap">
+          <span class="total-box-label">Presup:</span>
+          <div id="total-presup-box" class="total-box" style="color:#a00000;">0.00</div>
+        </div>
+        <div class="total-box-wrap">
+          <span class="total-box-label">Debe:</span>
+          <div id="total-debe-box" class="total-box">0.00</div>
+        </div>
+        <div class="total-box-wrap">
+          <span class="total-box-label">Haber:</span>
+          <div id="total-haber-box" class="total-box">0.00</div>
+        </div>
+      </div>
+
+      <!-- Detail Box of the selected row -->
+      <div class="sigep-footer-detail">
+        <div class="detail-inspector">
+          <div>Linea No : <span id="lbl-linea-no" class="val">1</span></div>
+          <div>Rubro / Partida : <span id="lbl-rubro" class="val">-</span></div>
+          <div>Cuenta Contable : <span id="lbl-cuenta" class="val">-</span></div>
+        </div>
+
+        <textarea id="txt-row-glosa" class="detail-glosa-box" placeholder="Descripción / Glosa detallada de la línea seleccionada..." oninput="handleGlosaInput(this.value)"></textarea>
+
+        <div class="sigep-actions">
+          <button type="button" class="btn-sigep-action btn-action-save" onclick="grabarComprobante()" title="Guardar comprobante actual en la base de datos (F2)">
+            <span class="action-icon" style="color:#2e7d32;">💾</span>
+            <span><b><u>G</u>rabar [F2]</b></span>
+          </button>
+          <button type="button" class="btn-sigep-action btn-action-next" onclick="grabarYSiguiente()" title="Guardar este comprobante y preparar de inmediato el siguiente correlativo (Shift+F2 o Ctrl+Enter)">
+            <span class="action-icon" style="color:#0284c7;">💾➕</span>
+            <span><b>Guardar y Siguiente</b></span>
+          </button>
+          <button type="button" class="btn-sigep-action" onclick="nuevoComprobante()" title="Crear otro comprobante nuevo en blanco">
+            <span class="action-icon" style="color:#2563eb;">➕</span>
+            <span>Nuevo Cbte</span>
+          </button>
+          <button type="button" class="btn-sigep-action" onclick="limpiarFilaActiva()" title="Limpiar datos de la fila actual (Ctrl+F4)">
+            <span class="action-icon" style="color:#d32f2f;">❌</span>
+            <span>Limpiar Fila</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Bottom Keyboard Shortcuts Bar -->
+      <div class="sigep-shortcuts-bar">
+        <span><strong>[F6]</strong> Plan Cuentas</span> &nbsp;|&nbsp;
+        <span><strong>[F7]</strong> Rubros/Partidas</span> &nbsp;|&nbsp;
+        <span><strong>[F2]</strong> Grabar</span> &nbsp;|&nbsp;
+        <span><strong>[Shift+F2]</strong> Guardar y Siguiente</span> &nbsp;|&nbsp;
+        <span><strong>[F4]</strong> Eliminar Fila</span> &nbsp;|&nbsp;
+        <span><strong>[F3]</strong> +3 Filas</span> &nbsp;|&nbsp;
+        <span><strong>[F8]</strong> Imprimir</span>
+      </div>
+
+    </div>
+
+    <!-- ========================================================
+         SIDE PANEL: COMPROBANTES GRABADOS (ACCUMULATOR UP TO 50)
+         ======================================================== -->
+    <aside class="side-panel-saved no-print">
+      <div class="side-panel-header">
+        <span>📂 COMPROBANTES GRABADOS</span>
+        <span id="lbl-cbte-count" class="brand-tag" style="background:#ffcc00; color:#000; font-size:10px;">0 / 50</span>
+      </div>
+      
+      <div class="side-panel-actions">
+        <button class="btn-batch-pdf-big" onclick="exportarComoPdf()" title="Guardar todos los comprobantes acumulados en un solo archivo PDF">
+          📥 GUARDAR TODO EN PDF
+        </button>
+        <button class="btn-batch-print-big" onclick="imprimirTodasEnUna()" title="Imprimir todos los comprobantes acumulados en papel">
+          🖨️ IMPRIMIR TODAS EN PAPEL
+        </button>
+        <div class="side-panel-subactions">
+          <button class="btn-side-sub" onclick="nuevoComprobante()">➕ Nuevo Cbte</button>
+          <button class="btn-side-sub" style="color:#d32f2f;" onclick="vaciarTodosLosComprobantes()">🗑️ Vaciar</button>
+        </div>
+      </div>
+
+      <!-- Scrollable list of saved vouchers -->
+      <div id="saved-cbte-list" class="saved-list-scroll">
+        <!-- Rendered by app.js -->
+      </div>
+    </aside>
+
+    <!-- ========================================================
+         PHYSICAL PRINTABLE VOUCHER VIEW (SINGLE)
+         ======================================================== -->
+    <div id="sigep-physical-view" class="physical-voucher-view">
+      <div id="sigep-sheet-container">
+        <!-- Exact official voucher rendered by app.js -->
+      </div>
+    </div>
+
+    <!-- ========================================================
+         BATCH PRINT VIEW (MULTI-PAGE CONTINUOUS PRINTING)
+         ======================================================== -->
+    <div id="sigep-batch-print-view" class="batch-print-view">
+      <!-- Injected with multiple .sigep-sheet elements on batch print -->
+    </div>
+
+    <!-- ========================================================
+         MODAL 1: PLAN GENERAL DE CUENTAS (MEFP) [F6]
+         ======================================================== -->
+    <div id="modal-plan-cuentas" class="sigep-modal-backdrop" style="display:none;" onclick="handleModalBackdropClick(event, 'modal-plan-cuentas')">
+      <div class="sigep-modal-window">
+        <div class="sigep-modal-header">
+          <div class="modal-title-wrap">
+            <span class="modal-icon">📖</span>
+            <span class="modal-title">PLAN GENERAL DE CUENTAS (MEFP) &mdash; [F6]</span>
+          </div>
+          <button type="button" class="btn-modal-close" onclick="cerrarModales()" title="Cerrar [Esc]">✕</button>
+        </div>
+
+        <div class="sigep-modal-search-bar">
+          <input type="text" id="search-cta-modal" class="modal-search-input" placeholder="🔍 Buscar cuenta por código o nombre (ej. 11310, Banco, Caja, Exigible)..." oninput="filtrarModalCuentas(this.value)">
+          <span id="lbl-count-cuentas" class="modal-counter">0 cuentas</span>
+        </div>
+
+        <div class="sigep-modal-body">
+          <table class="sigep-modal-table">
+            <thead>
+              <tr>
+                <th style="width: 25%;">CÓDIGO</th>
+                <th style="width: 60%;">NOMBRE DE LA CUENTA</th>
+                <th style="width: 15%;">NIVEL</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-modal-cuentas">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+
+        <div class="sigep-modal-footer">
+          <span>💡 Presiona <strong>[Enter]</strong> o haz clic para seleccionar | <strong>[Esc]</strong> para cancelar</span>
+          <button type="button" class="btn-modal-footer-cancel" onclick="cerrarModales()">Cerrar [Esc]</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================
+         MODAL 2: CLASIFICADOR PRESUPUESTARIO (RUBROS Y PARTIDAS) [F7]
+         ======================================================== -->
+    <div id="modal-clasificador-rubros" class="sigep-modal-backdrop" style="display:none;" onclick="handleModalBackdropClick(event, 'modal-clasificador-rubros')">
+      <div class="sigep-modal-window">
+        <div class="sigep-modal-header">
+          <div class="modal-title-wrap">
+            <span class="modal-icon">📊</span>
+            <span class="modal-title">CLASIFICADOR PRESUPUESTARIO (RUBROS Y PARTIDAS) &mdash; [F7]</span>
+          </div>
+          <button type="button" class="btn-modal-close" onclick="cerrarModales()" title="Cerrar [Esc]">✕</button>
+        </div>
+
+        <div class="sigep-modal-search-bar">
+          <div class="modal-tabs">
+            <button type="button" id="tab-rubros-all" class="modal-tab active" onclick="setRubrosFilterType('all')">Todos</button>
+            <button type="button" id="tab-rubros-rec" class="modal-tab" onclick="setRubrosFilterType('recursos')">Rubros (Recursos)</button>
+            <button type="button" id="tab-rubros-gas" class="modal-tab" onclick="setRubrosFilterType('gastos')">Partidas (Gastos)</button>
+          </div>
+          <input type="text" id="search-rubro-modal" class="modal-search-input" placeholder="🔍 Buscar rubro o partida por código o descripción (ej. 12200, 31100, Venta, Servicios)..." oninput="filtrarModalRubros(this.value)">
+          <span id="lbl-count-rubros" class="modal-counter">0 items</span>
+        </div>
+
+        <div class="sigep-modal-body">
+          <table class="sigep-modal-table">
+            <thead>
+              <tr>
+                <th style="width: 20%;">TIPO</th>
+                <th style="width: 25%;">CÓDIGO</th>
+                <th style="width: 55%;">DENOMINACIÓN OFICIAL</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-modal-rubros">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+
+        <div class="sigep-modal-footer">
+          <span>💡 Presiona <strong>[Enter]</strong> o haz clic para seleccionar | <strong>[Esc]</strong> para cancelar</span>
+          <button type="button" class="btn-modal-footer-cancel" onclick="cerrarModales()">Cerrar [Esc]</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================
+         MODAL 3: LIBRO MAYOR (MAYORES DE TODAS LAS CUENTAS)
+         ======================================================== -->
+    <div id="modal-mayores" class="sigep-modal-backdrop" style="display:none;" onclick="handleModalBackdropClick(event, 'modal-mayores')">
+      <div class="sigep-modal-window eeff-modal-window">
+        <div class="sigep-modal-header" style="background: linear-gradient(135deg, #1e1b4b, #312e81); color: #fff;">
+          <div class="modal-title-wrap">
+            <span class="modal-icon">📖</span>
+            <span class="modal-title">LIBRO MAYOR GENERAL DE CUENTAS &mdash; SISTEMA SIGEP</span>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center;">
+            <button type="button" class="btn-header" onclick="imprimirMayores()" style="background:#4338ca; color:#fff; border:none; padding:4px 12px; font-size:11px; font-weight:bold; cursor:pointer; border-radius:4px;">🖨️ Imprimir Mayores</button>
+            <button type="button" class="btn-modal-close" style="color:#fff;" onclick="cerrarModales()" title="Cerrar [Esc]">✕</button>
+          </div>
+        </div>
+
+        <!-- Controls Toolbar -->
+        <div class="eeff-controls-bar">
+          <div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; flex:1;">
+            <label style="font-weight:bold; font-size:11px; color:#1e293b;">Filtrar Cuenta:</label>
+            <select id="select-cuenta-mayor" class="sigep-input" style="padding:4px 8px; font-size:11px; font-weight:bold; min-width:260px;" onchange="filtrarVistaMayores(this.value)">
+              <option value="all">Todas las Cuentas (Consolidado)</option>
+            </select>
+            <input type="text" id="search-mayores-input" class="sigep-input" style="padding:4px 8px; font-size:11px; width:220px;" placeholder="🔍 Buscar por glosa o comprobante..." oninput="filtrarMayoresTexto(this.value)">
+          </div>
+          <div id="mayores-summary-pills" style="display:flex; gap:6px; align-items:center;">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+
+        <div class="sigep-modal-body" style="padding: 16px; background: #f8fafc;">
+          <div id="mayores-list-container">
+            <!-- Rendered dynamically -->
+          </div>
+        </div>
+
+        <div class="sigep-modal-footer">
+          <span>💡 Movimientos contables extraídos y calculados en tiempo real de los <strong>36 comprobantes</strong>.</span>
+          <button type="button" class="btn-modal-footer-cancel" onclick="cerrarModales()">Cerrar [Esc]</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================
+         MODAL 4: EEFF ESTADOS FINANCIEROS (8 ESTADOS OFICIALES)
+         ======================================================== -->
+    <div id="modal-eeff" class="sigep-modal-backdrop" style="display:none;" onclick="handleModalBackdropClick(event, 'modal-eeff')">
+      <div class="sigep-modal-window eeff-modal-window">
+        <div class="sigep-modal-header" style="background: linear-gradient(135deg, #064e3b, #047857); color: #fff;">
+          <div class="modal-title-wrap">
+            <span class="modal-icon">📊</span>
+            <span class="modal-title">ESTADOS FINANCIEROS DEL SECTOR PÚBLICO &mdash; NB-SCI / SIGEP</span>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center;">
+            <button type="button" class="btn-modal-close" style="color:#fff;" onclick="cerrarModales()" title="Cerrar [Esc]">✕</button>
+          </div>
+        </div>
+
+        <!-- 8 Tabs Bar -->
+        <div class="eeff-tabs-container">
+          <button type="button" class="eeff-tab-btn active" data-report="balance_general" onclick="seleccionarReporteEEFF('balance_general')">1. Balance General</button>
+          <button type="button" class="eeff-tab-btn" data-report="recursos_gastos_corrientes" onclick="seleccionarReporteEEFF('recursos_gastos_corrientes')">2. Rec. y Gastos Ctes.</button>
+          <button type="button" class="eeff-tab-btn" data-report="flujo_efectivo" onclick="seleccionarReporteEEFF('flujo_efectivo')">3. Flujo de Efectivo</button>
+          <button type="button" class="eeff-tab-btn" data-report="cambios_patrimonio_neto" onclick="seleccionarReporteEEFF('cambios_patrimonio_neto')">4. Cambios Patrimonio</button>
+          <button type="button" class="eeff-tab-btn" data-report="ejecucion_presupuesto_recursos" onclick="seleccionarReporteEEFF('ejecucion_presupuesto_recursos')">5. Ejec. Presup. Recursos</button>
+          <button type="button" class="eeff-tab-btn" data-report="ejecucion_presupuesto_gastos" onclick="seleccionarReporteEEFF('ejecucion_presupuesto_gastos')">6. Ejec. Presup. Gastos</button>
+          <button type="button" class="eeff-tab-btn" data-report="cuenta_ahorro_inversion_financiamiento" onclick="seleccionarReporteEEFF('cuenta_ahorro_inversion_financiamiento')">7. Cta. Ahorro Inv. Fin. (CAIF)</button>
+          <button type="button" class="eeff-tab-btn" data-report="estado_cuentas_complementaria" onclick="seleccionarReporteEEFF('estado_cuentas_complementaria')">8. Estados de Cuentas / Info</button>
+        </div>
+
+        <!-- Action Toolbar for active report -->
+        <div class="eeff-actions-toolbar">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span id="lbl-eeff-status" class="eeff-badge-status">⚡ Calculado desde 36 Comprobantes</span>
+            <span style="font-size:11px; color:#64748b;">(Puedes hacer clic en cualquier celda para editar números o texto)</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+            <button type="button" class="btn-eeff-action btn-eeff-save" onclick="guardarCambiosEEFFActual()" title="Guardar los cambios personalizados realizados en este estado financiero">💾 Guardar Cambios</button>
+            <button type="button" class="btn-eeff-action btn-eeff-recompute" onclick="recalcularEEFFActual()" title="Recalcular automáticamente desde los 36 comprobantes de la base de datos">🔄 Recalcular de Cbtes</button>
+            <button type="button" class="btn-eeff-action btn-eeff-docx" onclick="descargarDocxEEFFActual()" title="Descargar documento oficial editable de Word (.docx)">📄 Descargar Word (.docx)</button>
+            <button type="button" class="btn-eeff-action btn-eeff-print" onclick="imprimirEEFFActual()" title="Imprimir este estado financiero">🖨️ Imprimir</button>
+          </div>
+        </div>
+
+        <!-- Active Financial Statement Paper Content -->
+        <div class="sigep-modal-body" style="padding: 16px; background: #e2e8f0; overflow-y: auto;">
+          <div id="eeff-paper-wrapper" class="eeff-paper-sheet">
+            <div id="eeff-report-content">
+              <!-- Rendered dynamically -->
+            </div>
+          </div>
+        </div>
+
+        <div class="sigep-modal-footer">
+          <span>💡 Formatos oficiales alineados a las Normas Básicas del Sistema de Contabilidad Integrada (NB-SCI).</span>
+          <button type="button" class="btn-modal-footer-cancel" onclick="cerrarModales()">Cerrar [Esc]</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ========================================================
+         MODAL 5: CONECTAR DESDE EL CELULAR / REMOTO (POTOSÍ, ETC.)
+         ======================================================== -->
+    <div id="modal-celular" class="sigep-modal-backdrop" style="display:none;" onclick="handleModalBackdropClick(event, 'modal-celular')">
+      <div class="sigep-modal-window" style="width: 720px; max-width: 95vw;">
+        <div class="sigep-modal-header" style="background: linear-gradient(135deg, #0369a1, #0284c7); color: #fff;">
+          <div class="modal-title-wrap">
+            <span class="modal-icon">📱</span>
+            <span class="modal-title">ACCESO DESDE EL CELULAR Y OTROS DEPARTAMENTOS (POTOSÍ, ETC.)</span>
+          </div>
+          <button type="button" class="btn-modal-close" style="color:#fff;" onclick="cerrarModales()" title="Cerrar [Esc]">✕</button>
+        </div>
+
+        <div class="sigep-modal-body" style="padding: 16px; background: #f8fafc; overflow-y: auto;">
+          <p style="margin: 0 0 12px 0; font-size: 13px; color: #334155; line-height: 1.4;">
+            Puedes usar el sistema exactamente igual desde tu <b>teléfono celular</b>: crear y editar comprobantes, ver Mayores, generar Estados Financieros, descargar Word e imprimir/exportar PDF.
+          </p>
+
+          <div class="celular-card-grid">
+            <!-- Opción 1: Remoto / Internet / Potosí -->
+            <div class="celular-card highlight">
+              <span style="font-size: 24px;">🌍</span>
+              <h4>Desde Cualquier Lugar / Potosí</h4>
+              <p style="font-size: 11px; color: #64748b; margin: 4px 0 8px 0;">Funciona con datos móviles 4G/5G o WiFi en cualquier ciudad o departamento.</p>
+              <div class="celular-url-box" id="tunnel-url-text">https://dinner-modifications-dvd-dave.trycloudflare.com</div>
+              <div class="celular-qr-box">
+                <img id="qr-tunnel-img" src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fdinner-modifications-dvd-dave.trycloudflare.com" alt="QR Remoto" width="160" height="160" style="display:block;">
+              </div>
+              <div>
+                <button type="button" class="btn-header" style="background:#0284c7; color:#fff; border:none; padding:6px 12px; font-size:11px; font-weight:bold; cursor:pointer; border-radius:4px;" onclick="copiarAlPortapapeles('https://dinner-modifications-dvd-dave.trycloudflare.com')">📋 Copiar Enlace</button>
+              </div>
+            </div>
+
+            <!-- Opción 2: Red Local WiFi -->
+            <div class="celular-card">
+              <span style="font-size: 24px;">📶</span>
+              <h4>En la misma Red WiFi (Local)</h4>
+              <p style="font-size: 11px; color: #64748b; margin: 4px 0 8px 0;">Tu teléfono y tu PC deben estar conectados a la misma red WiFi.</p>
+              <div class="celular-url-box" id="wifi-url-text">http://192.168.1.119:8000</div>
+              <div class="celular-qr-box">
+                <img id="qr-wifi-img" src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=http%3A%2F%2F192.168.1.119%3A8000" alt="QR WiFi" width="160" height="160" style="display:block;">
+              </div>
+              <div>
+                <button type="button" class="btn-header" style="background:#475569; color:#fff; border:none; padding:6px 12px; font-size:11px; font-weight:bold; cursor:pointer; border-radius:4px;" onclick="copiarAlPortapapeles('http://192.168.1.119:8000')">📋 Copiar Enlace</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sigep-modal-footer">
+          <span>📲 <b>Consejo:</b> Abre la cámara de tu celular y apunta al código QR para ingresar de inmediato.</span>
+          <button type="button" class="btn-modal-footer-cancel" onclick="cerrarModales()">Cerrar [Esc]</button>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <script src="./static/data_embedded.js"></script>
+  <script src="./static/app.js"></script>
+</body>
+</html>

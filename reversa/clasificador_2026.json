@@ -1,0 +1,4283 @@
+{
+ "gestion": 2026,
+ "fuente": "Clasificadores_Presupuestarios_2026_0.pdf",
+ "gastos": [
+  {
+   "GASTO": "10000",
+   "DES": "SERVICIOS PERSONALES",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11000",
+   "DES": "Empleados Permanentes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11100",
+   "DES": "Haberes Básicos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11200",
+   "DES": "Bono de Antigüedad",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11210",
+   "DES": "Categorías Magisterio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11220",
+   "DES": "Bono de Antigüedad",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11300",
+   "DES": "Bonificaciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11310",
+   "DES": "Bono de Frontera",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11320",
+   "DES": "Remuneraciones Colaterales Médicas y de Trabajadores en Salud",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11321",
+   "DES": "Categorías Médicas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11322",
+   "DES": "Escalafón Médico",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11323",
+   "DES": "Escalafón de los Trabajadores en Salud",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11324",
+   "DES": "Otras Remuneraciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11330",
+   "DES": "Otras Bonificaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11331",
+   "DES": "Pago Variable",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11332",
+   "DES": "Pago Adicional Fijo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11339",
+   "DES": "Otras Bonificaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11400",
+   "DES": "Aguinaldos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11500",
+   "DES": "Primas y Bono de Producción",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11510",
+   "DES": "Primas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11520",
+   "DES": "Bono de Producción",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11600",
+   "DES": "Asignaciones Familiares",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11700",
+   "DES": "Sueldos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11800",
+   "DES": "Dietas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11810",
+   "DES": "Dietas de Directorio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11820",
+   "DES": "Otras Dietas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11900",
+   "DES": "Otros Servicios Personales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "11910",
+   "DES": "Horas Extraordinarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11920",
+   "DES": "Vacaciones no Utilizadas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11930",
+   "DES": "Incentivos Económicos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "11940",
+   "DES": "Suplencias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "12000",
+   "DES": "Empleados No Permanentes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "12100",
+   "DES": "Personal Eventual",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13000",
+   "DES": "Previsión Social",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "13100",
+   "DES": "Aporte Patronal al Seguro Social",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "13110",
+   "DES": "Régimen de Corto Plazo (Salud)",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13120",
+   "DES": "Prima de Riesgo Profesional Régimen de Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13130",
+   "DES": "Aporte Patronal Fondo Solidario Régimen de Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13131",
+   "DES": "Aporte Patronal Solidario 3.5%",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13132",
+   "DES": "Aporte Patronal Minero Solidario 2.3%",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "13200",
+   "DES": "Aporte Patronal para Vivienda",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "14000",
+   "DES": "Otros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "14100",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "15000",
+   "DES": "Previsiones para Incremento de Gastos en Servicios Personales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "15100",
+   "DES": "Incremento Salarial",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "15200",
+   "DES": "Crecimiento Vegetativo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "15300",
+   "DES": "Creación de Ítems",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "15400",
+   "DES": "Otras Previsiones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "20000",
+   "DES": "SERVICIOS NO PERSONALES",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "21000",
+   "DES": "Servicios Básicos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "21100",
+   "DES": "Comunicaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "21200",
+   "DES": "Energía Eléctrica",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "21300",
+   "DES": "Agua",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "21400",
+   "DES": "Telefonía",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "21500",
+   "DES": "Gas Domiciliario",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "21600",
+   "DES": "Internet",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22000",
+   "DES": "Servicios de Transporte y Seguros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "22100",
+   "DES": "Pasajes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "22110",
+   "DES": "Pasajes al Interior del País",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22120",
+   "DES": "Pasajes al Exterior del País",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22200",
+   "DES": "Viáticos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "22210",
+   "DES": "Viáticos por Viajes al Interior del País.",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22220",
+   "DES": "Viáticos por Viajes al Exterior del País.",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22300",
+   "DES": "Fletes y Almacenamiento",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22400",
+   "DES": "Gastos de Instalación y Retorno",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22500",
+   "DES": "Seguros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "22600",
+   "DES": "Transporte de Personal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "23000",
+   "DES": "Alquileres",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "23100",
+   "DES": "Alquiler de Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "23200",
+   "DES": "Alquiler de Equipos y Maquinarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "23300",
+   "DES": "Alquiler de Tierras y Terrenos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "23400",
+   "DES": "Otros Alquileres",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "24000",
+   "DES": "Instalación, Mantenimiento y Reparaciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "24100",
+   "DES": "Mantenimiento y Reparación de Inmuebles, Muebles y Equipos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "24110",
+   "DES": "Mantenimiento y Reparación de Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "24120",
+   "DES": "Mantenimiento y Reparación de Vehículos, Maquinaria y Equipos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "24130",
+   "DES": "Mantenimiento y Reparación de Muebles y Enseres",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "24200",
+   "DES": "Mantenimiento y Reparación de Vías de Comunicación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "24300",
+   "DES": "Otros Gastos por Concepto de Instalación, Mantenimiento y Reparación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25000",
+   "DES": "Servicios Profesionales y Comerciales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "25100",
+   "DES": "Médicos, Sanitarios y Sociales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "25120",
+   "DES": "Gastos Especializados por Atención Médica y Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25130",
+   "DES": "Gastos por Afiliación de Estudiantes Universitarios al Seguro Social",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25200",
+   "DES": "Estudios, Investigaciones, Auditorías Externas y Revalorizaciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "25210",
+   "DES": "Consultorías por Producto",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25220",
+   "DES": "Consultores Individuales de Línea",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25230",
+   "DES": "Auditorías Externas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25300",
+   "DES": "Comisiones y Gastos Bancarios",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25400",
+   "DES": "Lavandería, Limpieza e Higiene",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25500",
+   "DES": "Publicidad",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25600",
+   "DES": "Servicios de Imprenta, Fotocopiado y Fotográficos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25700",
+   "DES": "Capacitación del Personal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25800",
+   "DES": "Estudios e Investigaciones para Proyectos de Inversión No Capitalizables",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "25810",
+   "DES": "Consultorías por Producto",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25820",
+   "DES": "Consultores Individuales de Línea",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "25900",
+   "DES": "Servicios Manuales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26000",
+   "DES": "Otros Servicios No Personales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "26200",
+   "DES": "Gastos Judiciales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26300",
+   "DES": "Derechos sobre Bienes Intangibles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26500",
+   "DES": "Conjueces y Jueces Ciudadanos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26600",
+   "DES": "Servicio de Seguridad de los Batallones de Seguridad Física de la Policía Boliviana, las",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "26610",
+   "DES": "Servicios Públicos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26620",
+   "DES": "Servicios Privados",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26630",
+   "DES": "Servicios por Traslado de Valores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26640",
+   "DES": "Compensación Económica",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26700",
+   "DES": "Servicios de Laboratorios Especializados",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26900",
+   "DES": "Otros Servicios No Personales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "26910",
+   "DES": "Gastos de Representación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26920",
+   "DES": "Fallas de Caja",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26930",
+   "DES": "Pago por Trabajos Dirigidos y Pasantías",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26940",
+   "DES": "Compensación Costo de Vida",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26950",
+   "DES": "Aguinaldo “Esfuerzo por Bolivia”",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "26990",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "27000",
+   "DES": "Gastos por Servicios Especializados por la Actividad Extractiva de Recursos Naturales del",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "27100",
+   "DES": "Servicios por la Extracción, Transformación y Conversión de los Recursos Naturales de",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "27110",
+   "DES": "Pago por Costos Incurridos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "27120",
+   "DES": "Pago por Utilidades",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "30000",
+   "DES": "MATERIALES Y SUMINISTROS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "31000",
+   "DES": "Alimentos y Productos Agroforestales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "31100",
+   "DES": "Alimentos y Bebidas para Personas, Desayuno Escolar y Otros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "31110",
+   "DES": "Gastos por Refrigerios al Personal Permanente, Eventual y Consultores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31120",
+   "DES": "Gastos por Alimentación y Otros Similares",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31130",
+   "DES": "Alimentación Complementaria Escolar",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31140",
+   "DES": "Alimentación Hospitalaria, Penitenciaria, Aeronaves y Otras Específicas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31150",
+   "DES": "Alimentos y Bebidas para la atención de emergencias y desastres naturales.",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31200",
+   "DES": "Alimentos para Animales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "31300",
+   "DES": "Productos Agrícolas, Pecuarios y Forestales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "32000",
+   "DES": "Productos de Papel, Cartón e Impresos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "32100",
+   "DES": "Papel",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "32200",
+   "DES": "Productos de Artes Gráficas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "32300",
+   "DES": "Libros, Manuales y Revistas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "32400",
+   "DES": "Textos de Enseñanza",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "32500",
+   "DES": "Periódicos y Boletines",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "33000",
+   "DES": "Textiles y Vestuario",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "33100",
+   "DES": "Hilados, Telas, Fibras y Algodón",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "33200",
+   "DES": "Confecciones Textiles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "33300",
+   "DES": "Prendas de Vestir",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "33400",
+   "DES": "Calzados",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34000",
+   "DES": "Combustibles, Productos Químicos, Farmacéuticos y Otras Fuentes de Energía",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "34100",
+   "DES": "Combustibles, Lubricantes, Derivados y otras Fuentes de Energía",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "34110",
+   "DES": "Combustibles, Lubricantes y Derivados para consumo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34120",
+   "DES": "Combustibles, Lubricantes y Derivados para comercialización",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34130",
+   "DES": "Energía Eléctrica para Comercialización",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34200",
+   "DES": "Productos Químicos y Farmacéuticos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34300",
+   "DES": "Llantas y Neumáticos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34400",
+   "DES": "Productos de Cuero y Caucho",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34500",
+   "DES": "Productos de Minerales no Metálicos y Plásticos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34600",
+   "DES": "Productos Metálicos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34700",
+   "DES": "Minerales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34800",
+   "DES": "Herramientas Menores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "34900",
+   "DES": "Material y Equipo Militar",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39000",
+   "DES": "Productos Varios",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "39100",
+   "DES": "Material de Limpieza e Higiene",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39200",
+   "DES": "Material Deportivo y Recreativo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39300",
+   "DES": "Utensilios de Cocina y Comedor",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39400",
+   "DES": "Instrumental Menor Médico-Quirúrgico",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39500",
+   "DES": "Útiles de Escritorio y Oficina",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39600",
+   "DES": "Útiles Educacionales, Culturales y de Capacitación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39700",
+   "DES": "Útiles y Materiales Eléctricos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39800",
+   "DES": "Otros Repuestos y Accesorios",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39900",
+   "DES": "Otros Materiales y Suministros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "39910",
+   "DES": "Acuñación de Monedas e Impresión de Billetes",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39911",
+   "DES": "Acuñación de monedas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39912",
+   "DES": "Impresión de billetes",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "39990",
+   "DES": "Otros Materiales y Suministros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "40000",
+   "DES": "ACTIVOS REALES",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "41000",
+   "DES": "Inmobiliarios",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "41100",
+   "DES": "Edificios",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "41200",
+   "DES": "Tierras y Terrenos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "41300",
+   "DES": "Otras Adquisiciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42000",
+   "DES": "Construcciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "42200",
+   "DES": "Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Privado",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "42210",
+   "DES": "Construcciones y Mejoras de Viviendas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42220",
+   "DES": "Construcciones y Mejoras para Defensa y Seguridad",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42230",
+   "DES": "Otras Construcciones y Mejoras de Bienes Públicos de Dominio Privado",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42240",
+   "DES": "Supervisión de Construcciones y Mejoras de Bienes Públicos de Dominio Privado",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42300",
+   "DES": "Construcciones y Mejoras de Bienes Nacionales de Dominio Público",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "42310",
+   "DES": "Construcciones y Mejoras de Bienes de Dominio Público",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42320",
+   "DES": "Supervisión de Construcciones y Mejoras de Bienes de Dominio Público",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42400",
+   "DES": "Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Privado - Llave en",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "42500",
+   "DES": "Construcciones y Mejoras de Bienes Públicos Nacionales de Dominio Público - Llave en",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43000",
+   "DES": "Maquinaria y Equipo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "43100",
+   "DES": "Equipo de Oficina y Muebles",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "43110",
+   "DES": "Equipo de Oficina y Muebles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43120",
+   "DES": "Equipo de Computación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43200",
+   "DES": "Maquinaria y Equipo de Producción",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43300",
+   "DES": "Equipo de Transporte, Tracción y Elevación",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "43310",
+   "DES": "Vehículos Livianos para Funciones Administrativas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43320",
+   "DES": "Vehículos Livianos para Proyectos de Inversión Pública",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43330",
+   "DES": "Maquinaria y Equipo de Transporte",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43340",
+   "DES": "Equipo de Elevación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43400",
+   "DES": "Equipo Médico y de Laboratorio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43500",
+   "DES": "Equipo de Comunicación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43600",
+   "DES": "Equipo Educacional y Recreativo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "43700",
+   "DES": "Otra Maquinaria y Equipo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46000",
+   "DES": "Estudios y Proyectos para Inversión",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "46100",
+   "DES": "Para Construcciones de Bienes Públicos de Dominio Privado",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "46110",
+   "DES": "Consultoría por Producto para Construcciones de Bienes Públicos de Dominio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46120",
+   "DES": "Consultoría de Línea para Construcciones de Bienes Públicos de Dominio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46200",
+   "DES": "Para Construcciones de Bienes de Dominio Público",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "46210",
+   "DES": "Consultoría por Producto para Construcciones de Bienes Públicos de Dominio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46220",
+   "DES": "Consultoría de Línea para Construcciones de Bienes Públicos de Dominio Público.",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46300",
+   "DES": "Consultoría para capacitación, transferencia de tecnología y organización para procesos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "46310",
+   "DES": "Consultoría por Producto",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "46320",
+   "DES": "Consultoría de Línea",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "49000",
+   "DES": "Otros Activos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "49100",
+   "DES": "Activos Intangibles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "49300",
+   "DES": "Activos de Origen Animal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "49400",
+   "DES": "Activos Museológicos y Culturales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "49500",
+   "DES": "Activos de Origen Vegetal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "49900",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "50000",
+   "DES": "ACTIVOS FINANCIEROS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "51000",
+   "DES": "Compra de Acciones, Participaciones de Capital e Inversiones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "51100",
+   "DES": "Acciones y Participaciones de Capital en Empresas Privadas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51200",
+   "DES": "Acciones y Participaciones de Capital en Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51300",
+   "DES": "Acciones y Participaciones de Capital en Empresas Públicas Territoriales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "51310",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51320",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51330",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51340",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51500",
+   "DES": "Acciones y Participaciones de Capital en Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51600",
+   "DES": "Acciones y Participaciones de Capital en Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51700",
+   "DES": "Acciones y Participaciones de Capital en Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51800",
+   "DES": "Otras Acciones y Participaciones de Capital en el Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "51900",
+   "DES": "Inversiones en el Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52000",
+   "DES": "Concesión de Préstamos a Corto Plazo al Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "52100",
+   "DES": "Concesión de Préstamos a Corto Plazo a los Órganos del Estado Plurinacional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52200",
+   "DES": "Concesión de Préstamos a Corto Plazo a Instituciones Públicas Descentralizadas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52400",
+   "DES": "Concesión de Préstamos a Corto Plazo a Entidades Territoriales Autónomas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "52410",
+   "DES": "Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52420",
+   "DES": "Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52430",
+   "DES": "Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52440",
+   "DES": "Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52600",
+   "DES": "Concesión de Préstamos a Corto Plazo a Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52700",
+   "DES": "Concesión de Préstamos a Corto Plazo a Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52800",
+   "DES": "Concesión de Préstamos a Corto Plazo a Empresas Públicas Territoriales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "52810",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52820",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52830",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "52840",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53000",
+   "DES": "Concesión de Préstamos a Largo Plazo al Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "53100",
+   "DES": "Concesión de Préstamos a Largo Plazo a los Órganos del Estado Plurinacional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53200",
+   "DES": "Concesión de Préstamos a Largo Plazo a Instituciones Públicas Descentralizadas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53400",
+   "DES": "Concesión de Préstamos a Largo Plazo a Entidades Territoriales Autónomas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "53410",
+   "DES": "Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53420",
+   "DES": "Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53430",
+   "DES": "Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53440",
+   "DES": "Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53600",
+   "DES": "Concesión de Préstamos a Largo Plazo a Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53700",
+   "DES": "Concesión de Préstamos a Largo Plazo a Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53800",
+   "DES": "Concesión de Préstamos a Largo Plazo a Empresas Públicas Territoriales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "53810",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53820",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53830",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "53840",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54000",
+   "DES": "Concesión de Préstamos al Sector Público Financiero y a los Sectores Privado y del Exterior",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "54100",
+   "DES": "Concesión de Préstamos a Corto Plazo a Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54200",
+   "DES": "Concesión de Préstamos a Corto Plazo a Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54300",
+   "DES": "Concesión de Préstamos a Corto Plazo al Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54400",
+   "DES": "Concesión de Préstamos a Corto Plazo al Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54600",
+   "DES": "Concesión de Préstamos a Largo Plazo a Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54700",
+   "DES": "Concesión de Préstamos a Largo Plazo a Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54800",
+   "DES": "Concesión de Préstamos a Largo Plazo al Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "54900",
+   "DES": "Concesión de Préstamos a Largo Plazo al Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55000",
+   "DES": "Compra de Títulos y Valores",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "55100",
+   "DES": "Títulos y Valores a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "55110",
+   "DES": "Letras del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55120",
+   "DES": "Bonos del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55130",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55200",
+   "DES": "Títulos y Valores a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "55210",
+   "DES": "Letras del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55220",
+   "DES": "Bonos del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "55230",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "56000",
+   "DES": "Constitución de Fideicomisos y Servicios Financieros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "56100",
+   "DES": "Colocación de Fondos en Fideicomiso",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "56200",
+   "DES": "Concesiones de Recursos de Fideicomisos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "56300",
+   "DES": "Colocación de Fondos por Servicios Financieros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "57000",
+   "DES": "Incremento de Disponibilidades",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "57100",
+   "DES": "Incremento de Caja y Bancos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "57200",
+   "DES": "Incremento de Inversiones Temporales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58000",
+   "DES": "Incremento de Cuentas y Documentos por Cobrar y Otros Activos Financieros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "58100",
+   "DES": "Incremento de Cuentas por Cobrar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58200",
+   "DES": "Incremento de Documentos por Cobrar y Otros Activos Financieros a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "58210",
+   "DES": "Incremento de Documentos por Cobrar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58220",
+   "DES": "Incremento de Otros Activos Financieros a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58300",
+   "DES": "Incremento de Cuentas por Cobrar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58400",
+   "DES": "Incremento de Documentos por Cobrar y Otros Activos Financieros a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "58410",
+   "DES": "Incremento de Documentos por Cobrar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "58420",
+   "DES": "Incremento de Otros Activos Financieros a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "59000",
+   "DES": "Afectaciones al Tesoro General de la Nación",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "59100",
+   "DES": "Afectaciones al Tesoro General de la Nación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "60000",
+   "DES": "SERVICIO DE LA DEUDA PÚBLICA Y DISMINUCIÓN DE OTROS PASIVOS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "61000",
+   "DES": "Servicio de la Deuda Pública Interna",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "61100",
+   "DES": "Amortización de la Deuda Pública Interna a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61200",
+   "DES": "Intereses de la Deuda Pública Interna a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61300",
+   "DES": "Comisiones y Otros Gastos de la Deuda Pública Interna a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61400",
+   "DES": "Intereses por Mora y Multas de la Deuda Pública Interna a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61600",
+   "DES": "Amortización de la Deuda Pública Interna a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61700",
+   "DES": "Intereses de la Deuda Pública Interna a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61800",
+   "DES": "Comisiones y Otros Gastos de la Deuda Pública Interna a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "61900",
+   "DES": "Intereses por Mora y Multas de la Deuda Pública Interna a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62000",
+   "DES": "Servicio de la Deuda Pública Externa",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "62100",
+   "DES": "Amortización de la Deuda Pública Externa a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62200",
+   "DES": "Intereses de la Deuda Pública Externa a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62300",
+   "DES": "Comisiones y Otros Gastos de la Deuda Pública Externa a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62400",
+   "DES": "Intereses por Mora y Multas de la Deuda Pública Externa a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62600",
+   "DES": "Amortización de la Deuda Pública Externa a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62700",
+   "DES": "Intereses de la Deuda Pública Externa a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62800",
+   "DES": "Comisiones y Otros Gastos de la Deuda Pública Externa a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "62900",
+   "DES": "Intereses por Mora y Multas de la Deuda Pública Externa a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63000",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "63100",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Deudas Comerciales con Proveedores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63200",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo con Contratistas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63300",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Sueldos y Jornales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63400",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Aportes Patronales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63500",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Retenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63600",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Impuestos, Regalías y Tasas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63700",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Jubilaciones y Pensiones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63800",
+   "DES": "Disminución de Cuentas por Pagar a Corto Plazo por Intereses",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "63900",
+   "DES": "Disminución de Otros Pasivos y Otras Cuentas por Pagar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "64000",
+   "DES": "Disminución de Cuentas por Pagar a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "64100",
+   "DES": "Disminución de Cuentas por Pagar a Largo Plazo por Deudas Comerciales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "64200",
+   "DES": "Disminución de Otras Cuentas por Pagar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65000",
+   "DES": "Gastos Devengados No Pagados – TGN",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "65100",
+   "DES": "Gastos Devengados No Pagados por Servicios Personales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65200",
+   "DES": "Gastos Devengados No Pagados por Servicios No Personales, Materiales y Suministros,",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "65210",
+   "DES": "Gastos Devengados No Pagados por Servicios No Personales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65220",
+   "DES": "Gastos Devengados No Pagados por Materiales y Suministros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65230",
+   "DES": "Gastos Devengados No Pagados por Activos Reales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65240",
+   "DES": "Gastos Devengados No Pagados por Activos Financieros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65300",
+   "DES": "Gastos Devengados No Pagados por Transferencias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65400",
+   "DES": "Gastos Devengados No Pagados por Retenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65500",
+   "DES": "Gastos Devengados No Pagados por Intereses Deuda Pública Interna",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65600",
+   "DES": "Gastos Devengados No Pagados por Intereses Deuda Pública Externa",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65700",
+   "DES": "Gastos Devengados No Pagados por Comisiones Deuda Pública Interna",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65800",
+   "DES": "Gastos Devengados No Pagados por Comisiones Deuda Pública Externa",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "65900",
+   "DES": "Otros Gastos Devengados No Pagados",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66000",
+   "DES": "Gastos Devengados No Pagados – Otras Fuentes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "66100",
+   "DES": "Gastos Devengados No Pagados por Servicios Personales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66200",
+   "DES": "Gastos Devengados No Pagados por Servicios No Personales, Materiales y Suministros,",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "66210",
+   "DES": "Gastos Devengados No Pagados por Servicios No Personales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66220",
+   "DES": "Gastos Devengados No Pagados por Materiales y Suministros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66230",
+   "DES": "Gastos Devengados No Pagados por Activos Reales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66240",
+   "DES": "Gastos Devengados No Pagados por Activos Financieros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66250",
+   "DES": "Gastos Devengados No Pagados por Servicio de la Deuda",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66300",
+   "DES": "Gastos Devengados No Pagados por Transferencias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66400",
+   "DES": "Gastos Devengados No pagados por Retenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "66900",
+   "DES": "Otros Gastos No Pagados",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "67000",
+   "DES": "Obligaciones por Afectaciones al Tesoro General de la Nación",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "67100",
+   "DES": "Obligaciones por Afectaciones al Tesoro General de la Nación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "68000",
+   "DES": "Disminución de Otros Pasivos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "68200",
+   "DES": "Pago de Beneficios Sociales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "69000",
+   "DES": "Devolución de Fondos - Fideicomisos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "69100",
+   "DES": "Devolución de Fondos - Fideicomiso de Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "69200",
+   "DES": "Devolución de Fondos - Fideicomiso de Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "70000",
+   "DES": "TRANSFERENCIAS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "71000",
+   "DES": "Transferencias Corrientes al Sector Privado",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "71100",
+   "DES": "Pensiones y Jubilaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71200",
+   "DES": "Becas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "71210",
+   "DES": "Becas de Estudios Otorgadas a los Servidores Públicos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71220",
+   "DES": "Becas de Estudios Otorgadas a los Estudiantes Universitarios",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71230",
+   "DES": "Becas de Estudios Otorgadas a Particulares",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71300",
+   "DES": "Donaciones, Ayudas Sociales y Premios a Personas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71500",
+   "DES": "Subsidios a Personas ó Instituciones Privadas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71600",
+   "DES": "Subsidios y Donaciones a Personas e Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "71610",
+   "DES": "A Personas e Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71630",
+   "DES": "Otros de Carácter Social Establecidos por Norma Legal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71700",
+   "DES": "Subvenciones Económicas a Empresas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71800",
+   "DES": "Pensiones Vitalicias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "71900",
+   "DES": "Transferencias por las Compras de Control Tributario",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "72000",
+   "DES": "Transferencias Corrientes al Sector Público No Financiero por Participación en Tributos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "72200",
+   "DES": "Transferencias Corrientes a Instituciones Públicas Descentralizadas, Universidades",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "72400",
+   "DES": "Transferencias Corrientes al Gobierno Autónomo Departamental por Participación en",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "72410",
+   "DES": "Para Educación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "72420",
+   "DES": "Otras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "72500",
+   "DES": "Transferencias Corrientes a los Gobiernos Autónomos Municipales e Indígena Originario",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "72510",
+   "DES": "Para Salud",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "72520",
+   "DES": "Otras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73000",
+   "DES": "Transferencias Corrientes al Sector Público No Financiero por Subsidios o Subvenciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "73100",
+   "DES": "Transferencias Corrientes al Órgano Ejecutivo del Estado Plurinacional por Subsidios o",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73200",
+   "DES": "Transferencias Corrientes a los Órganos Legislativo, Judicial y Electoral, Entidades de",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73300",
+   "DES": "Transferencias Corrientes del Fondo Compensatorio Nacional de Salud",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73400",
+   "DES": "Transferencias Corrientes a Entidades Territoriales Autónomas por Subsidios o",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "73410",
+   "DES": "Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73420",
+   "DES": "Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73430",
+   "DES": "Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73440",
+   "DES": "Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73600",
+   "DES": "Transferencias Corrientes a Instituciones de Seguridad Social por Subsidios o",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73700",
+   "DES": "Transferencias Corrientes a Empresas Públicas Nacionales por Subsidios o Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73800",
+   "DES": "Transferencias Corrientes a Empresas Públicas de las Entidades Territoriales Autónomas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "73810",
+   "DES": "Empresas Públicas Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73820",
+   "DES": "Empresas Públicas Municipales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73830",
+   "DES": "Empresas Públicas Indígenas Originarias Campesinas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "73840",
+   "DES": "Empresas Públicas Regionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "74000",
+   "DES": "Transferencias Corrientes al Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "74100",
+   "DES": "Transferencias Corrientes a Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "74200",
+   "DES": "Transferencias Corrientes a Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75000",
+   "DES": "Transferencias de Capital al Sector Privado",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "75100",
+   "DES": "Transferencias de Capital a Personas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "75110",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75120",
+   "DES": "En Especie",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75200",
+   "DES": "Transferencias de Capital a Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "75210",
+   "DES": "A Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75211",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75212",
+   "DES": "En Especie",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75220",
+   "DES": "Otras de carácter económico – productivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75221",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75222",
+   "DES": "En Especie",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75300",
+   "DES": "Transferencias de Capital a Empresas Privadas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "75310",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "75320",
+   "DES": "En Especie",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77000",
+   "DES": "Transferencias de Capital al Sector Público No Financiero por Subsidios o Subvenciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "77100",
+   "DES": "Transferencias de Capital al Órgano Ejecutivo del Estado Plurinacional por Subsidios o",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77200",
+   "DES": "Transferencias de Capital a los Órganos Legislativo, Judicial y Electoral, Entidades de",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77400",
+   "DES": "Transferencias de Capital a los Gobiernos Autónomos Departamentales y Regional por",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "77410",
+   "DES": "Al Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77440",
+   "DES": "Al Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77500",
+   "DES": "Transferencias de Capital a los Gobiernos Autónomos Municipales e Indígena Originario",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "77520",
+   "DES": "Por Patentes Petroleras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77530",
+   "DES": "Otras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77600",
+   "DES": "Transferencias de Capital a Instituciones de Seguridad Social por Subsidios o Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77700",
+   "DES": "Transferencias de Capital a Empresas Públicas Nacionales por Subsidios o Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77800",
+   "DES": "Transferencias de Capital a Empresas Públicas de las Entidades Territoriales Autónomas",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "77810",
+   "DES": "A Empresas Públicas Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77820",
+   "DES": "A Empresas Públicas Municipales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77830",
+   "DES": "A Empresas Públicas Indígenas Originarias y Campesinas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "77840",
+   "DES": "A Empresas Públicas Regionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "78000",
+   "DES": "Transferencias de Capital al Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "78100",
+   "DES": "Transferencias de Capital a Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "78200",
+   "DES": "Transferencias de Capital a Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79000",
+   "DES": "Transferencias a Gobiernos Extranjeros, Organismos Internacionales y otros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "79100",
+   "DES": "Transferencias Corrientes a Gobiernos Extranjeros y Organismos Internacionales por",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79200",
+   "DES": "Transferencias Corrientes a Gobiernos Extranjeros y Organismos Internacionales por",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79300",
+   "DES": "Otras Transferencias Corrientes al Exterior",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "79310",
+   "DES": "Transferencias al Exterior en Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79320",
+   "DES": "Transferencias al Exterior en Especie",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79400",
+   "DES": "Transferencias de Capital al Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "79500",
+   "DES": "Transferencias a Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "80000",
+   "DES": "IMPUESTOS, REGALÍAS Y TASAS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "81000",
+   "DES": "Renta Interna",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "81100",
+   "DES": "Impuesto sobre las Utilidades de las Empresas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81200",
+   "DES": "Impuesto a las Transacciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81300",
+   "DES": "Impuesto al Valor Agregado Mercado Interno",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81400",
+   "DES": "Impuesto al Valor Agregado Importaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81500",
+   "DES": "Impuesto a los Consumos Específicos Mercado Interno",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81600",
+   "DES": "Impuesto a los Consumos Específicos Importaciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81700",
+   "DES": "Impuesto Especial a los Hidrocarburos y sus Derivados Mercado Interno",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81800",
+   "DES": "Impuesto Especial a los Hidrocarburos y sus Derivados Importación",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81900",
+   "DES": "Otros Impuestos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "81910",
+   "DES": "Impuesto a las Salidas Aéreas al Exterior",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81950",
+   "DES": "Impuesto a la Transmisión Gratuita de Bienes- ITGB",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81960",
+   "DES": "Impuesto a las Transacciones Financieras – ITF",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "81990",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "82000",
+   "DES": "Renta Aduanera",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "82100",
+   "DES": "Gravamen Arancelario",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "83000",
+   "DES": "Impuestos Municipales",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "83100",
+   "DES": "Impuesto a la Propiedad de Bienes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "83110",
+   "DES": "Bienes Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "83120",
+   "DES": "Vehículos Automotores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "83200",
+   "DES": "Impuesto a las Transferencias onerosas de bienes inmuebles y vehículos automotores",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "83210",
+   "DES": "Bienes Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "83220",
+   "DES": "Vehículos Automotores",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84000",
+   "DES": "Regalías",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "84100",
+   "DES": "Regalías Mineras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84200",
+   "DES": "Regalías por Hidrocarburos",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "84230",
+   "DES": "6% Participación TGN",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84240",
+   "DES": "11% Sobre Producción por Regalías Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84250",
+   "DES": "1% Sobre Producción para Regalías Compensatoria Departamental",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84300",
+   "DES": "Regalías Agropecuarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "84900",
+   "DES": "Otras Regalías",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85000",
+   "DES": "Tasas, Multas y Otros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "85100",
+   "DES": "Tasas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85200",
+   "DES": "Derechos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85300",
+   "DES": "Contribuciones por Mejoras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85400",
+   "DES": "Multas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85500",
+   "DES": "Intereses Penales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "85900",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "86000",
+   "DES": "Patentes",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "86100",
+   "DES": "Patentes",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "90000",
+   "DES": "OTROS GASTOS",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "91000",
+   "DES": "Intereses de Instituciones Financieras",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "91100",
+   "DES": "Intereses de Instituciones Públicas Financieras no Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "91200",
+   "DES": "Intereses de Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "92000",
+   "DES": "Otros Gastos Financieros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "92100",
+   "DES": "Gastos Financieros por Operaciones con Activos Virtuales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "94000",
+   "DES": "Beneficios Sociales y Otros",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "94100",
+   "DES": "Indemnización",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "94200",
+   "DES": "Desahucio",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "94300",
+   "DES": "Otros Beneficios Sociales",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "95000",
+   "DES": "Contingencias Judiciales y otras",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "95100",
+   "DES": "Contingencias Judiciales y otras",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "96000",
+   "DES": "Otras Pérdidas y Devoluciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "96100",
+   "DES": "Pérdidas en Operaciones Cambiarias",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "96200",
+   "DES": "Devoluciones",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "96900",
+   "DES": "Otras Pérdidas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "97000",
+   "DES": "Comisiones y Bonificaciones",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "97100",
+   "DES": "Comisiones por Ventas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "97200",
+   "DES": "Bonificaciones por Ventas",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "98000",
+   "DES": "Retiros de Capital",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "98100",
+   "DES": "Del Sector Público",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "98200",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "98300",
+   "DES": "Pago de Dividendos",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "99000",
+   "DES": "Previsiones para Gastos Corrientes y de Capital",
+   "TIPO": "N"
+  },
+  {
+   "GASTO": "99100",
+   "DES": "Previsiones para Gastos de Capital",
+   "TIPO": "S"
+  },
+  {
+   "GASTO": "99200",
+   "DES": "Previsiones para Gastos Corrientes",
+   "TIPO": "S"
+  }
+ ],
+ "recursos": [
+  {
+   "RECURSO": "11000",
+   "DES": "INGRESOS DE OPERACIÓN",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "11100",
+   "DES": "Venta de Bienes",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "11300",
+   "DES": "Venta de Servicios",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "11400",
+   "DES": "Alquiler de Edificios y/o Equipos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "11500",
+   "DES": "Ingresos Financieros de Instituciones Financieras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "11900",
+   "DES": "Otros Ingresos de Operación",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "12000",
+   "DES": "VENTA DE BIENES Y SERVICIOS DE LAS ADMINISTRACIONES PÚBLICAS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "12100",
+   "DES": "Venta de Bienes de las Administraciones Públicas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "12200",
+   "DES": "Venta de Servicios de las Administraciones Públicas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13000",
+   "DES": "INGRESOS POR IMPUESTOS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "13100",
+   "DES": "Impuestos Internos (Renta Interna)",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "13110",
+   "DES": "Impuesto sobre las Utilidades de las Empresas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13111",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13112",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13120",
+   "DES": "Impuesto a las Transacciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13121",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13122",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13130",
+   "DES": "Impuesto al Valor Agregado - Mercado Interno",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13131",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13132",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13140",
+   "DES": "Impuesto al Valor Agregado - Importaciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13141",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13142",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13150",
+   "DES": "Impuesto a los Consumos Específicos - Mercado Interno",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13151",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13152",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13160",
+   "DES": "Impuesto a los Consumos Específicos - Importaciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13161",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13162",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13170",
+   "DES": "Impuestos a los Hidrocarburos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13171",
+   "DES": "Impuesto Especial a los Hidrocarburos y sus Derivados Mercado Interno – En",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13172",
+   "DES": "Impuesto Especial a los Hidrocarburos y sus Derivados Mercado Interno – En",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13175",
+   "DES": "Impuesto Directo a los Hidrocarburos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13190",
+   "DES": "Otros Impuestos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13191",
+   "DES": "Régimen Complementario al IVA – RC IVA",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13192",
+   "DES": "Impuesto a las Salidas Aéreas al Exterior - ISAE",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13193",
+   "DES": "Impuesto a la Transmisión Gratuita de Bienes - ITGB",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13194",
+   "DES": "Régimen Agropecuario Unificado - RAU",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13195",
+   "DES": "Régimen Tributario Simplificado - RTS",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13196",
+   "DES": "Régimen Tributario Integrado - STI",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13197",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13198",
+   "DES": "Impuesto a las Transacciones Financieras - ITF",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13199",
+   "DES": "Impuestos a la Participación en Juegos, a la Venta de Moneda Extranjera y Otros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13200",
+   "DES": "Impuestos Aduaneros (Renta Aduanera)",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "13210",
+   "DES": "Gravamen Arancelario",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13211",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13212",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13300",
+   "DES": "Impuestos Municipales",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "13310",
+   "DES": "Impuesto a la Propiedad de Bienes Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13330",
+   "DES": "Impuesto a la Propiedad de Vehículos Automotores",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13360",
+   "DES": "Impuesto Municipal a la Transferencia de Inmuebles",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13370",
+   "DES": "Impuesto Municipal a la Transferencia de Vehículos Automotores",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13390",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13400",
+   "DES": "Impuestos Departamentales",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "13410",
+   "DES": "Impuesto a la Sucesión Hereditaria y Donación de Bienes Inmuebles y Muebles Sujetos a",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13420",
+   "DES": "Impuesto a la Propiedad de Vehículos a motor para la navegación Aérea y Acuática",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13430",
+   "DES": "Impuesto a la afectación del Medio Ambiente",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "13490",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14000",
+   "DES": "REGALÍAS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "14100",
+   "DES": "Regalías Mineras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14200",
+   "DES": "Regalías por Hidrocarburos",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "14210",
+   "DES": "Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14212",
+   "DES": "6% Participación TGN",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14220",
+   "DES": "Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14221",
+   "DES": "11% Regalías Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14222",
+   "DES": "1% Regalía Compensatoria Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14300",
+   "DES": "Regalías Agropecuarias y Forestales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "14900",
+   "DES": "Otras Regalías",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15000",
+   "DES": "TASAS, DERECHOS Y OTROS INGRESOS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "15100",
+   "DES": "Tasas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15200",
+   "DES": "Derechos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15300",
+   "DES": "Patentes y Concesiones",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "15310",
+   "DES": "Patentes Forestales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15320",
+   "DES": "Patentes Petroleras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15330",
+   "DES": "Patentes y Concesiones Mineras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15331",
+   "DES": "Patentes Mineras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15332",
+   "DES": "Concesiones Mineras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15340",
+   "DES": "Patentes Municipales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15350",
+   "DES": "Otras Patentes y Concesiones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15400",
+   "DES": "Contribuciones por Mejoras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15900",
+   "DES": "Otros Ingresos",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "15910",
+   "DES": "Multas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15920",
+   "DES": "Intereses Penales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15930",
+   "DES": "Ganancias en Operaciones Cambiarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15940",
+   "DES": "Renta Consular",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "15990",
+   "DES": "Otros Ingresos no Especificados",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16000",
+   "DES": "INTERESES Y OTRAS RENTAS DE LA PROPIEDAD",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "16100",
+   "DES": "Intereses",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "16110",
+   "DES": "Intereses por Depósitos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16120",
+   "DES": "Intereses por Valores",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16140",
+   "DES": "Intereses por Inversiones en instrumentos financieros en el extranjero",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16190",
+   "DES": "Otros Intereses",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16200",
+   "DES": "Dividendos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16300",
+   "DES": "Alquiler de Edificios, Tierras y Terrenos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16400",
+   "DES": "Derechos sobre Bienes Intangibles",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "16500",
+   "DES": "Alquiler de Equipos de las Administraciones Públicas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17000",
+   "DES": "CONTRIBUCIONES A LA SEGURIDAD SOCIAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "17100",
+   "DES": "Contribuciones Obligatorias",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "17110",
+   "DES": "Patronales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17111",
+   "DES": "Del Sector Público",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17112",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17120",
+   "DES": "Laborales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17121",
+   "DES": "Del Sector Público",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17122",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17130",
+   "DES": "Especiales de las Universidades Públicas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "17200",
+   "DES": "Contribuciones Voluntarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18000",
+   "DES": "DONACIONES CORRIENTES",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "18100",
+   "DES": "Donaciones Corrientes Internas",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "18110",
+   "DES": "Del Sector Privado Nacional realizados por personas naturales y jurídicas.",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18111",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18112",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18200",
+   "DES": "Donaciones Corrientes del Exterior",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "18210",
+   "DES": "Del Sector Privado del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18211",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18212",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18220",
+   "DES": "De Países y Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18221",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "18222",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19000",
+   "DES": "TRANSFERENCIAS CORRIENTES",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "19100",
+   "DES": "Del Sector Privado",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "19110",
+   "DES": "De Unidades Familiares",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19120",
+   "DES": "De Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19130",
+   "DES": "De Empresas Privadas y otros actores",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19200",
+   "DES": "Del Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "19210",
+   "DES": "Del Órgano Ejecutivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19211",
+   "DES": "Por Subsidios o Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19212",
+   "DES": "Por Coparticipación Tributaria",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19216",
+   "DES": "Fondo de Compensación Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19219",
+   "DES": "Por Emisión de Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19220",
+   "DES": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19230",
+   "DES": "De las Entidades Territoriales Autónomas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19231",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19232",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19233",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19234",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19260",
+   "DES": "De las Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19270",
+   "DES": "De las Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19271",
+   "DES": "Por Subsidios y Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19272",
+   "DES": "Por Excedentes Financieros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19280",
+   "DES": "De las Empresas Públicas Territoriales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19281",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19282",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19283",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19284",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19300",
+   "DES": "Del Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "19310",
+   "DES": "De las Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19320",
+   "DES": "De las Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "19400",
+   "DES": "Del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21000",
+   "DES": "RECURSOS PROPIOS DE CAPITAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "21100",
+   "DES": "Venta de Activos Fijos",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "21110",
+   "DES": "Edificios",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21120",
+   "DES": "Maquinaria y Equipo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21121",
+   "DES": "Equipo de Oficina y Muebles",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21122",
+   "DES": "Maquinaria y Equipo de Producción",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21123",
+   "DES": "Equipo de Transporte, Tracción y Elevación",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21124",
+   "DES": "Equipo Médico y de Laboratorio",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21125",
+   "DES": "Equipo de Comunicación",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21126",
+   "DES": "Equipo Educacional y Recreativo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21127",
+   "DES": "Otra Maquinaria y Equipo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21130",
+   "DES": "Semovientes",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21200",
+   "DES": "Venta de Tierras y Terrenos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21400",
+   "DES": "Venta de Activos Intangibles",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "21900",
+   "DES": "Venta de Otros Activos Fijos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22000",
+   "DES": "DONACIONES DE CAPITAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "22100",
+   "DES": "Donaciones de Capital Internas",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "22110",
+   "DES": "Del Sector Privado Nacional realizados por personas naturales y jurídicas.",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22111",
+   "DES": "Monetizables",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22112",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22200",
+   "DES": "Donaciones de Capital del Exterior",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "22210",
+   "DES": "Del Sector Privado del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22211",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22212",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22220",
+   "DES": "De Países y Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22221",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22222",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "22223",
+   "DES": "Donaciones HIPC",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23000",
+   "DES": "TRANSFERENCIAS DE CAPITAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "23100",
+   "DES": "Del Sector Privado",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "23110",
+   "DES": "De Unidades Familiares",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23111",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23112",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23120",
+   "DES": "De Instituciones Privadas sin Fines de Lucro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23121",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23122",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23130",
+   "DES": "De Empresas Privadas y otros actores",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23131",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23132",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23200",
+   "DES": "Del Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "23210",
+   "DES": "Del Órgano Ejecutivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23211",
+   "DES": "Por Subsidios o Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23212",
+   "DES": "Por Patentes Petroleras",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23219",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23220",
+   "DES": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23230",
+   "DES": "De las Entidades Territoriales Autónomas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23231",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23232",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23233",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23234",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23260",
+   "DES": "De las Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23270",
+   "DES": "De las Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23271",
+   "DES": "Por Subsidios y Subvenciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23272",
+   "DES": "Por Excedentes Financieros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23280",
+   "DES": "De las Empresas Públicas Territoriales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23281",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23282",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23283",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23284",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23300",
+   "DES": "Del Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "23310",
+   "DES": "De las Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23320",
+   "DES": "De las Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "23400",
+   "DES": "Del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31000",
+   "DES": "VENTA DE ACCIONES Y PARTICIPACIONES DE CAPITAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "31100",
+   "DES": "De Empresas Privadas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31200",
+   "DES": "De Empresas Públicas",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "31210",
+   "DES": "De las Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31220",
+   "DES": "De las Empresas Públicas Departamentales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31230",
+   "DES": "De las Empresas Públicas Municipales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31240",
+   "DES": "De las Empresas Públicas Regionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31250",
+   "DES": "De las Empresas Públicas Indígena Originaria Campesina",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31300",
+   "DES": "De Instituciones Públicas Financieras",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "31310",
+   "DES": "De las Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31320",
+   "DES": "De las Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31400",
+   "DES": "Del Exterior",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "31410",
+   "DES": "De Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "31420",
+   "DES": "Otras del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32000",
+   "DES": "RECUPERACIÓN DE PRÉSTAMOS DE CORTO PLAZO",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "32100",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32200",
+   "DES": "Del Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "32210",
+   "DES": "Del Órgano Ejecutivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32211",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32212",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32220",
+   "DES": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32230",
+   "DES": "De las Entidades Territoriales Autónomas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32231",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32232",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32233",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32234",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32260",
+   "DES": "De las Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32270",
+   "DES": "De las Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32280",
+   "DES": "De las Empresas Públicas Territoriales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32281",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32282",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32283",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32284",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32300",
+   "DES": "Del Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "32310",
+   "DES": "De las Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32320",
+   "DES": "De las Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "32400",
+   "DES": "Del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33000",
+   "DES": "RECUPERACION DE PRÉSTAMOS DE LARGO PLAZO",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "33100",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33200",
+   "DES": "Del Sector Público No Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "33210",
+   "DES": "Del Órgano Ejecutivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33211",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33212",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33220",
+   "DES": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33230",
+   "DES": "De las Entidades Territoriales Autónomas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33231",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33232",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33233",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33234",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33260",
+   "DES": "De las Instituciones de Seguridad Social",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33270",
+   "DES": "De las Empresas Públicas Nacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33280",
+   "DES": "De las Empresas Públicas Territoriales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33281",
+   "DES": "Del Gobierno Autónomo Departamental",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33282",
+   "DES": "Del Gobierno Autónomo Municipal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33283",
+   "DES": "Del Gobierno Autónomo Indígena Originario Campesino",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33284",
+   "DES": "Del Gobierno Autónomo Regional",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33300",
+   "DES": "Del Sector Público Financiero",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "33310",
+   "DES": "De las Instituciones Públicas Financieras No Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33320",
+   "DES": "De las Instituciones Públicas Financieras Bancarias",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33400",
+   "DES": "Recuperación de Fondos de Fideicomiso y Servicios Financieros",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "33410",
+   "DES": "De las Instituciones Públicas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33420",
+   "DES": "De las Instituciones Privadas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33500",
+   "DES": "Del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "33600",
+   "DES": "Recuperaciones por Afectaciones al Tesoro General de la Nación",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34000",
+   "DES": "VENTA DE TÍTULOS Y VALORES",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "34100",
+   "DES": "Venta de Títulos y Valores de Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "34110",
+   "DES": "Letras del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34120",
+   "DES": "Bonos del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34130",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34200",
+   "DES": "Venta de Títulos y Valores de Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "34210",
+   "DES": "Letras del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34220",
+   "DES": "Bonos del Tesoro",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "34230",
+   "DES": "Otros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35000",
+   "DES": "DISMINUCIÓN Y COBRO DE OTROS ACTIVOS FINANCIEROS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "35100",
+   "DES": "Disminución del Activo Disponible",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "35110",
+   "DES": "Disminución de Caja y Bancos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35120",
+   "DES": "Disminución de Inversiones Temporales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35130",
+   "DES": "Disminución de Anticipos Financieros",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35200",
+   "DES": "Disminución de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "35210",
+   "DES": "Disminución de Cuentas por Cobrar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35220",
+   "DES": "Disminución de Documentos por Cobrar y Otros Activos Financieros a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35221",
+   "DES": "Disminución de Documentos por Cobrar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35222",
+   "DES": "Disminución de Otros Activos Financieros a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35300",
+   "DES": "Disminución de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "35310",
+   "DES": "Disminución de Cuentas por Cobrar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35320",
+   "DES": "Disminución de Documentos por Cobrar y Otros Activos Financieros a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35321",
+   "DES": "Disminución de Documentos por Cobrar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35322",
+   "DES": "Disminución de Otros Activos Financieros a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35400",
+   "DES": "Cobro de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "35410",
+   "DES": "Recursos Devengados no Cobrados por Cuentas por Cobrar de Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "35420",
+   "DES": "Recursos Devengados no Cobrados por Documentos por Cobrar y Otros Activos",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36000",
+   "DES": "OBTENCIÓN DE PRÉSTAMOS INTERNOS Y DE FONDOS - FIDEICOMISOS",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "36100",
+   "DES": "Obtención de Préstamos Internos a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "36110",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36120",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36200",
+   "DES": "Obtención de Préstamos Internos a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "36210",
+   "DES": "En Efectivo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36220",
+   "DES": "En Certificados de Crédito Fiscal",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36300",
+   "DES": "Obtención de Fondos en Fideicomiso",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "36310",
+   "DES": "Obtención de Fondos - Fideicomiso a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36320",
+   "DES": "Obtención de Fondos - Fideicomiso a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "36400",
+   "DES": "Financiamiento por Afectaciones al Tesoro General de la Nación",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37000",
+   "DES": "OBTENCIÓN DE PRÉSTAMOS DEL EXTERIOR",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "37100",
+   "DES": "Obtención de Préstamos del Exterior a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "37110",
+   "DES": "Del Sector Privado del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37111",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37112",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37120",
+   "DES": "De Países y Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37121",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37122",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37200",
+   "DES": "Obtención de Préstamos del Exterior a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "37210",
+   "DES": "Del Sector Privado del Exterior",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37211",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37212",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37220",
+   "DES": "De Países y Organismos Internacionales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37221",
+   "DES": "Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "37222",
+   "DES": "No Monetizable",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "38000",
+   "DES": "EMISIÓN DE TÍTULOS DE DEUDA",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "38100",
+   "DES": "Títulos y Valores Internos de Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "38200",
+   "DES": "Títulos y Valores Internos de Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "38300",
+   "DES": "Títulos y Valores Externos de Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "38400",
+   "DES": "Títulos y Valores Externos de Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39000",
+   "DES": "INCREMENTO DE OTROS PASIVOS Y APORTES DE CAPITAL",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "39100",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "39110",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Deudas Comerciales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39120",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo con Contratistas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39130",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Sueldos y Jornales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39140",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Aportes Patronales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39150",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Retenciones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39160",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Impuestos, Regalías y Tasas",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39170",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Jubilaciones y Pensiones",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39180",
+   "DES": "Incremento de Cuentas por Pagar a Corto Plazo por Intereses",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39190",
+   "DES": "Incremento de Otros Pasivos y Otras Cuentas por Pagar a Corto Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39200",
+   "DES": "Incremento de Cuentas por Pagar a Largo Plazo",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "39210",
+   "DES": "Incremento de Cuentas por Pagar a Largo Plazo por Deudas Comerciales",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39220",
+   "DES": "Incremento de Otras Cuentas por Pagar a Largo Plazo",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39300",
+   "DES": "Aportes de Capital",
+   "TIPO": "N"
+  },
+  {
+   "RECURSO": "39310",
+   "DES": "Del Sector Público",
+   "TIPO": "S"
+  },
+  {
+   "RECURSO": "39320",
+   "DES": "Del Sector Privado",
+   "TIPO": "S"
+  }
+ ]
+}

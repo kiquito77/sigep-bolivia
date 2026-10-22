@@ -1,0 +1,17 @@
+[
+ {
+  "ENTIDAD": "0251",
+  "RESTRIC": "OF",
+  "DESC": "Excepcion para la entidad 251, sin validacion en organismo financiador"
+ },
+ {
+  "ENTIDAD": "0423",
+  "RESTRIC": "FF",
+  "DESC": "Excepcion para la entidad 423, sin validacion en grupo fuente"
+ },
+ {
+  "ENTIDAD": "0422",
+  "RESTRIC": "FF",
+  "DESC": "Excepcion para la entidad 422, sin validacion en grupo fuente"
+ }
+]

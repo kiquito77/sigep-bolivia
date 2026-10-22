@@ -1,0 +1,3722 @@
+[
+ {
+  "CTA": "10000",
+  "DES": "ACTIVO",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11000",
+  "DES": "Activo Corriente",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11100",
+  "DES": "Disponible",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11110",
+  "DES": "Caja",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11120",
+  "DES": "Bancos",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11121",
+  "DES": "Cuenta Unica del Tesoro (1)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11122",
+  "DES": "Cuentas Fiscales en el BCB M/N",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11123",
+  "DES": "Cuentas Fiscales en el BCB M/E",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11124",
+  "DES": "Cuentas Fiscales y Otras en la Banca Privada M/N",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11125",
+  "DES": "Cuentas Fiscales y Otras en la Banca Privada M/E",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11126",
+  "DES": "Cuentas en el Exterior del País",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11127",
+  "DES": "Fondos en Custodia y Garantia",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11128",
+  "DES": "Fondos en la CUT (2)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11129",
+  "DES": "Otras Cuentas",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11130",
+  "DES": "Fondos Rotativos",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "11200",
+  "DES": "Inversiones Financieras a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11210",
+  "DES": "Inversiones Temporales",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11211",
+  "DES": "Depósitos a Plazo Fijo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11212",
+  "DES": "Fondos en Fideicomiso",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "11213",
+  "DES": "Otras Inversiones Temporales",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11220",
+  "DES": "Títulos y Valores a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11221",
+  "DES": "Letras del Tesoro a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11222",
+  "DES": "Bonos del Tesoro a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11223",
+  "DES": "Otros Títulos y Valores a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "11230",
+  "DES": "(Previsión por Pérdidas en Inversiones Financieras a Corto Plazo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11300",
+  "DES": "Exigible a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11310",
+  "DES": "Cuentas a Cobrar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11320",
+  "DES": "Otras Cuentas a Cobrar a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11321",
+  "DES": "Cuentas a Cobrar de Gestiones Anteriores",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11322",
+  "DES": "Otras Cuentas a Cobrar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11330",
+  "DES": "Documentos y Efectos a Cobrar a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11331",
+  "DES": "Documentos y Efectos a Cobrar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11332",
+  "DES": "Documentos y Efectos a Cobrar Morosos a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11340",
+  "DES": "Otros Documentos y Efectos a Cobrar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11350",
+  "DES": "Concesión de Préstamos a Corto Plazo al Sector Público No Financiero",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11351",
+  "DES": "A Organismos de la Administración Central (Órgano Ejecutivo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11352",
+  "DES": "A Instituciones Públicas Descentralizadas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11353",
+  "DES": "A Gobiernos Autónomos Departamentales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11354",
+  "DES": "A Gobiernos Autónomos Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11355",
+  "DES": "A Instituciones de Seguridad Social",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11356",
+  "DES": "A Empresas Públicas No Financieras Nacionales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11357",
+  "DES": "A Empresas Públicas No Financieras Regionales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11358",
+  "DES": "A Empresas Públicas No Financieras Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11360",
+  "DES": "Concesión de Préstamos a Corto Plazo al Sector Público Financiero y a los Sectores Privado y Externo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11361",
+  "DES": "A Instituciones Públicas Financieras No Bancarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11362",
+  "DES": "A Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11363",
+  "DES": "Al Sector Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11364",
+  "DES": "Al Sector Externo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11370",
+  "DES": "Anticipos a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11380",
+  "DES": "Fondos en Depósito por Garantías y Otros",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "11390",
+  "DES": "Fondos en Avance",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11400",
+  "DES": "(Previsión para Incobrables a Corto Plazo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11500",
+  "DES": "Bienes de Consumo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11510",
+  "DES": "Inventarios de Materias Primas, Materiales y Suministros",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11520",
+  "DES": "Inventarios de Productos",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11530",
+  "DES": "Existencia de Productos Estratégicos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11540",
+  "DES": "(Previsión para Pérdidas de Inventarios)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11600",
+  "DES": "Otros Activos Corrientes",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11610",
+  "DES": "Activos Diferidos a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11620",
+  "DES": "Bienes en Tránsito",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "11630",
+  "DES": "Otros Activos a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12000",
+  "DES": "Activo No Corriente",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12100",
+  "DES": "Exigible a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12110",
+  "DES": "Cuentas a Cobrar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12120",
+  "DES": "Otras Cuentas a Cobrar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12130",
+  "DES": "Documentos y Efectos a Cobrar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12140",
+  "DES": "Otros Documentos y Efectos a Cobrar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12150",
+  "DES": "Concesión de Préstamos a Largo Plazo al Sector Público No Financiero",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12151",
+  "DES": "A Organismos de la Administración Central (Órgano Ejecutivo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12152",
+  "DES": "A Instituciones Públicas Descentralizadas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12153",
+  "DES": "A Gobiernos Autónomos Departamentales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12154",
+  "DES": "A Gobiernos Autónomos Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12155",
+  "DES": "A Instituciones de Seguridad Social",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12156",
+  "DES": "A Empresas Públicas No Financieras Nacionales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12157",
+  "DES": "A Empresas Públicas No Financieras Regionales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12158",
+  "DES": "A Empresas Públicas No Financieras Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12160",
+  "DES": "Concesión de Préstamos a Largo Plazo al Sector Público Financiero y a los Sectores Privado y Externo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12161",
+  "DES": "A Instituciones Públicas Financieras No Bancarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12162",
+  "DES": "A Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12163",
+  "DES": "Al Sector Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12164",
+  "DES": "Al Sector Externo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12170",
+  "DES": "Anticipos a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12180",
+  "DES": "(Previsión para Incobrables a Largo Plazo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12200",
+  "DES": "Inversiones Financieras a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12210",
+  "DES": "Acciones y Participaciones de Capital",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12211",
+  "DES": "En Empresas Privadas Nacionales",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12212",
+  "DES": "En Empresas Públicas no Financieras",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12213",
+  "DES": "En Instituciones Públicas Financieras",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12214",
+  "DES": "En Organismos Internacionales",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12215",
+  "DES": "En Otras del Sector Externo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12220",
+  "DES": "Títulos y Valores a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12221",
+  "DES": "Letras del Tesoro a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12222",
+  "DES": "Bonos del Tesoro a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12223",
+  "DES": "Otros Títulos y Valores a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12230",
+  "DES": "Fondos en Fideicomiso (*)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12240",
+  "DES": "Patrimonio Neto de Instituciones Descentralizadas y Empresas (*)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12250",
+  "DES": "(Previsión por Pérdidas en Inversiones Financieras a Largo Plazo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12300",
+  "DES": "Activo Fijo (Bienes de Uso)",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12310",
+  "DES": "Activo Fijo en Operación",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12311",
+  "DES": "Edificios",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12312",
+  "DES": "Equipo de Oficina y Muebles",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12313",
+  "DES": "Maquinaria y Equipo de Producción",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12314",
+  "DES": "Equipo de Transporte, Tracción y Elevación",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12315",
+  "DES": "Equipo Médico y de Laboratorio",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12316",
+  "DES": "Equipo de Comunicaciones",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12317",
+  "DES": "Equipo Educacional y Recreativo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12318",
+  "DES": "Otra Maquinaria y Equipo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12320",
+  "DES": "Tierras y Terrenos",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12330",
+  "DES": "Semovientes",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12340",
+  "DES": "Otros Activos Fijos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12350",
+  "DES": "Construcciones en Proceso de Bienes de Dominio Privado",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12351",
+  "DES": "Construcciones y Mejoras de Viviendas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12352",
+  "DES": "Construcciones y Mejoras para Defensa y Seguridad",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12353",
+  "DES": "Construcciones y Mejoras de Otros Bienes de Dominio Privado",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12354",
+  "DES": "Supervisión de Construcciones y Mejoras de Bienes de Dominio Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12360",
+  "DES": "Construcciones en Proceso de Bienes de Dominio Público",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12361",
+  "DES": "Construcciones en Proceso de Bienes de Dominio Público",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12362",
+  "DES": "Supervisión de Construcciones y Mejoras de Bienes de Dominio Público",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12370",
+  "DES": "Estudios y Proyectos para Construcción de Bienes Nacionales",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12371",
+  "DES": "De Dominio Privado",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12372",
+  "DES": "De Dominio Público",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12380",
+  "DES": "Construcciones en Proceso por Administración Propia",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12400",
+  "DES": "(Depreciación Acumulada del Activo Fijo)",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12410",
+  "DES": "(Edificios)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12420",
+  "DES": "(Equipo de Oficina y Muebles)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12430",
+  "DES": "(Maquinaria y Equipo de Producción)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12440",
+  "DES": "(Equipo de Transporte, Tracción y Elevación)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12450",
+  "DES": "(Equipo Médico y de Laboratorio)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12460",
+  "DES": "(Equipo de Comunicaciones)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12470",
+  "DES": "(Equipo Educacional y Recreativo)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12480",
+  "DES": "(Otra Maquinaria y Equipo)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12490",
+  "DES": "(Semovientes)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12500",
+  "DES": "Activo Intangible",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12600",
+  "DES": "(Amortización Acumulada del Activo Intangible)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "12700",
+  "DES": "Activos Diferidos a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "20000",
+  "DES": "PASIVO",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21000",
+  "DES": "Pasivo Corriente",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21100",
+  "DES": "Obligaciones a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21110",
+  "DES": "Cuentas a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21120",
+  "DES": "Contratistas a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21130",
+  "DES": "Sueldos y Salarios a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21140",
+  "DES": "Aportes y Retenciones a Pagar a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21141",
+  "DES": "Aportes Patronales a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21142",
+  "DES": "Retenciones a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21143",
+  "DES": "Aportes Patronales a Pagar de Entidades Descentralizadas a Corto Plazo (*)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21144",
+  "DES": "Retenciones a Pagar de Entidades Descentralizadas a Corto Plazo (*)",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21150",
+  "DES": "Pensiones y Jubilaciones a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21160",
+  "DES": "Impuestos y Otros Derechos Obligatorios a Pagar a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21161",
+  "DES": "Impuestos a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21162",
+  "DES": "Regalías a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21163",
+  "DES": "Tasas, Multas y Otros Derechos Obligatorios a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21170",
+  "DES": "Amortización, Intereses y Comisiones de la Deuda Pública a Pagar",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21171",
+  "DES": "Amortización de la Deuda Pública Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21172",
+  "DES": "Amortización de la Deuda Pública Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21173",
+  "DES": "Intereses Deuda Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21174",
+  "DES": "Intereses Deuda Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21175",
+  "DES": "Comisiones y Otros Gastos de la Deuda Pública Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21176",
+  "DES": "Comisiones y Otros Gastos de la Deuda Pública Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21177",
+  "DES": "Intereses por Mora y Multas de la Deuda Pública Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21178",
+  "DES": "Intereses por Mora y Multas de la Deuda Pública Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21180",
+  "DES": "Transferencias a Pagar",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21181",
+  "DES": "A Organismos de la Administración Central (Órgano Ejecutivo)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21182",
+  "DES": "A Instituciones Públicas Descentralizadas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21183",
+  "DES": "A Gobierno Autónomos Departamentales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21184",
+  "DES": "A Gobiernos Autónomos Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21185",
+  "DES": "A Instituciones de Seguridad Social",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21186",
+  "DES": "A Empresas Públicas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21187",
+  "DES": "A Instituciones Financieras Bancarias y no Bancarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21188",
+  "DES": "Al Sector Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21189",
+  "DES": "Al Sector Externo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 5.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21190",
+  "DES": "Otras Cuentas a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21200",
+  "DES": "Deuda Documentada a Pagar a Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21210",
+  "DES": "Documentos a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21220",
+  "DES": "Otros Documentos a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "21230",
+  "DES": "Préstamos Internos a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21240",
+  "DES": "Préstamos Externos a Pagar a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21300",
+  "DES": "Pasivos Diferidos a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21400",
+  "DES": "Previsiones y Reservas Técnicas de Corto Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21410",
+  "DES": "Previsiones para Beneficios Sociales a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21420",
+  "DES": "Reservas Técnicas a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21430",
+  "DES": "Otras Previsiones a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21500",
+  "DES": "Fondos Recibidos en Custodia y en Garantía",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21510",
+  "DES": "Fondos Recibidos en Custodia",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21520",
+  "DES": "Fondos Recibidos en Garantía",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21530",
+  "DES": "Fondos de Terceros Recibidos en la CUT",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21540",
+  "DES": "Fondos Recibidos en Fideicomiso a Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21600",
+  "DES": "Otros Pasivos de Corto Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "21700",
+  "DES": "Deuda Administrativa de Ejercicios Anteriores",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22000",
+  "DES": "Pasivo No Corriente",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22100",
+  "DES": "Obligaciones a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22110",
+  "DES": "Cuentas a Pagar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22120",
+  "DES": "Otras Cuentas a Pagar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22200",
+  "DES": "Deuda Documentada a Pagar a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22210",
+  "DES": "Documentos a Pagar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22220",
+  "DES": "Otros Documentos y Efectos a Pagar a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22300",
+  "DES": "Deuda Pública",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22310",
+  "DES": "Deuda Pública Interna (*)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22320",
+  "DES": "Deuda Pública Externa (*)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22400",
+  "DES": "Pasivos Diferidos a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BEN"
+ },
+ {
+  "CTA": "22500",
+  "DES": "Previsiones y Reservas Técnicas a Largo Plazo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22510",
+  "DES": "Previsiones para Beneficios Sociales a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22520",
+  "DES": "Reservas Técnicas a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22530",
+  "DES": "Otras Previsiones a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "22600",
+  "DES": "Fondos Recibidos en Fideicomiso a Largo Plazo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": "BAN"
+ },
+ {
+  "CTA": "30000",
+  "DES": "PATRIMONIO",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31000",
+  "DES": "Patrimonio Institucional",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31100",
+  "DES": "Capital",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31110",
+  "DES": "Capital Institucional",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31120",
+  "DES": "Aportes de Capital",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31130",
+  "DES": "Transferencias y Donaciones de Capital",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31140",
+  "DES": "Afectaciones Patrimoniales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31200",
+  "DES": "Reservas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31300",
+  "DES": "Reservas por Revalúos Técnicos de Activos Fijos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31400",
+  "DES": "Ajuste Global del Patrimonio",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31500",
+  "DES": "Resultados",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31510",
+  "DES": "Resultados Acumulados de Ejercicios Anteriores",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31520",
+  "DES": "Resultado del Ejercicio",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31530",
+  "DES": "(Resultados Afectados a Construcciones de Bienes de Dominio Público)",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31540",
+  "DES": "Resultados Afectados por Inversiones no Capitalizables",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "32000",
+  "DES": "Patrimonio Público",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "40000",
+  "DES": "RESULTADOS POR EXPOSICION A LA INFLACION",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "50000",
+  "DES": "RECURSOS CORRIENTES",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "51000",
+  "DES": "Ingresos Tributarios",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "51100",
+  "DES": "Renta Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "51200",
+  "DES": "Renta Aduanera",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "51300",
+  "DES": "Impuestos Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "52000",
+  "DES": "Venta de Bienes y Servicios",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "52100",
+  "DES": "Venta de Bienes",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "52200",
+  "DES": "Venta de Servicios",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53000",
+  "DES": "Regalías",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53100",
+  "DES": "Regalías Mineras",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53200",
+  "DES": "Regalías de Hidrocarburos",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53210",
+  "DES": "Regalías Nacionales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53220",
+  "DES": "Regalías Departamentales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53300",
+  "DES": "Regalías Agropecuarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "53400",
+  "DES": "Otras Regalías",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54000",
+  "DES": "Otros Ingresos",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54100",
+  "DES": "Tasas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54200",
+  "DES": "Derechos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54300",
+  "DES": "Patentes y Concesiones",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54400",
+  "DES": "Contribuciones por Mejoras",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54500",
+  "DES": "Multas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54600",
+  "DES": "Intereses Penales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54700",
+  "DES": "Ganancias en Operaciones Cambiarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54800",
+  "DES": "Renta Consular",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "54900",
+  "DES": "Otros",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55000",
+  "DES": "Intereses y Otras Rentas de la Propiedad",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55100",
+  "DES": "Intereses por Depósitos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55200",
+  "DES": "Intereses por Valores",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55300",
+  "DES": "Otros Intereses",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55400",
+  "DES": "Dividendos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55500",
+  "DES": "Alquiler de Tierras y Terrenos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55600",
+  "DES": "Derechos sobre Bienes Intangibles",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55700",
+  "DES": "Alquiler de Edificios y/o Equipos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "55800",
+  "DES": "Ingresos Financieros",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "56000",
+  "DES": "Contribuciones a la Seguridad Social",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "56100",
+  "DES": "Contribuciones Obligatorias",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "56110",
+  "DES": "Contribuciones Obligatorias Patronales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "56120",
+  "DES": "Contribuciones Obligatorias Laborales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "56200",
+  "DES": "Contribuciones Voluntarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "57000",
+  "DES": "Transferencias Corrientes Recibidas",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "57100",
+  "DES": "Del Sector Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "57200",
+  "DES": "Del Sector Público No Financiero",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "57300",
+  "DES": "Del Sector Público Financiero",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "57400",
+  "DES": "Del Sector Externo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "58000",
+  "DES": "Donaciones Corrientes Recibidas",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "58100",
+  "DES": "Donaciones Internas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "58200",
+  "DES": "Donaciones Externas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59000",
+  "DES": "Ingresos por Clasificar",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59100",
+  "DES": "Ingresos de Impuestos Internos por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59200",
+  "DES": "Renta Aduanera por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59300",
+  "DES": "Otros Ingresos por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59400",
+  "DES": "Ingresos de Crédito Interno por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59500",
+  "DES": "Recuperación de Deuda Interna por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59600",
+  "DES": "Ingresos de Hidrocarburos por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59700",
+  "DES": "TGN Otros por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59800",
+  "DES": "Recursos Específicos por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "59900",
+  "DES": "Ingresos de Donación Externa por Clasificar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "60000",
+  "DES": "GASTOS CORRIENTES",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61000",
+  "DES": "Gastos de Consumo",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61100",
+  "DES": "Sueldos y Salarios",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61200",
+  "DES": "Aportes Patronales",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61210",
+  "DES": "Aportes Patronales al Seguro Social",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61220",
+  "DES": "Aportes Patronales para Vivienda",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61230",
+  "DES": "Otros Aportes Patronales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61300",
+  "DES": "Beneficios Sociales",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61310",
+  "DES": "Indemnizaciones",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61320",
+  "DES": "Desahucio",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61330",
+  "DES": "Otros Beneficios Sociales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61400",
+  "DES": "Costo de Bienes y Servicios",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61410",
+  "DES": "Costo de Servicios no Personales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61420",
+  "DES": "Costo de Materiales y Suministros",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61500",
+  "DES": "Impuestos",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61510",
+  "DES": "Impuestos Renta Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61520",
+  "DES": "Renta Aduanera",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61530",
+  "DES": "Impuestos Municipales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61600",
+  "DES": "Regalías, Patentes, Tasas, Multas y Otros",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61610",
+  "DES": "Regalías",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61620",
+  "DES": "Patentes",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61630",
+  "DES": "Tasas, Multas y Otros",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61700",
+  "DES": "Depreciación y Amortización",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61710",
+  "DES": "Depreciación Activo Fijo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "61720",
+  "DES": "Amortización Activo Intangible",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62000",
+  "DES": "Intereses y Otras Rentas de la Propiedad",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62100",
+  "DES": "Intereses, Comisiones y Otros Gastos",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62110",
+  "DES": "Intereses Deuda Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62120",
+  "DES": "Comisiones y Otros Gastos Deuda Interna",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62130",
+  "DES": "Intereses Deuda Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62140",
+  "DES": "Comisiones y Otros Gastos Deuda Externa",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62150",
+  "DES": "Otros Intereses",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62200",
+  "DES": "Alquileres",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62210",
+  "DES": "Alquiler de Tierras y Terrenos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62220",
+  "DES": "Otros Alquileres",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "62300",
+  "DES": "Derechos sobre Bienes Intangibles",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "63000",
+  "DES": "Prestaciones de la Seguridad Social",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64000",
+  "DES": "Previsiones y Pérdidas en Operaciones Cambiarias",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64100",
+  "DES": "Previsiones y Reservas Técnicas",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64110",
+  "DES": "Previsiones para Pérdidas por Cuentas Incobrables",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64120",
+  "DES": "Previsiones para Pérdidas de Inventario",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64130",
+  "DES": "Previsiones de Reservas Técnicas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64140",
+  "DES": "Previsiones para Pérdidas en Inversiones Financieras",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "64200",
+  "DES": "Pérdidas en Operaciones Cambiarias",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "65000",
+  "DES": "Transferencias Otorgadas",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "65100",
+  "DES": "Al Sector Privado",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "65200",
+  "DES": "Al Sector Público No Financiero",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "65300",
+  "DES": "Al Sector Público Financiero",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "65400",
+  "DES": "Al Sector Externo",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "66000",
+  "DES": "Comisiones, Bonificaciones y Otros sobre Ventas",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "66100",
+  "DES": "Comisiones sobre Ventas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "66200",
+  "DES": "Bonificaciones sobre Ventas",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "67000",
+  "DES": "Otros Gastos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "70000",
+  "DES": "CUENTAS DE CIERRE",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "71000",
+  "DES": "Resumen de Ingresos y Gastos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "80000",
+  "DES": "CUENTAS DE ORDEN",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 1.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81000",
+  "DES": "Cuentas de Orden - Deudoras",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81100",
+  "DES": "Garantías y Avales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81200",
+  "DES": "Préstamos y Convenios Contratados por Desembolsar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81300",
+  "DES": "Títulos y Valores Recibidos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81400",
+  "DES": "Valores Fiscales e Impresos en Depósito",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81500",
+  "DES": "Títulos y Valores Entregados",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81600",
+  "DES": "Valores Fiscales e Impresos Entregados",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81700",
+  "DES": "Bienes Recibidos en Depósito",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81800",
+  "DES": "Deudores de Gastos a Rendir",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81900",
+  "DES": "Otras Cuentas de Orden Deudoras",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81910",
+  "DES": "Convenios de Contraparte por Ejecutar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81920",
+  "DES": "Reembolsos por Ejecutar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81940",
+  "DES": "Acciones Telefónicas - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81950",
+  "DES": "Activo Fijo - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81960",
+  "DES": "Activo Intangible - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81990",
+  "DES": "Otras Cuentas Deudoras",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82000",
+  "DES": "Cuentas de Orden - Acreedoras",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82100",
+  "DES": "Contingencia por Garantías y Avales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82200",
+  "DES": "Recursos de Préstamos y Convenios Contratados por Ejecutar",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82300",
+  "DES": "Responsabilidad por Títulos y Valores Recibidos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82400",
+  "DES": "Responsabilidad por Valores Fiscales e Impresos en Depósito",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82500",
+  "DES": "Contingencia por Títulos y Valores Entregados",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82600",
+  "DES": "Contingencia por Valores Fiscales e Impresos Entregados",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82700",
+  "DES": "Responsabilidad por Bienes Recibidos en Depósito",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82800",
+  "DES": "Responsabilidad por Deudores de Gastos a Rendir",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82900",
+  "DES": "Otras Cuentas de Orden Acreedoras",
+  "TIPO": "N",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82910",
+  "DES": "Convenios de Contraparte Suscritos",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82920",
+  "DES": "Reembolsos Pendientes",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82940",
+  "DES": "Responsabilidad por Acciones Telefónicas - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82950",
+  "DES": "Responsabilidad por Activo Fijo - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82960",
+  "DES": "Responsabilidad por Activo Intangible - Proyectos de Inversión",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82990",
+  "DES": "Otras Cuentas Acreedoras",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "81930",
+  "DES": "Obras Concluidas",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "82930",
+  "DES": "Mantenimiento de Obras Concluidas",
+  "TIPO": "S",
+  "AUX": "S",
+  "NIVEL": 4.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31600",
+  "DES": "Ajuste de Capital",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "31700",
+  "DES": "Ajuste de Reservas Patrimoniales",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 3.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "41000",
+  "DES": "Resultados por Exposicion a la inflacion",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ },
+ {
+  "CTA": "42000",
+  "DES": "Ajuste por Inflacion y Tenencia de Bienes",
+  "TIPO": "S",
+  "AUX": "N",
+  "NIVEL": 2.0,
+  "NOTABG": "",
+  "NOTAER": "",
+  "AUX_BASE": ""
+ }
+]

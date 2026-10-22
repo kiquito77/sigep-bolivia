@@ -1,0 +1,58 @@
+[
+ {
+  "UNIDAD": "001",
+  "BENEF": 1.0,
+  "TIPO_ID": "T",
+  "DOCUMENTO": "1814",
+  "EXP_DEP": 10.0,
+  "PATERNO": "",
+  "MATERNO": "",
+  "AP_CASADA": "",
+  "NOMBRES": "Gobierno Autónomo Municipal de San Joaquín",
+  "RAZON_SOC": "Gobierno Autónomo Municipal de San Joaquín",
+  "TIPO": "E",
+  "MAIL": ""
+ },
+ {
+  "UNIDAD": "001",
+  "BENEF": 2.0,
+  "TIPO_ID": "N",
+  "DOCUMENTO": "3625789020",
+  "EXP_DEP": 10.0,
+  "PATERNO": "",
+  "MATERNO": "",
+  "AP_CASADA": "",
+  "NOMBRES": "Libreria y Papelería \"POMPEYA\"",
+  "RAZON_SOC": "Libreria y Papelería \"POMPEYA\"",
+  "TIPO": "J",
+  "MAIL": ""
+ },
+ {
+  "UNIDAD": "001",
+  "BENEF": 3.0,
+  "TIPO_ID": "N",
+  "DOCUMENTO": "3625478025",
+  "EXP_DEP": 10.0,
+  "PATERNO": "",
+  "MATERNO": "",
+  "AP_CASADA": "",
+  "NOMBRES": "Empresa Constructora \"GRIMALDI y Cia.\"",
+  "RAZON_SOC": "Empresa Constructora \"GRIMALDI y Cia.\"",
+  "TIPO": "J",
+  "MAIL": ""
+ },
+ {
+  "UNIDAD": "001",
+  "BENEF": 4.0,
+  "TIPO_ID": "N",
+  "DOCUMENTO": "6325487025",
+  "EXP_DEP": 10.0,
+  "PATERNO": "",
+  "MATERNO": "",
+  "AP_CASADA": "",
+  "NOMBRES": "Comercial \"EL BUEN PASTOR\"",
+  "RAZON_SOC": "Comercial \"EL BUEN PASTOR\"",
+  "TIPO": "J",
+  "MAIL": ""
+ }
+]

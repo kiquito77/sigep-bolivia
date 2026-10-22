@@ -1,0 +1,907 @@
+[
+ {
+  "CAIF": "1000000",
+  "DES": "RECURSOS",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1100000",
+  "DES": "INGRESOS CORRIENTES",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1110000",
+  "DES": "Ingresos de Operación",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1111000",
+  "DES": "Venta Bruta de Bienes y Servicios",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1111100",
+  "DES": "Venta Bruta de Bienes",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1111200",
+  "DES": "Venta Bruta de Servicios",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1112000",
+  "DES": "Ingresos Financieros de Instituciones Financieras",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1113000",
+  "DES": "Otros Ingresos de Operación",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1120000",
+  "DES": "Venta de Bienes y Servicios de las Administraciones Públicas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1130000",
+  "DES": "Ingresos Tributarios",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1131000",
+  "DES": "Impuestos internos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1132000",
+  "DES": "Impuestos aduaneros",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1140000",
+  "DES": "Regalías",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1141000",
+  "DES": "Regalías Mineras",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1142000",
+  "DES": "Regalías por Hidrocarburos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1143000",
+  "DES": "Regalías Agropecuarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1144000",
+  "DES": "Otras Regalías",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1150000",
+  "DES": "Otros Ingresos no Tributarios Propios",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1151000",
+  "DES": "Tasas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1152000",
+  "DES": "Derechos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1153000",
+  "DES": "Alquiler de Edificios y/o Equipos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1154000",
+  "DES": "Contribuciones por Mejoras",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1155000",
+  "DES": "Multas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1156000",
+  "DES": "Intereses Penales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1157000",
+  "DES": "Ganancias en Operaciones Cambiarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1158000",
+  "DES": "Otros",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1160000",
+  "DES": "Intereses y Otras Rentas de la Propiedad",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1161000",
+  "DES": "Intereses",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1162000",
+  "DES": "Dividendos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1163000",
+  "DES": "Alquiler de Tierras y Terrenos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1164000",
+  "DES": "Derechos sobre Bienes Intangibles",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1170000",
+  "DES": "Contribuciones a la Seguridad Social",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1171000",
+  "DES": "Contribuciones Obligatorias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1172000",
+  "DES": "Contribuciones Voluntarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1180000",
+  "DES": "Donaciones Corrientes",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1181000",
+  "DES": "Donaciones Corrientes Internas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1182000",
+  "DES": "Donaciones Corrientes Externas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1190000",
+  "DES": "Transferencias Corrientes",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1191000",
+  "DES": "Del Sector Privado",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1191100",
+  "DES": "De Unidades Familiares",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1191200",
+  "DES": "De Instituciones Privadas sin Fines de Lucro",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1191300",
+  "DES": "De Empresas Privadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192000",
+  "DES": "Del Sector Público",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192100",
+  "DES": "Del Gobierno General",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192110",
+  "DES": "Del Gobierno Central",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192111",
+  "DES": "De la Administración Central (Organo Ejecutivo)",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192112",
+  "DES": "De Instituciones Públicas Descentralizadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192120",
+  "DES": "De Gobiernos Regionales",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192122",
+  "DES": "De Gobiernos Autónomos Departamentales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192123",
+  "DES": "De Gobiernos Autónomos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192130",
+  "DES": "De Instituciones de Seguridad Social",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192200",
+  "DES": "De Empresas Públicas no Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192210",
+  "DES": "De Empresas Públicas no Financieras Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192220",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Regionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192230",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192300",
+  "DES": "De Instituciones Públicas Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1192310",
+  "DES": "De Instituciones Públicas Financieras no Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1192320",
+  "DES": "De Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1193000",
+  "DES": "Del Sector Externo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1193100",
+  "DES": "De Gobiernos Extranjeros y Organismos Internacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1200000",
+  "DES": "RECURSOS DE CAPITAL",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1210000",
+  "DES": "Recursos Propios de Capital",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1211000",
+  "DES": "Venta y/o Desincorporación de Activos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1211100",
+  "DES": "De Activos Fijos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1211110",
+  "DES": "Edificios",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1211120",
+  "DES": "Maquinaria y Equipo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1211130",
+  "DES": "Semovientes",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1211180",
+  "DES": "Otros Activos Fijos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1211200",
+  "DES": "De Tierras y Terrenos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1211400",
+  "DES": "De Activos Intangibles",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1220000",
+  "DES": "Donaciones de Capital",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1221000",
+  "DES": "Donaciones de Capital Internas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1222000",
+  "DES": "Donaciones de Capital Externas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1230000",
+  "DES": "Transferencias de Capital",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1231000",
+  "DES": "Del Sector Privado",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1231100",
+  "DES": "De Unidades Familiares",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1231200",
+  "DES": "De Instituciones Privadas sin Fines de Lucro",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1231300",
+  "DES": "De Empresas Privadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232000",
+  "DES": "Del Sector Público",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232100",
+  "DES": "Del Gobierno General",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232110",
+  "DES": "Del Gobierno Central",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232111",
+  "DES": "De la Administración Central (Organo Ejecutivo)",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232112",
+  "DES": "De Instituciones Públicas Descentralizadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232120",
+  "DES": "De Gobiernos Regionales",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232122",
+  "DES": "De Gobiernos Autónomos Departamentales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232123",
+  "DES": "De Gobiernos Autónomos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232130",
+  "DES": "De Instituciones de Seguridad Social",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232200",
+  "DES": "De Empresas Públicas no Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232210",
+  "DES": "De Empresas Públicas no Fin. Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232220",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Regionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232230",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos  Autónomos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232300",
+  "DES": "De Instituciones Públicas Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1232310",
+  "DES": "De Instituciones Públicas Financieras no Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1232320",
+  "DES": "De Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1233000",
+  "DES": "Del Sector Externo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1233100",
+  "DES": "De Gobiernos y Organismos Internacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1300000",
+  "DES": "FUENTES FINANCIERAS",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1310000",
+  "DES": "Disminución de la Inversión Financiera",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1311000",
+  "DES": "Venta de Acciones y Participaciones de Capital",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1311100",
+  "DES": "De Empresas Privadas Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311200",
+  "DES": "De Empresas Públicas no Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1311210",
+  "DES": "De Empresas Públicas no Financieras Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311220",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Regionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311230",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311300",
+  "DES": "De Instituciones Públicas Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1311310",
+  "DES": "De Instituciones Públicas Financieras no Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311320",
+  "DES": "De Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311400",
+  "DES": "Del Sector Externo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1311410",
+  "DES": "De Organismos Internacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1311420",
+  "DES": "Otras del Sector Externo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312000",
+  "DES": "Recuperación de Préstamos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312100",
+  "DES": "Recuperación de Préstamos de Corto Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312110",
+  "DES": "Del Sector Privado",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312120",
+  "DES": "Del Gobierno General",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312121",
+  "DES": "De la Administración Central (Organo Ejecutivo)",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312122",
+  "DES": "De Instituciones Públicas Descentralizadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312124",
+  "DES": "De Gobiernos Autónomos Departamentales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312125",
+  "DES": "De Gobiernos Autónomos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312126",
+  "DES": "De Instituciones de Seguridad Social",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312130",
+  "DES": "De Empresas Públicas no Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312131",
+  "DES": "De Empresas Públicas no Financieras Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312132",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Regionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312133",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312140",
+  "DES": "De Instituciones Públicas Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312141",
+  "DES": "De Instituciones Públicas Financieras no Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312142",
+  "DES": "De Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312150",
+  "DES": "Del Sector Externo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312200",
+  "DES": "Recuperación de Préstamos a Largo Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312210",
+  "DES": "Del Sector Privado",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312220",
+  "DES": "Del Gobierno General",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312221",
+  "DES": "De la Administración Central (Organo Ejecutivo)",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312222",
+  "DES": "De Instituciones Públicas Descentralizadas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312224",
+  "DES": "De Gobiernos Autónomos Departamentales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312225",
+  "DES": "De Gobiernos Autónomos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312226",
+  "DES": "De Instituciones de Seguridad Social",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312230",
+  "DES": "De Empresas Públicas no Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312231",
+  "DES": "De Empresas Públicas no Financieras Nacionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312232",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Regionales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312233",
+  "DES": "De Empresas Públicas no Financieras de Gobiernos Municipales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312240",
+  "DES": "De Instituciones Públicas Financieras",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1312241",
+  "DES": "De Instituciones Públicas Financieras no Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312242",
+  "DES": "De Instituciones Públicas Financieras Bancarias",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312243",
+  "DES": "Recuperación de Fondos en Fideicomiso",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1312250",
+  "DES": "Del Sector Externo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1313000",
+  "DES": "Venta de Títulos y Valores",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1313100",
+  "DES": "Venta de Títulos y Valores a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1313200",
+  "DES": "Venta de Títulos y Valores a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314000",
+  "DES": "Disminución de Otros Activos Financieros",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1314100",
+  "DES": "Disminución del Activo Disponible",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1314110",
+  "DES": "Disminución de Caja y Bancos",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314120",
+  "DES": "Disminución de Inversiones Temporales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314200",
+  "DES": "Disminución de Cuentas a Cobrar a Corto Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1314210",
+  "DES": "Disminución Cuentas a Cobrar Comerciales a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314220",
+  "DES": "Disminución de Otras Cuentas a Cobrar a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314300",
+  "DES": "Disminución de Cuentas a Cobrar a Largo Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1314310",
+  "DES": "Disminución Cuentas a Cobrar Comerciales a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1314320",
+  "DES": "Disminución Otras Cuentas a Cobrar a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1320000",
+  "DES": "Endeudamiento",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1321000",
+  "DES": "Obtención de Préstamos Internos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1321100",
+  "DES": "Obtención de Préstamos Internos a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1321200",
+  "DES": "Obtención de Préstamos Internos a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1322000",
+  "DES": "Obtención de Préstamos Externos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1322100",
+  "DES": "Obtención de Préstamos Externos a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1322200",
+  "DES": "Obtención de Préstamos Externos a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323000",
+  "DES": "Incremento de Otros Pasivos",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1323100",
+  "DES": "Incremento de Cuentas a Pagar a Corto Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1323110",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo por Deudas Comerciales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323120",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo con Contratistas",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323130",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo por Sueldos y Jornales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323140",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo por Aportes Patronales",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323150",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo por Retenciones",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323160",
+  "DES": "Incremento de Cuentas a Pagar Corto Plazo por Impuestos, Regalías, Tasas y Otros",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323170",
+  "DES": "Incremento de Cuentas a Pagar a Corto Plazo por Jubilaciones y Pensiones",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323180",
+  "DES": "Incremento de Cuentas a Pagar a Corto Plazo por Intereses",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323190",
+  "DES": "Incremento de Otras Cuentas a Pagar a Corto Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323200",
+  "DES": "Incremento de Cuentas a Pagar a Largo Plazo",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1323210",
+  "DES": "Incremento de Cuentas a Pagar Comerciales a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1323220",
+  "DES": "Incremento de Otras Cuentas a Pagar a Largo Plazo",
+  "TIPO": "S"
+ },
+ {
+  "CAIF": "1330000",
+  "DES": "Incremento del Patrimonio",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1331000",
+  "DES": "Incremento del Capital",
+  "TIPO": "N"
+ },
+ {
+  "CAIF": "1331100",
+  "DES": "Incremento del Capital Social",
+  "TIPO": "S"
+ }
+]

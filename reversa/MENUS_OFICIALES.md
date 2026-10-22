@@ -1,0 +1,76 @@
+# Estructura de menús del SINCON / SIGEP (manual oficial)
+
+- **Introducción**  `INTRODUCCI_N.htm`
+- **Qué es el SINCON?**  `QUE_ES_EL_SINCON.htm`
+- **Objetivos del SINCON**  `OBJETIVOS_DEL_SINCON.htm`
+- **Manejo del Sistema**  `MANEJO_DEL_SISTEMA.htm`
+- **Ingreso al SINCON**  `FORMAS_DE_INGRESAR_AL_SINCON.htm`
+- **Configurar Papel Tapiz**  `CONFIGURAR_EL_PAPEL_TAPIZ.htm`
+- **OPCIÓN COMPROBANTES**
+  - **Menú Comprobantes**  `_OPCI_N_COMPROBANTES.htm`
+  - **Trascripción**
+    - **Transcripción**  `TRANSCRIPCI_N_DE_COMPROBANTES_CTRL_T.htm`
+    - **Registro de Transacciones**  `REGISTRO_DE_LAS_TRANSACCIONES.htm`
+    - **Impresión**  `IMPRESI_N_DE_COMPROBANTES_CTRL_I.htm`
+    - **Control**  `CONTROL_DE_COMPROBANTES_CTRL_L.htm`
+    - **Validación**  `VALIDACI_N_DE_COMPROBANTES_CTRL_V.htm`
+    - **Borrado**  `BORRADO_DE_COMPROBANTES.htm`
+    - **Modificación**  `MODIFICACION_DE_COMPROBANTES.htm`
+    - **Copiado**  `COPIADO_DE_COMPROBANTES.htm`
+    - **Reversión**  `REVERSION_DE_COMPROBANTES.htm`
+    - **Consulta**  `CONSULTA_DE_COMPROBANTES.htm`
+- **OPCIÓN REPORTES**
+  - **Menú Reportes**  `Men&uacute;_Reportes.htm`
+  - **Reportes Contabilidad**
+    - **Reportes Contables**  `REPORTES_DE_CONTABILIDAD.htm`
+    - **Estados Financieros**
+      - **Balance General**  `BALANCE_GENERAL.htm`
+      - **Estado de Recursos y Gastos Corrientes**  `ESTADO_DE_RESULTADOS.htm`
+      - **Sumas y Saldos**  `SUMAS_Y_SALDOS1.htm`
+      - **Movimientos en el Patrimonio Neto**  `MOVIMIENTOS_PATRIMONIO_NETO.htm`
+    - **Análisis de Cuentas**
+      - **Análisis de Cuentas**  `AN_LISIS_DE_CUENTAS.htm`
+      - **Análisis de Cuentas Mayores**  `An&aacute;lisis_de_Cuentas_Mayores.htm`
+      - **Análisis de Cuentas Auxiliares**  `AN_LISIS_DE_CUENTAS_AUXILIARES.htm`
+    - **Estados de Cuentas**
+      - **Estado de Cuentas**  `ESTADOS_DE_CUENTAS_AUXILIARES.htm`
+    - **Consultas**
+      - **Consulta de Auxiliares**  `Consulta_de_Auxiliares.htm`
+      - **Consulta de Cheques**  `CONSULTA_DE_BENEFICIARIOS_CON_CHEQUE.htm`
+    - **Carga Balance Inicial**
+      - **Menú Saldos Iniciales**  `SALDOS_INICIALES1.htm`
+      - **Cargar Saldos Iniciales**  `CARGAR_SALDOS_INICIALES.htm`
+      - **Importar Saldos Iniciales**  `Importaci&oacute;n_de_Saldos_Iniciales.htm`
+      - **Imprimir Saldos Iniciales**  `IMPRIMIR_SALDOS_INICIALES.htm`
+  - **Reportes Presupuesto**
+    - **Reporte de Gastos**  `REPORTES_PRESUPUESTO_DE_GASTOS.htm`
+    - **Reporte de Recursos**  `REPORTES_PRESUPUESTO_DE_RECURSOS.htm`
+  - **Reportes de Tesorería**
+    - **Reportes de Tesorería**  `Reportes_de_Tesorer&iacute;a.htm`
+  - **Reportes Económicos**
+    - **Reporte CAIF**  `Reporte_CAIF.htm`
+  - **Reportes Ministerio de Hacienda**
+    - **Estados Financieros**  `Estados_Financieros.htm`
+    - **Estado Económico CAIF**  `Cuenta_Ahorro_Inversi_n_Financiamiento_CAIF.htm`
+    - **Archivos ASCII**  `CONTADURIA_ASCII.htm`
+    - **Captura Presupuesto SFPM o SFP**  `CAPTURA_SFP_o_SFPM.htm`
+    - **Carga Automática de la Apertura Programática**  `Carga_Atom&aacute;tica_de_la_Apertura_Program&aacute;tica.htm`
+    - **Carga Automática del Presupuesto**  `Carga_Autom&aacute;tica_del_Presupuesto.htm`
+- **OPCIÓN MANTENIMIENTO**
+  - **Menú Mantenimiento**  `Men&uacute;_Mantenimiento.htm`
+  - **Mantenimiento Contabilidad**  `Mantenimiento_Contabilidad.htm`
+  - **Mantenimiento Presupuestos**  `Mantenimiento_Presupuestos.htm`
+  - **Mantenimiento Tesorería**  `Mantenimiento_Tesorer&iacute;a.htm`
+  - **Mantenimiento Clasificador Económico**  `Mantenimiento_Clasificador_Econ&oacute;mico.htm`
+  - **Mantenimiento Relacionadores**  `Mantenimiento_Relacionadores.htm`
+  - **Mantenimiento Parámetros Globales**  `Mantenimiento_Par&aacute;metros_Globales.htm`
+  - **Mantenimiento Otros**  `Mantenimiento_Otros.htm`
+  - **Mantenimiento Utilitarios**  `MANTENIMIENTO_UTILITARIOS1.htm`
+  - **Ubicación de Archivos**  `UBICACI_N_DE_ARCHIVOS.htm`
+- **Anexos**
+  - **Anexo A**  `ANEXO_A.htm`
+  - **Anexo B**  `ANEXO_B.htm`
+  - **Anexo C**  `ANEXO_C.htm`
+  - **Anexo D**  `ANEXO_D.htm`
+  - **Anexo E**  `ANEXO_E.htm`
+  - **Anexo F**  `ANEXO_F.htm`

@@ -1,0 +1,322 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Image Width" value="16">
+  <param name="Window Styles" value="0x800002">
+  <param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Introducción">
+    <param name="Local" value="INTRODUCCI_N.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Qué es el SINCON?">
+    <param name="Local" value="QUE_ES_EL_SINCON.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Objetivos del SINCON">
+    <param name="Local" value="OBJETIVOS_DEL_SINCON.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Manejo del Sistema">
+    <param name="Local" value="MANEJO_DEL_SISTEMA.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Ingreso al SINCON">
+    <param name="Local" value="FORMAS_DE_INGRESAR_AL_SINCON.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Configurar Papel Tapiz">
+    <param name="Local" value="CONFIGURAR_EL_PAPEL_TAPIZ.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OPCIÓN COMPROBANTES">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Menú Comprobantes">
+      <param name="Local" value="_OPCI_N_COMPROBANTES.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Trascripción">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Transcripción">
+        <param name="Local" value="TRANSCRIPCI_N_DE_COMPROBANTES_CTRL_T.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Registro de Transacciones">
+        <param name="Local" value="REGISTRO_DE_LAS_TRANSACCIONES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Impresión">
+        <param name="Local" value="IMPRESI_N_DE_COMPROBANTES_CTRL_I.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Control">
+        <param name="Local" value="CONTROL_DE_COMPROBANTES_CTRL_L.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Validación">
+        <param name="Local" value="VALIDACI_N_DE_COMPROBANTES_CTRL_V.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Borrado">
+        <param name="Local" value="BORRADO_DE_COMPROBANTES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Modificación">
+        <param name="Local" value="MODIFICACION_DE_COMPROBANTES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Copiado">
+        <param name="Local" value="COPIADO_DE_COMPROBANTES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reversión">
+        <param name="Local" value="REVERSION_DE_COMPROBANTES.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Consulta">
+        <param name="Local" value="CONSULTA_DE_COMPROBANTES.htm">
+      </object>
+    </ul>
+  </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OPCIÓN REPORTES">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Menú Reportes">
+      <param name="Local" value="Men&uacute;_Reportes.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reportes Contabilidad">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reportes Contables">
+        <param name="Local" value="REPORTES_DE_CONTABILIDAD.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Estados Financieros">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Balance General">
+          <param name="Local" value="BALANCE_GENERAL.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Estado de Recursos y Gastos Corrientes">
+          <param name="Local" value="ESTADO_DE_RESULTADOS.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Sumas y Saldos">
+          <param name="Local" value="SUMAS_Y_SALDOS1.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Movimientos en el Patrimonio Neto">
+          <param name="Local" value="MOVIMIENTOS_PATRIMONIO_NETO.htm">
+        </object>
+      </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Análisis de Cuentas">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Análisis de Cuentas">
+          <param name="Local" value="AN_LISIS_DE_CUENTAS.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Análisis de Cuentas Mayores">
+          <param name="Local" value="An&aacute;lisis_de_Cuentas_Mayores.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Análisis de Cuentas Auxiliares">
+          <param name="Local" value="AN_LISIS_DE_CUENTAS_AUXILIARES.htm">
+        </object>
+      </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Estados de Cuentas">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Estado de Cuentas">
+          <param name="Local" value="ESTADOS_DE_CUENTAS_AUXILIARES.htm">
+        </object>
+      </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Consultas">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Consulta de Auxiliares">
+          <param name="Local" value="Consulta_de_Auxiliares.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Consulta de Cheques">
+          <param name="Local" value="CONSULTA_DE_BENEFICIARIOS_CON_CHEQUE.htm">
+        </object>
+      </ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Carga Balance Inicial">
+      </object>
+      <ul>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Menú Saldos Iniciales">
+          <param name="Local" value="SALDOS_INICIALES1.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Cargar Saldos Iniciales">
+          <param name="Local" value="CARGAR_SALDOS_INICIALES.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Importar Saldos Iniciales">
+          <param name="Local" value="Importaci&oacute;n_de_Saldos_Iniciales.htm">
+        </object>
+        <li><object type="text/sitemap">
+          <param name="Name" value="Imprimir Saldos Iniciales">
+          <param name="Local" value="IMPRIMIR_SALDOS_INICIALES.htm">
+        </object>
+      </ul>
+    </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reportes Presupuesto">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reporte de Gastos">
+        <param name="Local" value="REPORTES_PRESUPUESTO_DE_GASTOS.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reporte de Recursos">
+        <param name="Local" value="REPORTES_PRESUPUESTO_DE_RECURSOS.htm">
+      </object>
+    </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reportes de Tesorería">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reportes de Tesorería">
+        <param name="Local" value="Reportes_de_Tesorer&iacute;a.htm">
+      </object>
+    </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reportes Económicos">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Reporte CAIF">
+        <param name="Local" value="Reporte_CAIF.htm">
+      </object>
+    </ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Reportes Ministerio de Hacienda">
+    </object>
+    <ul>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Estados Financieros">
+        <param name="Local" value="Estados_Financieros.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Estado Económico CAIF">
+        <param name="Local" value="Cuenta_Ahorro_Inversi_n_Financiamiento_CAIF.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Archivos ASCII">
+        <param name="Local" value="CONTADURIA_ASCII.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Captura Presupuesto SFPM o SFP">
+        <param name="Local" value="CAPTURA_SFP_o_SFPM.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Carga Automática de la Apertura Programática">
+        <param name="Local" value="Carga_Atom&aacute;tica_de_la_Apertura_Program&aacute;tica.htm">
+      </object>
+      <li><object type="text/sitemap">
+        <param name="Name" value="Carga Automática del Presupuesto">
+        <param name="Local" value="Carga_Autom&aacute;tica_del_Presupuesto.htm">
+      </object>
+    </ul>
+  </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="OPCIÓN MANTENIMIENTO">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Menú Mantenimiento">
+      <param name="Local" value="Men&uacute;_Mantenimiento.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Contabilidad">
+      <param name="Local" value="Mantenimiento_Contabilidad.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Presupuestos">
+      <param name="Local" value="Mantenimiento_Presupuestos.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Tesorería">
+      <param name="Local" value="Mantenimiento_Tesorer&iacute;a.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Clasificador Económico">
+      <param name="Local" value="Mantenimiento_Clasificador_Econ&oacute;mico.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Relacionadores">
+      <param name="Local" value="Mantenimiento_Relacionadores.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Parámetros Globales">
+      <param name="Local" value="Mantenimiento_Par&aacute;metros_Globales.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Otros">
+      <param name="Local" value="Mantenimiento_Otros.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Mantenimiento Utilitarios">
+      <param name="Local" value="MANTENIMIENTO_UTILITARIOS1.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Ubicación de Archivos">
+      <param name="Local" value="UBICACI_N_DE_ARCHIVOS.htm">
+    </object>
+  </ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Anexos">
+  </object>
+  <ul>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo A">
+      <param name="Local" value="ANEXO_A.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo B">
+      <param name="Local" value="ANEXO_B.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo C">
+      <param name="Local" value="ANEXO_C.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo D">
+      <param name="Local" value="ANEXO_D.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo E">
+      <param name="Local" value="ANEXO_E.htm">
+    </object>
+    <li><object type="text/sitemap">
+      <param name="Name" value="Anexo F">
+      <param name="Local" value="ANEXO_F.htm">
+    </object>
+  </ul>
+</ul>
+</html>

@@ -1,0 +1,602 @@
+[
+ {
+  "FUNCION": "0100",
+  "DES": "SERVICIOS PUBLICOS GENERALES",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0111",
+  "DES": "Órganos ejecutivos y legislativos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0112",
+  "DES": "Asuntos financieros y fiscales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0113",
+  "DES": "Asuntos exteriores",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0121",
+  "DES": "Ayuda económica a los países en desarrollo y en transición",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0122",
+  "DES": "Ayuda económica prestada a través de organismos internacionales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0131",
+  "DES": "Servicios generales de personal",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0132",
+  "DES": "Servicios generales de planificación y estadística",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0133",
+  "DES": "Otros servicios generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0140",
+  "DES": "Investigación básica",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0150",
+  "DES": "Investigación aplicada y desarrollo relacionados con los servicios públicos generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0160",
+  "DES": "Otros servicios públicos generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0170",
+  "DES": "Transacciones de la Deuda Pública",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0180",
+  "DES": "Transferencias de carácter general entre diferentes niveles de gobierno",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0200",
+  "DES": "DEFENSA",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0210",
+  "DES": "Defensa militar",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0220",
+  "DES": "Defensa civil",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0230",
+  "DES": "Ayuda militar al exterior",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0240",
+  "DES": "Investigación y desarrollo relacionados con la defensa",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0250",
+  "DES": "Otros servicios de defensa",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0300",
+  "DES": "ORDEN PÚBLICO Y SEGURIDAD",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0310",
+  "DES": "Servicios de policía",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0320",
+  "DES": "Servicios de protección contra incendios",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0330",
+  "DES": "Tribunales de justicia",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0340",
+  "DES": "Prisiones",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0350",
+  "DES": "Investigación y desarrollo relacionados con el orden público y la seguridad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0360",
+  "DES": "Otros servicios de orden público y seguridad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0400",
+  "DES": "ASUNTOS ECONÓMICOS",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0411",
+  "DES": "Asuntos económicos y comerciales en general",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0412",
+  "DES": "Asuntos laborales generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0421",
+  "DES": "Agricultura",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0422",
+  "DES": "Silvicultura",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0423",
+  "DES": "Pesca y caza",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0431",
+  "DES": "Carbón y otros combustibles minerales sólidos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0432",
+  "DES": "Petróleo y gas natural",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0433",
+  "DES": "Combustibles nucleares",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0434",
+  "DES": "Otros combustibles",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0435",
+  "DES": "Electricidad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0436",
+  "DES": "Energía no eléctrica",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0441",
+  "DES": "Extracción de recursos minerales excepto los combustibles minerales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0442",
+  "DES": "Manufacturas",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0443",
+  "DES": "Construcción",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0451",
+  "DES": "Transporte por carretera",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0452",
+  "DES": "Transporte por agua",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0453",
+  "DES": "Transporte por ferrocarril",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0454",
+  "DES": "Transporte aéreo",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0455",
+  "DES": "Transporte por oleoductos y gasoductos y otros sistemas de transporte",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0460",
+  "DES": "Comunicaciones",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0471",
+  "DES": "Comercio de distribución; almacenamiento y depósito",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0472",
+  "DES": "Hoteles y restaurantes",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0473",
+  "DES": "Turismo",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0474",
+  "DES": "Proyectos de desarrollo polivalentes",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0481",
+  "DES": "Investigación y desarrollo relacionados con asuntos económicos; comerciales y laborales en general",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0482",
+  "DES": "Investigación y desarrollo relacionados con agricultura; silvicultura; pesca y caza",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0483",
+  "DES": "Investigación y desarrollo relacionados con combustibles y energía",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0484",
+  "DES": "Investigación y desarrollo relacionados con minería; manufacturas y construcción",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0485",
+  "DES": "Investigación y desarrollo relacionados con el transporte",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0486",
+  "DES": "Investigación y desarrollo relacionados con las comunicaciones",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0490",
+  "DES": "Otros asuntos económicos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0500",
+  "DES": "PROTECCIÓN DEL MEDIO AMBIENTE",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0510",
+  "DES": "Ordenación de desechos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0520",
+  "DES": "Ordenación de aguas residuales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0530",
+  "DES": "Reducción de la contaminación",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0540",
+  "DES": "Protección de la diversidad biológica y del paisaje",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0550",
+  "DES": "Investigación y desarrollo relacionados con la protección del medio ambiente",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0560",
+  "DES": "Otros servicos de protección del medio ambiente",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0600",
+  "DES": "VIVIENDA Y SERVICIOS COMUNITARIOS",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0610",
+  "DES": "Urbanización",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0620",
+  "DES": "Desarrollo comunitario",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0630",
+  "DES": "Abastecimiento de agua",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0640",
+  "DES": "Alumbrado público",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0650",
+  "DES": "Investigación y desarrollo relacionados con la vivienda y los servicios comunitarios",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0660",
+  "DES": "Otros servicios de la vivienda y servicios comunitarios",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0700",
+  "DES": "SALUD",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0711",
+  "DES": "Productos farmacéuticos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0712",
+  "DES": "Otros productos médicos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0713",
+  "DES": "Aparatos y equipos terapéuticos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0721",
+  "DES": "Servicios médicos generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0722",
+  "DES": "Servicios médicos especializados",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0723",
+  "DES": "Servicios odontológicos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0724",
+  "DES": "Servicios paramédicos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0731",
+  "DES": "Servicios hospitalarios generales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0732",
+  "DES": "Servicios hospitalarios especializados",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0733",
+  "DES": "Servicios médicos y de centros de maternidad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0734",
+  "DES": "Servicios de residencias de la tercera edad y residencias de convalecencia",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0740",
+  "DES": "Servicios de salud pública",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0750",
+  "DES": "Investigación y desarrollo relacionados con la salud",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0760",
+  "DES": "Otros servicios de la salud",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0800",
+  "DES": "ACTIVIDADES RECREATIVAS; CULTURA Y RELIGION",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0810",
+  "DES": "Servicios recreativos y deportivos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0820",
+  "DES": "Servicios culturales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0830",
+  "DES": "Servicios de radio y televisión y  servicios editoriales",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0840",
+  "DES": "Servicios religiosos y otros servicios comunitarios",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0850",
+  "DES": "Investigación y desarrollo relacionados con esparcimiento; cultura y religión",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0860",
+  "DES": "Otras actividades recreativas; cultura y religión",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0900",
+  "DES": "EDUCACIÓN",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "0911",
+  "DES": "Enseñanza preescolar",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0912",
+  "DES": "Enseñanza primaria",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0921",
+  "DES": "Enseñanza secundaria básica",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0922",
+  "DES": "Enseñanza secundaria avanzada",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0930",
+  "DES": "Enseñanza postsecundaria no terciaria",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0941",
+  "DES": "Primera etapa de la enseñanza terciaria",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0942",
+  "DES": "Segunda etapa de la enseñanza terciaria",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0950",
+  "DES": "Enseñanza no atribuible a ningún nivel",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0960",
+  "DES": "Servicios auxiliares de la educación",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0970",
+  "DES": "Investigación y desarrollo relacionados con la educación",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0980",
+  "DES": "Otros servicios de la educación",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0981",
+  "DES": "Educación Primaria; Secundaria",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "0982",
+  "DES": "Apoyo Social para la Educación",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1000",
+  "DES": "IGUALDAD DE GÉNERO; EQUIDAD Y PROTECCIÓN SOCIAL",
+  "TIPO": "N"
+ },
+ {
+  "FUNCION": "1011",
+  "DES": "Enfermedad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1012",
+  "DES": "Incapacidad",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1020",
+  "DES": "Edad avanzada",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1030",
+  "DES": "Derechohabientes",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1040",
+  "DES": "Familia e hijos",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1050",
+  "DES": "Desempleo",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1060",
+  "DES": "Vivienda",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1070",
+  "DES": "Exclusión social sin especificar",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1080",
+  "DES": "Investigación y desarrollo relacionados con la protección social",
+  "TIPO": "S"
+ },
+ {
+  "FUNCION": "1090",
+  "DES": "Igualdad de Género y Otros serv. de elim. de las desigualdades y protección social",
+  "TIPO": "S"
+ }
+]

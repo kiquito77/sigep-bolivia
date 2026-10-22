@@ -1,0 +1,257 @@
+[
+ {
+  "BANCO": 1001.0,
+  "DESC_BANCO": "BANCO NACIONAL DE BOLIVIA S.A.",
+  "SIGLA": "BNB"
+ },
+ {
+  "BANCO": 1002.0,
+  "DESC_BANCO": "BHN MULTIBANCO S.A.",
+  "SIGLA": "BHN"
+ },
+ {
+  "BANCO": 1003.0,
+  "DESC_BANCO": "BANCO MERCANTIL SANTA CRUZ S.A.",
+  "SIGLA": "BME"
+ },
+ {
+  "BANCO": 1004.0,
+  "DESC_BANCO": "BANCO CENTRAL DE BOLIVIA",
+  "SIGLA": "BCB"
+ },
+ {
+  "BANCO": 1005.0,
+  "DESC_BANCO": "BANCO DE CREDITO DE BOLIVIA S. A.",
+  "SIGLA": "BCR"
+ },
+ {
+  "BANCO": 1006.0,
+  "DESC_BANCO": "BANCO BOLIVIANO AMERICANO S. A.",
+  "SIGLA": "BBA"
+ },
+ {
+  "BANCO": 1007.0,
+  "DESC_BANCO": "BANCO DE LA NACION ARGENTINA S. A.",
+  "SIGLA": "BNA"
+ },
+ {
+  "BANCO": 1008.0,
+  "DESC_BANCO": "BANCO DO BRASIL S. A.",
+  "SIGLA": "BDB"
+ },
+ {
+  "BANCO": 1009.0,
+  "DESC_BANCO": "BANCO BISA S. A.",
+  "SIGLA": "BIS"
+ },
+ {
+  "BANCO": 1010.0,
+  "DESC_BANCO": "CITIBANK S. A.",
+  "SIGLA": "CIT"
+ },
+ {
+  "BANCO": 1011.0,
+  "DESC_BANCO": "BANCO SANTA CRUZ S. A.",
+  "SIGLA": "BSC"
+ },
+ {
+  "BANCO": 1012.0,
+  "DESC_BANCO": "BANCO DE LA PAZ S. A.",
+  "SIGLA": "BLP"
+ },
+ {
+  "BANCO": 1013.0,
+  "DESC_BANCO": "BANCO REAL S. A.",
+  "SIGLA": "BRE"
+ },
+ {
+  "BANCO": 1014.0,
+  "DESC_BANCO": "BANCO UNION S.A.",
+  "SIGLA": "BUN"
+ },
+ {
+  "BANCO": 1015.0,
+  "DESC_BANCO": "BANCO INTERNACIONAL DE DESARROLLO S. A.",
+  "SIGLA": "BIN"
+ },
+ {
+  "BANCO": 1016.0,
+  "DESC_BANCO": "BANCO ECONOMICO S. A.",
+  "SIGLA": "BEC"
+ },
+ {
+  "BANCO": 1017.0,
+  "DESC_BANCO": "BANCO SOLIDARIO S. A.",
+  "SIGLA": "BSO"
+ },
+ {
+  "BANCO": 1018.0,
+  "DESC_BANCO": "BANCO GANADERO S. A.",
+  "SIGLA": "BGA"
+ },
+ {
+  "BANCO": 1019.0,
+  "DESC_BANCO": "BANCO LATINOAMERICANO DE DESARROLLO",
+  "SIGLA": "BLD"
+ },
+ {
+  "BANCO": 1020.0,
+  "DESC_BANCO": "BANCO DE LA VIVIENDA",
+  "SIGLA": "BDV"
+ },
+ {
+  "BANCO": 1021.0,
+  "DESC_BANCO": "BANCO DE CREDITO ORURO",
+  "SIGLA": "BCO"
+ },
+ {
+  "BANCO": 1022.0,
+  "DESC_BANCO": "BANCO DE POTOSI",
+  "SIGLA": "BPO"
+ },
+ {
+  "BANCO": 1023.0,
+  "DESC_BANCO": "BANCO DEL PROGRESO",
+  "SIGLA": "BDP"
+ },
+ {
+  "BANCO": 1024.0,
+  "DESC_BANCO": "BANCO AGRICOLA DE BOLIVIA",
+  "SIGLA": "BAB"
+ },
+ {
+  "BANCO": 1025.0,
+  "DESC_BANCO": "BANCO DE FINANCIAMIENTO INDUSTRIAL",
+  "SIGLA": "BFI"
+ },
+ {
+  "BANCO": 1026.0,
+  "DESC_BANCO": "BANCO MINERO DE BOLIVIA",
+  "SIGLA": "BMB"
+ },
+ {
+  "BANCO": 1028.0,
+  "DESC_BANCO": "BANCO SUR",
+  "SIGLA": "BSR"
+ },
+ {
+  "BANCO": 1029.0,
+  "DESC_BANCO": "BANCO DE COCHABAMBA",
+  "SIGLA": "CBB"
+ },
+ {
+  "BANCO": 1033.0,
+  "DESC_BANCO": "BANCO FIE S.A.",
+  "SIGLA": "BFE"
+ },
+ {
+  "BANCO": 1034.0,
+  "DESC_BANCO": "FONDO FINANCIERO PRIVADO FASSIL S.A.",
+  "SIGLA": "FFF"
+ },
+ {
+  "BANCO": 1987.0,
+  "DESC_BANCO": "CONTINENTAL NATIONAL BANK",
+  "SIGLA": "CON"
+ },
+ {
+  "BANCO": 1988.0,
+  "DESC_BANCO": "SANTANDER RIO",
+  "SIGLA": "STD"
+ },
+ {
+  "BANCO": 1989.0,
+  "DESC_BANCO": "ITAÚ",
+  "SIGLA": "ITA"
+ },
+ {
+  "BANCO": 1990.0,
+  "DESC_BANCO": "BANCO DE CREDITO PERU",
+  "SIGLA": "BCP"
+ },
+ {
+  "BANCO": 1991.0,
+  "DESC_BANCO": "BANCO DE CREDITO E INVERSIONES DE CHILE",
+  "SIGLA": "BCI"
+ },
+ {
+  "BANCO": 1992.0,
+  "DESC_BANCO": "STANFORD INTERNATIONAL BANK",
+  "SIGLA": "SIB"
+ },
+ {
+  "BANCO": 1993.0,
+  "DESC_BANCO": "SANTANDER CENTRAL HISPANO DE MIAMI",
+  "SIGLA": "SCH"
+ },
+ {
+  "BANCO": 1994.0,
+  "DESC_BANCO": "LLOYDS TSB BANK PLC",
+  "SIGLA": "LTB"
+ },
+ {
+  "BANCO": 1995.0,
+  "DESC_BANCO": "SUNTRUST BANK",
+  "SIGLA": "STR"
+ },
+ {
+  "BANCO": 1996.0,
+  "DESC_BANCO": "HSBC",
+  "SIGLA": "HSB"
+ },
+ {
+  "BANCO": 1997.0,
+  "DESC_BANCO": "FRAKFUTHER SPARKASSE BANK",
+  "SIGLA": "FSB"
+ },
+ {
+  "BANCO": 1998.0,
+  "DESC_BANCO": "STANDARD CHARTERED BANK",
+  "SIGLA": "SCB"
+ },
+ {
+  "BANCO": 1999.0,
+  "DESC_BANCO": "CHASSE MANHATTAN BANK",
+  "SIGLA": "CMB"
+ },
+ {
+  "BANCO": 2000.0,
+  "DESC_BANCO": "BanesNet",
+  "SIGLA": "BAN"
+ },
+ {
+  "BANCO": 2001.0,
+  "DESC_BANCO": "MUTUAL LA PRIMERA",
+  "SIGLA": "MPR"
+ },
+ {
+  "BANCO": 2002.0,
+  "DESC_BANCO": "MUTUAL LA PAZ",
+  "SIGLA": "MLP"
+ },
+ {
+  "BANCO": 2003.0,
+  "DESC_BANCO": "MUTUAL GUAPAY",
+  "SIGLA": "MGY"
+ },
+ {
+  "BANCO": 5001.0,
+  "DESC_BANCO": "CAJA LOS ANDES S.A. FFP",
+  "SIGLA": "FLA"
+ },
+ {
+  "BANCO": 5005.0,
+  "DESC_BANCO": "FONDO FIE FFP S.A.",
+  "SIGLA": "FIE"
+ },
+ {
+  "BANCO": 5007.0,
+  "DESC_BANCO": "PRODEM FFP S.A.",
+  "SIGLA": "PRO"
+ },
+ {
+  "BANCO": 5008.0,
+  "DESC_BANCO": "FORTALEZA FFP S.A.",
+  "SIGLA": "FFO"
+ }
+]

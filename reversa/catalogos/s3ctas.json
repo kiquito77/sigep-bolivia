@@ -1,0 +1,2978 @@
+[
+ {
+  "UNIDAD": "001",
+  "CTA": "10000",
+  "SALDOD": 363400.0,
+  "SALDOH": 38400.0,
+  "DBB": 9606120.0,
+  "HBB": 1392173.2
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11000",
+  "SALDOD": 45400.0,
+  "SALDOH": 0.0,
+  "DBB": 8721332.0,
+  "HBB": 1392173.2
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11100",
+  "SALDOD": 45400.0,
+  "SALDOH": 0.0,
+  "DBB": 8122620.0,
+  "HBB": 1208459.6
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11120",
+  "SALDOD": 45400.0,
+  "SALDOH": 0.0,
+  "DBB": 8122620.0,
+  "HBB": 1208459.6
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11121",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11122",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11123",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11124",
+  "SALDOD": 45400.0,
+  "SALDOH": 0.0,
+  "DBB": 8122620.0,
+  "HBB": 1208459.6
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11125",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11126",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11127",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11128",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11129",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11211",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11212",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11213",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11221",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11222",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11223",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11230",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 580712.0,
+  "HBB": 174213.6
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11310",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11320",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11321",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11322",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11330",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11331",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11332",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11340",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11350",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11351",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11352",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11353",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11354",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11355",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11356",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11357",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11358",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11360",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11361",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11362",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11363",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11364",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11370",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 580712.0,
+  "HBB": 174213.6
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11380",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11390",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 18000.0,
+  "HBB": 9500.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11510",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 18000.0,
+  "HBB": 9500.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11520",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11530",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11540",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11610",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11620",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "11630",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12000",
+  "SALDOD": 318000.0,
+  "SALDOH": 38400.0,
+  "DBB": 884788.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12140",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12150",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12151",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12152",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12153",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12154",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12155",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12156",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12157",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12158",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12160",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12161",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12162",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12163",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12164",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12170",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12180",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12211",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12212",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12213",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12214",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12215",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12221",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12222",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12223",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12230",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12240",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12250",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12300",
+  "SALDOD": 318000.0,
+  "SALDOH": 0.0,
+  "DBB": 884788.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12310",
+  "SALDOD": 286000.0,
+  "SALDOH": 0.0,
+  "DBB": 13720.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12311",
+  "SALDOD": 220000.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12312",
+  "SALDOD": 33000.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12313",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12314",
+  "SALDOD": 33000.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12315",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 13720.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12316",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12317",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12318",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12320",
+  "SALDOD": 32000.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12330",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12340",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12350",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12351",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12352",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12353",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12354",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12360",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 871068.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12361",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 871068.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12362",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12370",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12371",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12372",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12380",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12400",
+  "SALDOD": 0.0,
+  "SALDOH": 38400.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12410",
+  "SALDOD": 0.0,
+  "SALDOH": 26000.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12420",
+  "SALDOD": 0.0,
+  "SALDOH": 8600.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12430",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12440",
+  "SALDOD": 0.0,
+  "SALDOH": 3800.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12450",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12460",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12470",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12480",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12490",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "12700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "20000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 100826.8
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 100826.8
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 100826.8
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 13720.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 87106.8
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21140",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21141",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21142",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21143",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21144",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21150",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21160",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21161",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21162",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21163",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21170",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21171",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21172",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21173",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21174",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21175",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21176",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21177",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21178",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21180",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21181",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21182",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21183",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21184",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21185",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21186",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21187",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21188",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21189",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21190",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21230",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21240",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21410",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21420",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21430",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21510",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21520",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21530",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21540",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "21700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22310",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22320",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22510",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22520",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22530",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "22600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "30000",
+  "SALDOD": 0.0,
+  "SALDOH": 325000.0,
+  "DBB": 0.0,
+  "HBB": 5972620.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31000",
+  "SALDOD": 0.0,
+  "SALDOH": 325000.0,
+  "DBB": 0.0,
+  "HBB": 5972620.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31100",
+  "SALDOD": 0.0,
+  "SALDOH": 325000.0,
+  "DBB": 0.0,
+  "HBB": 5972620.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31110",
+  "SALDOD": 0.0,
+  "SALDOH": 325000.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 5972620.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31140",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31510",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31520",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31530",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31540",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "32000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "40000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "50000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 2150000.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "51000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 150000.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "51100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "51200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "51300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 150000.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "52000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "52100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "52200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "53400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54800",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "54900",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "55800",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "56000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "56100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "56110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "56120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "56200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "57000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 2000000.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "57100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "57200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 2000000.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "57300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "57400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "58000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "58100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "58200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59800",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "59900",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "60000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 9500.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 9500.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61230",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61310",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61320",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61330",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 9500.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61410",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61420",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 9500.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61510",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61520",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61530",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61610",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61620",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61630",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61710",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "61720",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62140",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62150",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62210",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62220",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "62300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "63000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64110",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64120",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64130",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64140",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "64200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "65000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "65100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "65200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "65300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "65400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "66000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "66100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "66200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "67000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "70000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "71000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "80000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81800",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81900",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81910",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81920",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81940",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81950",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81960",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81990",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82100",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82200",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82300",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82400",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82500",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82800",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82900",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82910",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82920",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82940",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82950",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82960",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82990",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "81930",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "82930",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31600",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "31700",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "41000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ },
+ {
+  "UNIDAD": "001",
+  "CTA": "42000",
+  "SALDOD": 0.0,
+  "SALDOH": 0.0,
+  "DBB": 0.0,
+  "HBB": 0.0
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "FF": "00",
+  "DES": ".",
+  "SIGLA": ".",
+  "GRUPO": "0"
+ },
+ {
+  "FF": "10",
+  "DES": "Tesoro General de la Nación",
+  "SIGLA": "TGN",
+  "GRUPO": "1"
+ },
+ {
+  "FF": "41",
+  "DES": "Transferencias T.G.N.",
+  "SIGLA": "TRANSF-TGN",
+  "GRUPO": "1"
+ },
+ {
+  "FF": "91",
+  "DES": "Préstamos T.G.N.",
+  "SIGLA": "PREST-TGN",
+  "GRUPO": "1"
+ },
+ {
+  "FF": "11",
+  "DES": "T.G.N. Otros Ingresos",
+  "SIGLA": "TGN-OT",
+  "GRUPO": "2"
+ },
+ {
+  "FF": "46",
+  "DES": "Transferencias T.G.N. Otros Ingresos",
+  "SIGLA": "TRANSF-OTI",
+  "GRUPO": "2"
+ },
+ {
+  "FF": "96",
+  "DES": "Préstamos T.G.N. Otros Ingresos",
+  "SIGLA": "PREST-OTI",
+  "GRUPO": "2"
+ },
+ {
+  "FF": "20",
+  "DES": "Recursos Específicos",
+  "SIGLA": "RECESP",
+  "GRUPO": "3"
+ },
+ {
+  "FF": "42",
+  "DES": "Transferencias de Recursos Específicos",
+  "SIGLA": "TRANSF-ESP",
+  "GRUPO": "3"
+ },
+ {
+  "FF": "92",
+  "DES": "Préstamos de Recursos Específicos",
+  "SIGLA": "PREST-ESP",
+  "GRUPO": "3"
+ },
+ {
+  "FF": "47",
+  "DES": "Transferencia de Donación Interna",
+  "SIGLA": "TRANSF-DINT",
+  "GRUPO": "4"
+ },
+ {
+  "FF": "87",
+  "DES": "Donación Interna",
+  "SIGLA": "DON-INT",
+  "GRUPO": "4"
+ },
+ {
+  "FF": "97",
+  "DES": "Préstamos de Donación Interna",
+  "SIGLA": "PREST-DINT",
+  "GRUPO": "4"
+ },
+ {
+  "FF": "43",
+  "DES": "Transferencias de Crédito Externo",
+  "SIGLA": "TRANSF-CRE",
+  "GRUPO": "7"
+ },
+ {
+  "FF": "70",
+  "DES": "Crédito Externo",
+  "SIGLA": "CREDEX",
+  "GRUPO": "7"
+ },
+ {
+  "FF": "93",
+  "DES": "Préstamos de Crédito Externo",
+  "SIGLA": "PREST-CRE",
+  "GRUPO": "7"
+ },
+ {
+  "FF": "44",
+  "DES": "Transferencias de Donación Externa",
+  "SIGLA": "TRANSF-DEXT",
+  "GRUPO": "8"
+ },
+ {
+  "FF": "80",
+  "DES": "Donación Externa",
+  "SIGLA": "DON-EXT",
+  "GRUPO": "8"
+ },
+ {
+  "FF": "94",
+  "DES": "Préstamos de Donación Externa",
+  "SIGLA": "PREST-DEXT",
+  "GRUPO": "8"
+ },
+ {
+  "FF": "45",
+  "DES": "Transferencias de Crédito Interno",
+  "SIGLA": "TRANSF-CREI",
+  "GRUPO": "9"
+ },
+ {
+  "FF": "90",
+  "DES": "Crédito Interno",
+  "SIGLA": "CREDINT",
+  "GRUPO": "9"
+ },
+ {
+  "FF": "95",
+  "DES": "Préstamos de Crédito Interno",
+  "SIGLA": "PREST-CREI",
+  "GRUPO": "9"
+ }
+]

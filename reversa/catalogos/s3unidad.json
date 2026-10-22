@@ -1,0 +1,20 @@
+[
+ {
+  "UNIDAD": "001",
+  "DESC": "ALEJANDRO CAZAS TARQUI",
+  "CIUDAD": "",
+  "CBTE_VALI": 13.0,
+  "CBTE_BORR": 1000012.0,
+  "SALDOOK": true,
+  "SALDO_P": 0.0,
+  "SALDO_E": 0.0,
+  "EMPRESA": null,
+  "UOD": 12.0,
+  "SFPM": "",
+  "EFE24": null,
+  "FLUJOINI": null,
+  "FLUJO24": null,
+  "TIPO_REG": "A",
+  "SALINI": 0.0
+ }
+]

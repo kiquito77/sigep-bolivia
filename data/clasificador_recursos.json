@@ -1,0 +1,1366 @@
+[
+  {
+    "codigo": "11000",
+    "nombre": "INGRESOS DE OPERACIÓN"
+  },
+  {
+    "codigo": "11100",
+    "nombre": "Venta de Bienes"
+  },
+  {
+    "codigo": "11300",
+    "nombre": "Venta de Servicios"
+  },
+  {
+    "codigo": "11500",
+    "nombre": "Ingresos Financieros de Instituciones Financieras"
+  },
+  {
+    "codigo": "11900",
+    "nombre": "Otros Ingresos de Operación"
+  },
+  {
+    "codigo": "12000",
+    "nombre": "VENTA DE BIENES Y SERVICIOS DE LAS ADMINISTRACIONES PÚBLICAS"
+  },
+  {
+    "codigo": "12100",
+    "nombre": "Venta de Bienes de las Administraciones Públicas"
+  },
+  {
+    "codigo": "12200",
+    "nombre": "Venta de Servicios de las Administraciones Públicas"
+  },
+  {
+    "codigo": "13000",
+    "nombre": "INGRESOS POR IMPUESTOS"
+  },
+  {
+    "codigo": "13110",
+    "nombre": "Impuesto sobre las Utilidades de las Empresas"
+  },
+  {
+    "codigo": "13111",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13112",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13120",
+    "nombre": "Impuesto a las Transacciones"
+  },
+  {
+    "codigo": "13121",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13122",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13130",
+    "nombre": "Impuesto al Valor Agregado - Mercado Interno"
+  },
+  {
+    "codigo": "13131",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13132",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13140",
+    "nombre": "Impuesto al Valor Agregado - Importaciones"
+  },
+  {
+    "codigo": "13141",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13142",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13150",
+    "nombre": "Impuesto a los Consumos Específicos - Mercado Interno"
+  },
+  {
+    "codigo": "13151",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13152",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13160",
+    "nombre": "Impuesto a los Consumos Específicos - Importaciones"
+  },
+  {
+    "codigo": "13161",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13162",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13170",
+    "nombre": "Impuestos a los Hidrocarburos"
+  },
+  {
+    "codigo": "13175",
+    "nombre": "Impuesto Directo a los Hidrocarburos"
+  },
+  {
+    "codigo": "13190",
+    "nombre": "Otros Impuestos"
+  },
+  {
+    "codigo": "13192",
+    "nombre": "Impuesto a las Salidas Aéreas al Exterior - ISAE"
+  },
+  {
+    "codigo": "13193",
+    "nombre": "Impuesto a la Transmisión Gratuita de Bienes - ITGB"
+  },
+  {
+    "codigo": "13194",
+    "nombre": "Régimen Agropecuario Unificado - RAU"
+  },
+  {
+    "codigo": "13195",
+    "nombre": "Régimen Tributario Simplificado - RTS"
+  },
+  {
+    "codigo": "13196",
+    "nombre": "Régimen Tributario Integrado - STI"
+  },
+  {
+    "codigo": "13197",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13198",
+    "nombre": "Impuesto a las Transacciones Financieras - ITF"
+  },
+  {
+    "codigo": "13199",
+    "nombre": "Impuestos a la Participación en Juegos, a la Venta de Moneda Extranjera y Otros"
+  },
+  {
+    "codigo": "13210",
+    "nombre": "Gravamen Arancelario"
+  },
+  {
+    "codigo": "13211",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "13212",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "13300",
+    "nombre": "Impuestos Municipales"
+  },
+  {
+    "codigo": "13310",
+    "nombre": "Impuesto a la Propiedad de Bienes Inmuebles"
+  },
+  {
+    "codigo": "13330",
+    "nombre": "Impuesto a la Propiedad de Vehículos Automotores"
+  },
+  {
+    "codigo": "13360",
+    "nombre": "Impuesto Municipal a la Transferencia de Inmuebles"
+  },
+  {
+    "codigo": "13370",
+    "nombre": "Impuesto Municipal a la Transferencia de Vehículos Automotores"
+  },
+  {
+    "codigo": "13390",
+    "nombre": "Otros"
+  },
+  {
+    "codigo": "13400",
+    "nombre": "Impuestos Departamentales"
+  },
+  {
+    "codigo": "13410",
+    "nombre": "Impuesto a la Sucesión Hereditaria y Donación de Bienes Inmuebles y Muebles Sujetos a"
+  },
+  {
+    "codigo": "13420",
+    "nombre": "Impuesto a la Propiedad de Vehículos a motor para la navegación Aérea y Acuática"
+  },
+  {
+    "codigo": "13430",
+    "nombre": "Impuesto a la afectación del Medio Ambiente"
+  },
+  {
+    "codigo": "13490",
+    "nombre": "Otros"
+  },
+  {
+    "codigo": "14000",
+    "nombre": "REGALÍAS"
+  },
+  {
+    "codigo": "14100",
+    "nombre": "Regalías Mineras"
+  },
+  {
+    "codigo": "14200",
+    "nombre": "Regalías por Hidrocarburos"
+  },
+  {
+    "codigo": "14210",
+    "nombre": "Nacionales"
+  },
+  {
+    "codigo": "14220",
+    "nombre": "Departamentales"
+  },
+  {
+    "codigo": "14300",
+    "nombre": "Regalías Agropecuarias y Forestales"
+  },
+  {
+    "codigo": "14900",
+    "nombre": "Otras Regalías"
+  },
+  {
+    "codigo": "15000",
+    "nombre": "TASAS, DERECHOS Y OTROS INGRESOS"
+  },
+  {
+    "codigo": "15100",
+    "nombre": "Tasas"
+  },
+  {
+    "codigo": "15200",
+    "nombre": "Derechos"
+  },
+  {
+    "codigo": "15300",
+    "nombre": "Patentes y Concesiones"
+  },
+  {
+    "codigo": "15310",
+    "nombre": "Patentes Forestales"
+  },
+  {
+    "codigo": "15320",
+    "nombre": "Patentes Petroleras"
+  },
+  {
+    "codigo": "15330",
+    "nombre": "Patentes y Concesiones Mineras"
+  },
+  {
+    "codigo": "15331",
+    "nombre": "Patentes Mineras"
+  },
+  {
+    "codigo": "15332",
+    "nombre": "Concesiones Mineras"
+  },
+  {
+    "codigo": "15340",
+    "nombre": "Patentes Municipales"
+  },
+  {
+    "codigo": "15350",
+    "nombre": "Otras Patentes y Concesiones"
+  },
+  {
+    "codigo": "15400",
+    "nombre": "Contribuciones por Mejoras"
+  },
+  {
+    "codigo": "15900",
+    "nombre": "Otros Ingresos"
+  },
+  {
+    "codigo": "15910",
+    "nombre": "Multas"
+  },
+  {
+    "codigo": "15920",
+    "nombre": "Intereses Penales"
+  },
+  {
+    "codigo": "15930",
+    "nombre": "Ganancias en Operaciones Cambiarias"
+  },
+  {
+    "codigo": "15940",
+    "nombre": "Renta Consular"
+  },
+  {
+    "codigo": "15990",
+    "nombre": "Otros Ingresos no Especificados"
+  },
+  {
+    "codigo": "16000",
+    "nombre": "INTERESES Y OTRAS RENTAS DE LA PROPIEDAD"
+  },
+  {
+    "codigo": "16100",
+    "nombre": "Intereses"
+  },
+  {
+    "codigo": "16110",
+    "nombre": "Intereses por Depósitos"
+  },
+  {
+    "codigo": "16120",
+    "nombre": "Intereses por Valores"
+  },
+  {
+    "codigo": "16140",
+    "nombre": "Intereses por Inversiones en instrumentos financieros en el extranjero"
+  },
+  {
+    "codigo": "16190",
+    "nombre": "Otros Intereses"
+  },
+  {
+    "codigo": "16200",
+    "nombre": "Dividendos"
+  },
+  {
+    "codigo": "16300",
+    "nombre": "Alquiler de Edificios, Tierras y Terrenos"
+  },
+  {
+    "codigo": "16400",
+    "nombre": "Derechos sobre Bienes Intangibles"
+  },
+  {
+    "codigo": "16500",
+    "nombre": "Alquiler de Equipos de las Administraciones Públicas"
+  },
+  {
+    "codigo": "17000",
+    "nombre": "CONTRIBUCIONES A LA SEGURIDAD SOCIAL"
+  },
+  {
+    "codigo": "17100",
+    "nombre": "Contribuciones Obligatorias"
+  },
+  {
+    "codigo": "17110",
+    "nombre": "Patronales"
+  },
+  {
+    "codigo": "17111",
+    "nombre": "Del Sector Público"
+  },
+  {
+    "codigo": "17112",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "17120",
+    "nombre": "Laborales"
+  },
+  {
+    "codigo": "17121",
+    "nombre": "Del Sector Público"
+  },
+  {
+    "codigo": "17122",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "17130",
+    "nombre": "Especiales de las Universidades Públicas"
+  },
+  {
+    "codigo": "17200",
+    "nombre": "Contribuciones Voluntarias"
+  },
+  {
+    "codigo": "18000",
+    "nombre": "DONACIONES CORRIENTES"
+  },
+  {
+    "codigo": "18100",
+    "nombre": "Donaciones Corrientes Internas"
+  },
+  {
+    "codigo": "18110",
+    "nombre": "Del Sector Privado Nacional realizados por personas naturales y jurídicas."
+  },
+  {
+    "codigo": "18111",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "18112",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "18200",
+    "nombre": "Donaciones Corrientes del Exterior"
+  },
+  {
+    "codigo": "18210",
+    "nombre": "Del Sector Privado del Exterior"
+  },
+  {
+    "codigo": "18211",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "18212",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "18220",
+    "nombre": "De Países y Organismos Internacionales"
+  },
+  {
+    "codigo": "18221",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "18222",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "19000",
+    "nombre": "TRANSFERENCIAS CORRIENTES"
+  },
+  {
+    "codigo": "19100",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "19110",
+    "nombre": "De Unidades Familiares"
+  },
+  {
+    "codigo": "19120",
+    "nombre": "De Instituciones Privadas sin Fines de Lucro"
+  },
+  {
+    "codigo": "19130",
+    "nombre": "De Empresas Privadas y otros actores"
+  },
+  {
+    "codigo": "19200",
+    "nombre": "Del Sector Público No Financiero"
+  },
+  {
+    "codigo": "19210",
+    "nombre": "Del Órgano Ejecutivo"
+  },
+  {
+    "codigo": "19211",
+    "nombre": "Por Subsidios o Subvenciones"
+  },
+  {
+    "codigo": "19212",
+    "nombre": "Por Coparticipación Tributaria"
+  },
+  {
+    "codigo": "19216",
+    "nombre": "Fondo de Compensación Departamental"
+  },
+  {
+    "codigo": "19219",
+    "nombre": "Por Emisión de Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "19220",
+    "nombre": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,"
+  },
+  {
+    "codigo": "19230",
+    "nombre": "De las Entidades Territoriales Autónomas"
+  },
+  {
+    "codigo": "19231",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "19232",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "19233",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "19234",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "19260",
+    "nombre": "De las Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "19270",
+    "nombre": "De las Empresas Públicas Nacionales"
+  },
+  {
+    "codigo": "19271",
+    "nombre": "Por Subsidios y Subvenciones"
+  },
+  {
+    "codigo": "19272",
+    "nombre": "Por Excedentes Financieros"
+  },
+  {
+    "codigo": "19280",
+    "nombre": "De las Empresas Públicas Territoriales"
+  },
+  {
+    "codigo": "19281",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "19282",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "19283",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "19284",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "19300",
+    "nombre": "Del Sector Público Financiero"
+  },
+  {
+    "codigo": "19310",
+    "nombre": "De las Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "19320",
+    "nombre": "De las Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "19400",
+    "nombre": "Del Exterior"
+  },
+  {
+    "codigo": "21000",
+    "nombre": "RECURSOS PROPIOS DE CAPITAL"
+  },
+  {
+    "codigo": "21100",
+    "nombre": "Venta de Activos Fijos"
+  },
+  {
+    "codigo": "21110",
+    "nombre": "Edificios"
+  },
+  {
+    "codigo": "21120",
+    "nombre": "Maquinaria y Equipo"
+  },
+  {
+    "codigo": "21121",
+    "nombre": "Equipo de Oficina y Muebles"
+  },
+  {
+    "codigo": "21122",
+    "nombre": "Maquinaria y Equipo de Producción"
+  },
+  {
+    "codigo": "21123",
+    "nombre": "Equipo de Transporte, Tracción y Elevación"
+  },
+  {
+    "codigo": "21124",
+    "nombre": "Equipo Médico y de Laboratorio"
+  },
+  {
+    "codigo": "21125",
+    "nombre": "Equipo de Comunicación"
+  },
+  {
+    "codigo": "21126",
+    "nombre": "Equipo Educacional y Recreativo"
+  },
+  {
+    "codigo": "21127",
+    "nombre": "Otra Maquinaria y Equipo"
+  },
+  {
+    "codigo": "21130",
+    "nombre": "Semovientes"
+  },
+  {
+    "codigo": "21200",
+    "nombre": "Venta de Tierras y Terrenos"
+  },
+  {
+    "codigo": "21400",
+    "nombre": "Venta de Activos Intangibles"
+  },
+  {
+    "codigo": "21900",
+    "nombre": "Venta de Otros Activos Fijos"
+  },
+  {
+    "codigo": "22000",
+    "nombre": "DONACIONES DE CAPITAL"
+  },
+  {
+    "codigo": "22100",
+    "nombre": "Donaciones de Capital Internas"
+  },
+  {
+    "codigo": "22110",
+    "nombre": "Del Sector Privado Nacional realizados por personas naturales y jurídicas."
+  },
+  {
+    "codigo": "22111",
+    "nombre": "Monetizables"
+  },
+  {
+    "codigo": "22112",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "22200",
+    "nombre": "Donaciones de Capital del Exterior"
+  },
+  {
+    "codigo": "22210",
+    "nombre": "Del Sector Privado del Exterior"
+  },
+  {
+    "codigo": "22211",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "22212",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "22220",
+    "nombre": "De Países y Organismos Internacionales"
+  },
+  {
+    "codigo": "22221",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "22222",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "22223",
+    "nombre": "Donaciones HIPC"
+  },
+  {
+    "codigo": "23000",
+    "nombre": "TRANSFERENCIAS DE CAPITAL"
+  },
+  {
+    "codigo": "23100",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "23110",
+    "nombre": "De Unidades Familiares"
+  },
+  {
+    "codigo": "23111",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "23112",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "23120",
+    "nombre": "De Instituciones Privadas sin Fines de Lucro"
+  },
+  {
+    "codigo": "23121",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "23122",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "23130",
+    "nombre": "De Empresas Privadas y otros actores"
+  },
+  {
+    "codigo": "23131",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "23132",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "23200",
+    "nombre": "Del Sector Público No Financiero"
+  },
+  {
+    "codigo": "23210",
+    "nombre": "Del Órgano Ejecutivo"
+  },
+  {
+    "codigo": "23211",
+    "nombre": "Por Subsidios o Subvenciones"
+  },
+  {
+    "codigo": "23212",
+    "nombre": "Por Patentes Petroleras"
+  },
+  {
+    "codigo": "23219",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "23220",
+    "nombre": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,"
+  },
+  {
+    "codigo": "23230",
+    "nombre": "De las Entidades Territoriales Autónomas"
+  },
+  {
+    "codigo": "23231",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "23232",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "23233",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "23234",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "23260",
+    "nombre": "De las Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "23270",
+    "nombre": "De las Empresas Públicas Nacionales"
+  },
+  {
+    "codigo": "23271",
+    "nombre": "Por Subsidios y Subvenciones"
+  },
+  {
+    "codigo": "23272",
+    "nombre": "Por Excedentes Financieros"
+  },
+  {
+    "codigo": "23280",
+    "nombre": "De las Empresas Públicas Territoriales"
+  },
+  {
+    "codigo": "23281",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "23282",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "23283",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "23284",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "23300",
+    "nombre": "Del Sector Público Financiero"
+  },
+  {
+    "codigo": "23310",
+    "nombre": "De las Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "23320",
+    "nombre": "De las Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "23400",
+    "nombre": "Del Exterior"
+  },
+  {
+    "codigo": "31000",
+    "nombre": "VENTA DE ACCIONES Y PARTICIPACIONES DE CAPITAL"
+  },
+  {
+    "codigo": "31100",
+    "nombre": "De Empresas Privadas Nacionales"
+  },
+  {
+    "codigo": "31200",
+    "nombre": "De Empresas Públicas"
+  },
+  {
+    "codigo": "31210",
+    "nombre": "De las Empresas Públicas Nacionales"
+  },
+  {
+    "codigo": "31220",
+    "nombre": "De las Empresas Públicas Departamentales"
+  },
+  {
+    "codigo": "31230",
+    "nombre": "De las Empresas Públicas Municipales"
+  },
+  {
+    "codigo": "31240",
+    "nombre": "De las Empresas Públicas Regionales"
+  },
+  {
+    "codigo": "31250",
+    "nombre": "De las Empresas Públicas Indígena Originaria Campesina"
+  },
+  {
+    "codigo": "31300",
+    "nombre": "De Instituciones Públicas Financieras"
+  },
+  {
+    "codigo": "31310",
+    "nombre": "De las Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "31320",
+    "nombre": "De las Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "31400",
+    "nombre": "Del Exterior"
+  },
+  {
+    "codigo": "31410",
+    "nombre": "De Organismos Internacionales"
+  },
+  {
+    "codigo": "31420",
+    "nombre": "Otras del Exterior"
+  },
+  {
+    "codigo": "32000",
+    "nombre": "RECUPERACIÓN DE PRÉSTAMOS DE CORTO PLAZO"
+  },
+  {
+    "codigo": "32100",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "32200",
+    "nombre": "Del Sector Público No Financiero"
+  },
+  {
+    "codigo": "32210",
+    "nombre": "Del Órgano Ejecutivo"
+  },
+  {
+    "codigo": "32211",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "32212",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "32220",
+    "nombre": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,"
+  },
+  {
+    "codigo": "32230",
+    "nombre": "De las Entidades Territoriales Autónomas"
+  },
+  {
+    "codigo": "32231",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "32232",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "32233",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "32234",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "32260",
+    "nombre": "De las Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "32270",
+    "nombre": "De las Empresas Públicas Nacionales"
+  },
+  {
+    "codigo": "32280",
+    "nombre": "De las Empresas Públicas Territoriales"
+  },
+  {
+    "codigo": "32281",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "32282",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "32283",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "32284",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "32300",
+    "nombre": "Del Sector Público Financiero"
+  },
+  {
+    "codigo": "32310",
+    "nombre": "De las Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "32320",
+    "nombre": "De las Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "32400",
+    "nombre": "Del Exterior"
+  },
+  {
+    "codigo": "33000",
+    "nombre": "RECUPERACION DE PRÉSTAMOS DE LARGO PLAZO"
+  },
+  {
+    "codigo": "33100",
+    "nombre": "Del Sector Privado"
+  },
+  {
+    "codigo": "33200",
+    "nombre": "Del Sector Público No Financiero"
+  },
+  {
+    "codigo": "33210",
+    "nombre": "Del Órgano Ejecutivo"
+  },
+  {
+    "codigo": "33211",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "33212",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "33220",
+    "nombre": "De los Órganos Legislativo, Judicial y Electoral, Entidades de Control y Defensa,"
+  },
+  {
+    "codigo": "33230",
+    "nombre": "De las Entidades Territoriales Autónomas"
+  },
+  {
+    "codigo": "33231",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "33232",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "33233",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "33234",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "33260",
+    "nombre": "De las Instituciones de Seguridad Social"
+  },
+  {
+    "codigo": "33270",
+    "nombre": "De las Empresas Públicas Nacionales"
+  },
+  {
+    "codigo": "33280",
+    "nombre": "De las Empresas Públicas Territoriales"
+  },
+  {
+    "codigo": "33281",
+    "nombre": "Del Gobierno Autónomo Departamental"
+  },
+  {
+    "codigo": "33282",
+    "nombre": "Del Gobierno Autónomo Municipal"
+  },
+  {
+    "codigo": "33283",
+    "nombre": "Del Gobierno Autónomo Indígena Originario Campesino"
+  },
+  {
+    "codigo": "33284",
+    "nombre": "Del Gobierno Autónomo Regional"
+  },
+  {
+    "codigo": "33300",
+    "nombre": "Del Sector Público Financiero"
+  },
+  {
+    "codigo": "33310",
+    "nombre": "De las Instituciones Públicas Financieras No Bancarias"
+  },
+  {
+    "codigo": "33320",
+    "nombre": "De las Instituciones Públicas Financieras Bancarias"
+  },
+  {
+    "codigo": "33400",
+    "nombre": "Recuperación de Fondos de Fideicomiso y Servicios Financieros"
+  },
+  {
+    "codigo": "33410",
+    "nombre": "De las Instituciones Públicas"
+  },
+  {
+    "codigo": "33420",
+    "nombre": "De las Instituciones Privadas"
+  },
+  {
+    "codigo": "33500",
+    "nombre": "Del Exterior"
+  },
+  {
+    "codigo": "33600",
+    "nombre": "Recuperaciones por Afectaciones al Tesoro General de la Nación"
+  },
+  {
+    "codigo": "34000",
+    "nombre": "VENTA DE TÍTULOS Y VALORES"
+  },
+  {
+    "codigo": "34100",
+    "nombre": "Venta de Títulos y Valores de Corto Plazo"
+  },
+  {
+    "codigo": "34110",
+    "nombre": "Letras del Tesoro"
+  },
+  {
+    "codigo": "34120",
+    "nombre": "Bonos del Tesoro"
+  },
+  {
+    "codigo": "34130",
+    "nombre": "Otros"
+  },
+  {
+    "codigo": "34200",
+    "nombre": "Venta de Títulos y Valores de Largo Plazo"
+  },
+  {
+    "codigo": "34210",
+    "nombre": "Letras del Tesoro"
+  },
+  {
+    "codigo": "34220",
+    "nombre": "Bonos del Tesoro"
+  },
+  {
+    "codigo": "34230",
+    "nombre": "Otros"
+  },
+  {
+    "codigo": "35000",
+    "nombre": "DISMINUCIÓN Y COBRO DE OTROS ACTIVOS FINANCIEROS"
+  },
+  {
+    "codigo": "35100",
+    "nombre": "Disminución del Activo Disponible"
+  },
+  {
+    "codigo": "35110",
+    "nombre": "Disminución de Caja y Bancos"
+  },
+  {
+    "codigo": "35120",
+    "nombre": "Disminución de Inversiones Temporales"
+  },
+  {
+    "codigo": "35130",
+    "nombre": "Disminución de Anticipos Financieros"
+  },
+  {
+    "codigo": "35200",
+    "nombre": "Disminución de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Corto Plazo"
+  },
+  {
+    "codigo": "35210",
+    "nombre": "Disminución de Cuentas por Cobrar a Corto Plazo"
+  },
+  {
+    "codigo": "35220",
+    "nombre": "Disminución de Documentos por Cobrar y Otros Activos Financieros a Corto Plazo"
+  },
+  {
+    "codigo": "35221",
+    "nombre": "Disminución de Documentos por Cobrar a Corto Plazo"
+  },
+  {
+    "codigo": "35222",
+    "nombre": "Disminución de Otros Activos Financieros a Corto Plazo"
+  },
+  {
+    "codigo": "35300",
+    "nombre": "Disminución de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Largo Plazo"
+  },
+  {
+    "codigo": "35310",
+    "nombre": "Disminución de Cuentas por Cobrar a Largo Plazo"
+  },
+  {
+    "codigo": "35320",
+    "nombre": "Disminución de Documentos por Cobrar y Otros Activos Financieros a Largo Plazo"
+  },
+  {
+    "codigo": "35321",
+    "nombre": "Disminución de Documentos por Cobrar a Largo Plazo"
+  },
+  {
+    "codigo": "35322",
+    "nombre": "Disminución de Otros Activos Financieros a Largo Plazo"
+  },
+  {
+    "codigo": "35400",
+    "nombre": "Cobro de Cuentas y Documentos por Cobrar y Otros Activos Financieros a Corto Plazo"
+  },
+  {
+    "codigo": "35410",
+    "nombre": "Recursos Devengados no Cobrados por Cuentas por Cobrar de Corto Plazo"
+  },
+  {
+    "codigo": "35420",
+    "nombre": "Recursos Devengados no Cobrados por Documentos por Cobrar y Otros Activos"
+  },
+  {
+    "codigo": "36000",
+    "nombre": "OBTENCIÓN DE PRÉSTAMOS INTERNOS Y DE FONDOS - FIDEICOMISOS"
+  },
+  {
+    "codigo": "36100",
+    "nombre": "Obtención de Préstamos Internos a Corto Plazo"
+  },
+  {
+    "codigo": "36110",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "36120",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "36200",
+    "nombre": "Obtención de Préstamos Internos a Largo Plazo"
+  },
+  {
+    "codigo": "36210",
+    "nombre": "En Efectivo"
+  },
+  {
+    "codigo": "36220",
+    "nombre": "En Certificados de Crédito Fiscal"
+  },
+  {
+    "codigo": "36300",
+    "nombre": "Obtención de Fondos en Fideicomiso"
+  },
+  {
+    "codigo": "36310",
+    "nombre": "Obtención de Fondos - Fideicomiso a Corto Plazo"
+  },
+  {
+    "codigo": "36320",
+    "nombre": "Obtención de Fondos - Fideicomiso a Largo Plazo"
+  },
+  {
+    "codigo": "36400",
+    "nombre": "Financiamiento por Afectaciones al Tesoro General de la Nación"
+  },
+  {
+    "codigo": "37000",
+    "nombre": "OBTENCIÓN DE PRÉSTAMOS DEL EXTERIOR"
+  },
+  {
+    "codigo": "37100",
+    "nombre": "Obtención de Préstamos del Exterior a Corto Plazo"
+  },
+  {
+    "codigo": "37110",
+    "nombre": "Del Sector Privado del Exterior"
+  },
+  {
+    "codigo": "37111",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "37112",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "37120",
+    "nombre": "De Países y Organismos Internacionales"
+  },
+  {
+    "codigo": "37121",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "37122",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "37200",
+    "nombre": "Obtención de Préstamos del Exterior a Largo Plazo"
+  },
+  {
+    "codigo": "37210",
+    "nombre": "Del Sector Privado del Exterior"
+  },
+  {
+    "codigo": "37211",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "37212",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "37220",
+    "nombre": "De Países y Organismos Internacionales"
+  },
+  {
+    "codigo": "37221",
+    "nombre": "Monetizable"
+  },
+  {
+    "codigo": "37222",
+    "nombre": "No Monetizable"
+  },
+  {
+    "codigo": "38000",
+    "nombre": "EMISIÓN DE TÍTULOS DE DEUDA"
+  },
+  {
+    "codigo": "38100",
+    "nombre": "Títulos y Valores Internos de Corto Plazo"
+  },
+  {
+    "codigo": "38200",
+    "nombre": "Títulos y Valores Internos de Largo Plazo"
+  },
+  {
+    "codigo": "38300",
+    "nombre": "Títulos y Valores Externos de Corto Plazo"
+  },
+  {
+    "codigo": "38400",
+    "nombre": "Títulos y Valores Externos de Largo Plazo"
+  },
+  {
+    "codigo": "39000",
+    "nombre": "INCREMENTO DE OTROS PASIVOS Y APORTES DE CAPITAL"
+  },
+  {
+    "codigo": "39100",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "39110",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Deudas Comerciales"
+  },
+  {
+    "codigo": "39120",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo con Contratistas"
+  },
+  {
+    "codigo": "39130",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Sueldos y Jornales"
+  },
+  {
+    "codigo": "39140",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Aportes Patronales"
+  },
+  {
+    "codigo": "39150",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Retenciones"
+  },
+  {
+    "codigo": "39160",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Impuestos, Regalías y Tasas"
+  },
+  {
+    "codigo": "39170",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Jubilaciones y Pensiones"
+  },
+  {
+    "codigo": "39180",
+    "nombre": "Incremento de Cuentas por Pagar a Corto Plazo por Intereses"
+  },
+  {
+    "codigo": "39190",
+    "nombre": "Incremento de Otros Pasivos y Otras Cuentas por Pagar a Corto Plazo"
+  },
+  {
+    "codigo": "39200",
+    "nombre": "Incremento de Cuentas por Pagar a Largo Plazo"
+  },
+  {
+    "codigo": "39210",
+    "nombre": "Incremento de Cuentas por Pagar a Largo Plazo por Deudas Comerciales"
+  },
+  {
+    "codigo": "39220",
+    "nombre": "Incremento de Otras Cuentas por Pagar a Largo Plazo"
+  },
+  {
+    "codigo": "39300",
+    "nombre": "Aportes de Capital"
+  },
+  {
+    "codigo": "39310",
+    "nombre": "Del Sector Público"
+  },
+  {
+    "codigo": "39320",
+    "nombre": "Del Sector Privado"
+  }
+]

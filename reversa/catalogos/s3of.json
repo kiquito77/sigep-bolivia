@@ -1,0 +1,782 @@
+[
+ {
+  "OF": "000",
+  "DES": "NC",
+  "SIGLA": "NC"
+ },
+ {
+  "OF": "111",
+  "DES": "Tesoro General de la Nación",
+  "SIGLA": "TGN"
+ },
+ {
+  "OF": "112",
+  "DES": "Tesoro General de la Nación - Papeles",
+  "SIGLA": "TGN-P"
+ },
+ {
+  "OF": "113",
+  "DES": "Tesoro General de la Nación - Coparticipación Tributaria",
+  "SIGLA": "TGN-CT"
+ },
+ {
+  "OF": "114",
+  "DES": "Recursos de Contravalor",
+  "SIGLA": "RECON"
+ },
+ {
+  "OF": "115",
+  "DES": "Donaciones - HIPC II",
+  "SIGLA": "DON-HIPC"
+ },
+ {
+  "OF": "116",
+  "DES": "T.G.N. - Fondo de Compensación Departamental",
+  "SIGLA": "TGN-FCOMP"
+ },
+ {
+  "OF": "117",
+  "DES": "T.G.N.-Impuesto Especial a los Hidrocarburos y sus Derivados",
+  "SIGLA": "TGN-IEHD"
+ },
+ {
+  "OF": "119",
+  "DES": "T.G.N. - Impuesto Directo a los Hidrocarburos",
+  "SIGLA": "TGN - IDH"
+ },
+ {
+  "OF": "120",
+  "DES": "T.G.N. - Impuesto a la Participación en Juegos",
+  "SIGLA": "TGN - IPJ"
+ },
+ {
+  "OF": "121",
+  "DES": "T.G.N. - Patentes Petroleras",
+  "SIGLA": "TGN - PPET"
+ },
+ {
+  "OF": "129",
+  "DES": "Otros Organismos Financiadores del Gobierno",
+  "SIGLA": "OT-GOB"
+ },
+ {
+  "OF": "210",
+  "DES": "Rec.Específ. de Municipalidades e Indígena Originario Campes",
+  "SIGLA": "RECESPMUN"
+ },
+ {
+  "OF": "220",
+  "DES": "Regalías",
+  "SIGLA": "REG"
+ },
+ {
+  "OF": "230",
+  "DES": "Otros Recursos Específicos",
+  "SIGLA": "OTPRO"
+ },
+ {
+  "OF": "311",
+  "DES": "Asociación Latinoamericana de Integración",
+  "SIGLA": "ALADI"
+ },
+ {
+  "OF": "312",
+  "DES": "Centro Interamericano de Agricultura Tropical",
+  "SIGLA": "CIAT"
+ },
+ {
+  "OF": "313",
+  "DES": "Comisión Económica para América Latina",
+  "SIGLA": "CEPAL"
+ },
+ {
+  "OF": "314",
+  "DES": "Corporación Andina de Fomento",
+  "SIGLA": "CAF"
+ },
+ {
+  "OF": "315",
+  "DES": "Fondo Andino de Reserva",
+  "SIGLA": "FAR"
+ },
+ {
+  "OF": "316",
+  "DES": "Instituto Interamericano de Cooperación Agrícola",
+  "SIGLA": "IICA"
+ },
+ {
+  "OF": "317",
+  "DES": "Comunidad Andina de Naciones",
+  "SIGLA": "CAN"
+ },
+ {
+  "OF": "318",
+  "DES": "Organización de los Estados Americanos",
+  "SIGLA": "OEA"
+ },
+ {
+  "OF": "319",
+  "DES": "Organización Latinoamericana de Energía",
+  "SIGLA": "OLADE"
+ },
+ {
+  "OF": "321",
+  "DES": "Organización Panamericana de Salud",
+  "SIGLA": "OPS"
+ },
+ {
+  "OF": "322",
+  "DES": "Sistema Económico Latinoamericano",
+  "SIGLA": "SELA"
+ },
+ {
+  "OF": "323",
+  "DES": "Fondo de Des.de Pueblos Indígenas de América Lat.y El Caribe",
+  "SIGLA": "FPDPI"
+ },
+ {
+  "OF": "341",
+  "DES": "Centro NN.UU. para los Asentamientos Humanos",
+  "SIGLA": "HABITAT"
+ },
+ {
+  "OF": "342",
+  "DES": "Conferencia de las NN.UU. sobre Comercio y Desarrollo",
+  "SIGLA": "UNCTAD"
+ },
+ {
+  "OF": "343",
+  "DES": "Departamento de Cooperación Técnica para el Desarrollo",
+  "SIGLA": "DTCD"
+ },
+ {
+  "OF": "344",
+  "DES": "Fondo de las NN.UU. para la Infancia",
+  "SIGLA": "UNICEF"
+ },
+ {
+  "OF": "345",
+  "DES": "Fondo NN.UU. para la Actividad en Materia de Población",
+  "SIGLA": "UNFPA"
+ },
+ {
+  "OF": "346",
+  "DES": "Fondo Internacional de Desarrollo Agrícola",
+  "SIGLA": "FIDA"
+ },
+ {
+  "OF": "347",
+  "DES": "Inst. de NNUU para Formación Profesional e Investigación",
+  "SIGLA": "UNITAR"
+ },
+ {
+  "OF": "348",
+  "DES": "Organización de Aviación Civil Internacional",
+  "SIGLA": "OACI"
+ },
+ {
+  "OF": "349",
+  "DES": "Organización de las NN.UU. para el Desarrollo Industrial",
+  "SIGLA": "ONUDI"
+ },
+ {
+  "OF": "351",
+  "DES": "Org. de las NN.UU. para la Agricultura y la Alimentación",
+  "SIGLA": "FAO"
+ },
+ {
+  "OF": "352",
+  "DES": "Org. de las NN.UU. para la Educación, Ciencia y la Cultura",
+  "SIGLA": "UNESCO"
+ },
+ {
+  "OF": "353",
+  "DES": "Organización Internacional de Energía Atómica",
+  "SIGLA": "OIEA"
+ },
+ {
+  "OF": "354",
+  "DES": "Organización Internacional del Trabajo",
+  "SIGLA": "OIT"
+ },
+ {
+  "OF": "355",
+  "DES": "Organización Mundial de la Salud",
+  "SIGLA": "OMS"
+ },
+ {
+  "OF": "356",
+  "DES": "Organización Mundial de Meteorología",
+  "SIGLA": "OMM"
+ },
+ {
+  "OF": "357",
+  "DES": "Programa de las NN.UU. para el Desarrollo",
+  "SIGLA": "PNUD"
+ },
+ {
+  "OF": "358",
+  "DES": "Programa de NN.UU. para el Medio Ambiente",
+  "SIGLA": "PNUMA"
+ },
+ {
+  "OF": "359",
+  "DES": "Unión Internacional de Telecomunicaciones",
+  "SIGLA": "UIT"
+ },
+ {
+  "OF": "361",
+  "DES": "Unión Postal Universal",
+  "SIGLA": "UPU"
+ },
+ {
+  "OF": "362",
+  "DES": "Universidad de las Naciones Unidas",
+  "SIGLA": "UNU"
+ },
+ {
+  "OF": "371",
+  "DES": "Unión Europea",
+  "SIGLA": "UE"
+ },
+ {
+  "OF": "372",
+  "DES": "Consejo de Asistencia Mutua Económica",
+  "SIGLA": "CAME"
+ },
+ {
+  "OF": "373",
+  "DES": "Organization of the Petroleum Exporting Countries",
+  "SIGLA": "OPEC"
+ },
+ {
+  "OF": "374",
+  "DES": "Programa Mundial de Alimentos",
+  "SIGLA": "PMA"
+ },
+ {
+  "OF": "375",
+  "DES": "Organización Internacional para las Migraciones",
+  "SIGLA": "OIM"
+ },
+ {
+  "OF": "376",
+  "DES": "Fondo de NNUU para el Desarrollo y la Capitalización",
+  "SIGLA": "FNUDC"
+ },
+ {
+  "OF": "377",
+  "DES": "Prog. de las NNUU para la Fiscalización Internal. de Drogas",
+  "SIGLA": "UNDCP"
+ },
+ {
+  "OF": "378",
+  "DES": "Fondo de las NNUU para el Desarrollo de la Mujer",
+  "SIGLA": "UNIFEM"
+ },
+ {
+  "OF": "379",
+  "DES": "Fondo Rotativo de las NNUU para la Exploración de Rec. Nat.",
+  "SIGLA": "UNRFNRE"
+ },
+ {
+  "OF": "382",
+  "DES": "Fondo de Ayuda al Equipamiento (España)",
+  "SIGLA": "FAE"
+ },
+ {
+  "OF": "383",
+  "DES": "Fondo de Integración y Desarrollo Bolivia-Argentina",
+  "SIGLA": "FIDAB"
+ },
+ {
+  "OF": "384",
+  "DES": "Fondo Nórdico para el Desarrollo",
+  "SIGLA": "NFD"
+ },
+ {
+  "OF": "386",
+  "DES": "Organización Internacional de Maderas Tropicales",
+  "SIGLA": "OIMT"
+ },
+ {
+  "OF": "411",
+  "DES": "Banco Interamericano de Desarrollo",
+  "SIGLA": "BID"
+ },
+ {
+  "OF": "412",
+  "DES": "Banco Internacional de Reconstrucción y Fomento",
+  "SIGLA": "BIRF"
+ },
+ {
+  "OF": "413",
+  "DES": "Fondo Financiero para el Desarrollo de la Cuenca del Plata",
+  "SIGLA": "FONPLATA"
+ },
+ {
+  "OF": "414",
+  "DES": "Fondo Monetario Internacional",
+  "SIGLA": "FMI"
+ },
+ {
+  "OF": "415",
+  "DES": "Agencia Internacional de Fomento (BM)",
+  "SIGLA": "AIF"
+ },
+ {
+  "OF": "416",
+  "DES": "Banco Interamericano de Ahorro - Préstamo",
+  "SIGLA": "BIAPE"
+ },
+ {
+  "OF": "417",
+  "DES": "Banco de Importaciones - Exportaciones Japón",
+  "SIGLA": "EXIMBANK-J"
+ },
+ {
+  "OF": "418",
+  "DES": "Banco de Importaciones - Exportaciones Corea",
+  "SIGLA": "EXIMBANK-K"
+ },
+ {
+  "OF": "419",
+  "DES": "Banco de Importaciones - Exportaciones (EE. UU.)",
+  "SIGLA": "EXIMBANK-U"
+ },
+ {
+  "OF": "420",
+  "DES": "Corporación Financiera Internacional  (BM)",
+  "SIGLA": "CFI"
+ },
+ {
+  "OF": "421",
+  "DES": "Organismo Multilateral de Garantía de Inversiones  (BM)",
+  "SIGLA": "OMGI"
+ },
+ {
+  "OF": "511",
+  "DES": "Agencia Canadiense para el Desarrollo Internacional",
+  "SIGLA": "ACDI"
+ },
+ {
+  "OF": "512",
+  "DES": "Agencia de Cooperación Internacional del Japón",
+  "SIGLA": "JICA"
+ },
+ {
+  "OF": "513",
+  "DES": "Agencia de los EE.UU. para el Desarrollo",
+  "SIGLA": "USAID"
+ },
+ {
+  "OF": "514",
+  "DES": "Asistencia Internacional Danesa para el Desarrollo",
+  "SIGLA": "DANIDA"
+ },
+ {
+  "OF": "515",
+  "DES": "Agencia  Suiza para el  Desarrollo y la Cooperación",
+  "SIGLA": "COSUDE"
+ },
+ {
+  "OF": "516",
+  "DES": "Instituto Alemán de Crédito para la Reconstrucción",
+  "SIGLA": "KFW"
+ },
+ {
+  "OF": "517",
+  "DES": "Agencia de Cooperación Técnica de la República Alemana",
+  "SIGLA": "GTZ"
+ },
+ {
+  "OF": "518",
+  "DES": "Banco de Cooperación Internacional del Japón",
+  "SIGLA": "JBIC"
+ },
+ {
+  "OF": "519",
+  "DES": "Dir.Gen. de Cooperación Internacional /Coop. Técnica Belga",
+  "SIGLA": "DGCI -CTB"
+ },
+ {
+  "OF": "520",
+  "DES": "Agencia  Sueca para el Desarrollo Internacional",
+  "SIGLA": "ASDI"
+ },
+ {
+  "OF": "521",
+  "DES": "Corporación Internacional de Desarrollo",
+  "SIGLA": "CID"
+ },
+ {
+  "OF": "522",
+  "DES": "Fondo Multilateral de Inversiones (BID)",
+  "SIGLA": "FOMIN"
+ },
+ {
+  "OF": "523",
+  "DES": "Agencia Canadiense para el Desarrollo Internacional Regional",
+  "SIGLA": "CIID"
+ },
+ {
+  "OF": "524",
+  "DES": "Fondo Global del Medio Ambiente (BM)",
+  "SIGLA": "GEF"
+ },
+ {
+  "OF": "525",
+  "DES": "Instituto de Cooperación Iberoamericana",
+  "SIGLA": "ICI"
+ },
+ {
+  "OF": "526",
+  "DES": "Fondo Institucional de Desarrollo",
+  "SIGLA": "IDF"
+ },
+ {
+  "OF": "527",
+  "DES": "Agencia Noruega para el Desarrollo Internacional",
+  "SIGLA": "NORAD"
+ },
+ {
+  "OF": "528",
+  "DES": "Agencia Española de Cooperacion Internacional",
+  "SIGLA": "AECI"
+ },
+ {
+  "OF": "529",
+  "DES": "Corporación de Créditos de Mercaderías (EE.UU.)",
+  "SIGLA": "CCC"
+ },
+ {
+  "OF": "530",
+  "DES": "Export Development Corporación (CANADA)",
+  "SIGLA": "EDC"
+ },
+ {
+  "OF": "541",
+  "DES": "República Federal de Alemania",
+  "SIGLA": "ALEM"
+ },
+ {
+  "OF": "542",
+  "DES": "Argentina",
+  "SIGLA": "ARG"
+ },
+ {
+  "OF": "543",
+  "DES": "Bélgica",
+  "SIGLA": "BEL"
+ },
+ {
+  "OF": "544",
+  "DES": "Brasil",
+  "SIGLA": "BRA"
+ },
+ {
+  "OF": "545",
+  "DES": "Canadá",
+  "SIGLA": "CANADA"
+ },
+ {
+  "OF": "546",
+  "DES": "República de Corea",
+  "SIGLA": "COR"
+ },
+ {
+  "OF": "548",
+  "DES": "República Popular China",
+  "SIGLA": "CHINA"
+ },
+ {
+  "OF": "549",
+  "DES": "República China Nacionalista - Taiwán",
+  "SIGLA": "CH-TAI"
+ },
+ {
+  "OF": "551",
+  "DES": "Dinamarca",
+  "SIGLA": "DIN"
+ },
+ {
+  "OF": "552",
+  "DES": "España",
+  "SIGLA": "ESP"
+ },
+ {
+  "OF": "553",
+  "DES": "Estados Unidos de América",
+  "SIGLA": "USA"
+ },
+ {
+  "OF": "554",
+  "DES": "Francia",
+  "SIGLA": "FRA"
+ },
+ {
+  "OF": "555",
+  "DES": "Gran Bretaña",
+  "SIGLA": "G-BR"
+ },
+ {
+  "OF": "556",
+  "DES": "Holanda",
+  "SIGLA": "HOL"
+ },
+ {
+  "OF": "557",
+  "DES": "Hungría",
+  "SIGLA": "HUN"
+ },
+ {
+  "OF": "558",
+  "DES": "Israel",
+  "SIGLA": "ISR"
+ },
+ {
+  "OF": "559",
+  "DES": "Italia",
+  "SIGLA": "ITA"
+ },
+ {
+  "OF": "561",
+  "DES": "Japón",
+  "SIGLA": "JAP"
+ },
+ {
+  "OF": "562",
+  "DES": "Noruega",
+  "SIGLA": "NOR"
+ },
+ {
+  "OF": "563",
+  "DES": "Perú",
+  "SIGLA": "PERU"
+ },
+ {
+  "OF": "564",
+  "DES": "Rumania",
+  "SIGLA": "RUM"
+ },
+ {
+  "OF": "565",
+  "DES": "Suecia",
+  "SIGLA": "SUE"
+ },
+ {
+  "OF": "566",
+  "DES": "Suiza",
+  "SIGLA": "SUI"
+ },
+ {
+  "OF": "567",
+  "DES": "Federación de Rusia",
+  "SIGLA": "RUSIA"
+ },
+ {
+  "OF": "568",
+  "DES": "República Bolivariana de Venezuela",
+  "SIGLA": "VEN"
+ },
+ {
+  "OF": "569",
+  "DES": "Polonia",
+  "SIGLA": "POL"
+ },
+ {
+  "OF": "571",
+  "DES": "Austria",
+  "SIGLA": "AUST"
+ },
+ {
+  "OF": "572",
+  "DES": "Sudáfrica",
+  "SIGLA": "SUDAF"
+ },
+ {
+  "OF": "573",
+  "DES": "Panamá",
+  "SIGLA": "PAN"
+ },
+ {
+  "OF": "574",
+  "DES": "Portugal",
+  "SIGLA": "PORT"
+ },
+ {
+  "OF": "575",
+  "DES": "República de Chile",
+  "SIGLA": "CHI"
+ },
+ {
+  "OF": "576",
+  "DES": "México",
+  "SIGLA": "MEX"
+ },
+ {
+  "OF": "577",
+  "DES": "República Oriental del Uruguay",
+  "SIGLA": "URU"
+ },
+ {
+  "OF": "578",
+  "DES": "Paraguay",
+  "SIGLA": "PARA"
+ },
+ {
+  "OF": "579",
+  "DES": "Filipinas",
+  "SIGLA": "FILIP"
+ },
+ {
+  "OF": "580",
+  "DES": "Colombia",
+  "SIGLA": "COL"
+ },
+ {
+  "OF": "581",
+  "DES": "Ecuador",
+  "SIGLA": "ECU"
+ },
+ {
+  "OF": "582",
+  "DES": "Cuba",
+  "SIGLA": "CU"
+ },
+ {
+  "OF": "639",
+  "DES": "Otros Gobiernos Extranjeros",
+  "SIGLA": "OT-G-EXT"
+ },
+ {
+  "OF": "641",
+  "DES": "Care",
+  "SIGLA": "CARE"
+ },
+ {
+  "OF": "642",
+  "DES": "Caritas",
+  "SIGLA": "CARITAS"
+ },
+ {
+  "OF": "643",
+  "DES": "Plan Internacional",
+  "SIGLA": "PLAN-INTER"
+ },
+ {
+  "OF": "644",
+  "DES": "Fundación Amigos de la Naturaleza",
+  "SIGLA": "FAN"
+ },
+ {
+  "OF": "669",
+  "DES": "Otros Organismos no Gubernamentales",
+  "SIGLA": "OT-NOGUB"
+ },
+ {
+  "OF": "671",
+  "DES": "Bancos Privados",
+  "SIGLA": "BAN-PRI"
+ },
+ {
+  "OF": "672",
+  "DES": "Proveedores",
+  "SIGLA": "PROV"
+ },
+ {
+  "OF": "719",
+  "DES": "Organismos Financiadores Externos no Determinados",
+  "SIGLA": "ND-EXT"
+ },
+ {
+  "OF": "720",
+  "DES": "Basket Funding",
+  "SIGLA": "BASK-FUN"
+ },
+ {
+  "OF": "729",
+  "DES": "Otros Organismos Financiadores Externos",
+  "SIGLA": "OT-EXT"
+ },
+ {
+  "OF": "997",
+  "DES": "Otros Organismos Financiadores Multilaterales",
+  "SIGLA": "OT-MUL"
+ },
+ {
+  "OF": "998",
+  "DES": "Otros Organismos Financiadores Bilaterales",
+  "SIGLA": "OT-BIL"
+ },
+ {
+  "OF": "730",
+  "DES": "Banco de Importaciones - Exportaciones China",
+  "SIGLA": "EXIMBANK-CH"
+ },
+ {
+  "OF": "731",
+  "DES": "Banco de Desarrollo de China",
+  "SIGLA": "BDC"
+ },
+ {
+  "OF": "732",
+  "DES": "Banco Europeo de Inversiones",
+  "SIGLA": "BEI"
+ },
+ {
+  "OF": "733",
+  "DES": "Korea International Cooperation Agency",
+  "SIGLA": "KOICA"
+ },
+ {
+  "OF": "734",
+  "DES": "Prog. de NNUU para la Fiscalización Internacional de Drogas",
+  "SIGLA": "UNODC"
+ },
+ {
+  "OF": "735",
+  "DES": "The OPEC Fund for International Development",
+  "SIGLA": "OFID"
+ },
+ {
+  "OF": "736",
+  "DES": "Fondo Verde para el Clima",
+  "SIGLA": "FVC"
+ },
+ {
+  "OF": "738",
+  "DES": "Agencia Francesa de Desarrollo",
+  "SIGLA": "AFD"
+ },
+ {
+  "OF": "739",
+  "DES": "Agencia Italiana para la Cooperación al Desarrollo",
+  "SIGLA": "AICS"
+ },
+ {
+  "OF": "740",
+  "DES": "Cassa depositi e prestiti S.p.A.",
+  "SIGLA": "CDP"
+ },
+ {
+  "OF": "741",
+  "DES": "Danske Bank",
+  "SIGLA": "DKB"
+ },
+ {
+  "OF": "742",
+  "DES": "Entidad de las Naciones Unidas para la Igualdad de Género y Empoderamiento de las Mujeres",
+  "SIGLA": "ONU MUJERES"
+ },
+ {
+  "OF": "743",
+  "DES": "Physikalisch Technische Bundesanstalt",
+  "SIGLA": "PTB"
+ },
+ {
+  "OF": "",
+  "DES": "",
+  "SIGLA": ""
+ }
+]

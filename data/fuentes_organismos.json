@@ -1,0 +1,38 @@
+[
+  {
+    "codigo": "20/210",
+    "ff": "20",
+    "of": "210",
+    "nombre": "Recursos Específicos / Gobiernos Autónomos Municipales"
+  },
+  {
+    "codigo": "10/111",
+    "ff": "10",
+    "of": "111",
+    "nombre": "Tesoro General de la Nación (TGN)"
+  },
+  {
+    "codigo": "41/119",
+    "ff": "41",
+    "of": "119",
+    "nombre": "Transferencias TGN - Coparticipación Tributaria"
+  },
+  {
+    "codigo": "41/113",
+    "ff": "41",
+    "of": "113",
+    "nombre": "Transferencias TGN - Impuesto Directo a los Hidrocarburos (IDH)"
+  },
+  {
+    "codigo": "20/220",
+    "ff": "20",
+    "of": "220",
+    "nombre": "Regalías y Participaciones"
+  },
+  {
+    "codigo": "42/230",
+    "ff": "42",
+    "of": "230",
+    "nombre": "Transferencias de Recursos Específicos"
+  }
+]
