@@ -3,3 +3,9 @@ __pycache__/
 output_eeff/
 *.log
 cloudflared.exe
+node_modules/
+_rea/
+.playwright-mcp/
+COMPROBANTES_SIGEP_OFICIALES.pdf
+*.docx
+
